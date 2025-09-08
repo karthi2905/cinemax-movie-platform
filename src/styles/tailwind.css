@@ -1,0 +1,140 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@400;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    /* Core System Colors */
+    --color-background: #141414; /* deep-charcoal */
+    --color-foreground: #FFFFFF; /* white */
+    --color-border: rgba(255, 255, 255, 0.1); /* white-10 */
+    --color-input: #1F1F1F; /* elevated-surface */
+    --color-ring: #E50914; /* netflix-red */
+    
+    /* Card Colors */
+    --color-card: #1F1F1F; /* elevated-surface */
+    --color-card-foreground: #FFFFFF; /* white */
+    
+    /* Popover Colors */
+    --color-popover: #1F1F1F; /* elevated-surface */
+    --color-popover-foreground: #FFFFFF; /* white */
+    
+    /* Muted Colors */
+    --color-muted: #564D4A; /* warm-neutral */
+    --color-muted-foreground: #B3B3B3; /* muted-gray */
+    
+    /* Primary Colors */
+    --color-primary: #E50914; /* netflix-red */
+    --color-primary-foreground: #FFFFFF; /* white */
+    
+    /* Secondary Colors */
+    --color-secondary: #564D4A; /* warm-neutral */
+    --color-secondary-foreground: #FFFFFF; /* white */
+    
+    /* Accent Colors */
+    --color-accent: #FFD700; /* golden-yellow */
+    --color-accent-foreground: #141414; /* deep-charcoal */
+    
+    /* Success Colors */
+    --color-success: #46D369; /* fresh-green */
+    --color-success-foreground: #FFFFFF; /* white */
+    
+    /* Warning Colors */
+    --color-warning: #FF9500; /* vibrant-orange */
+    --color-warning-foreground: #FFFFFF; /* white */
+    
+    /* Error/Destructive Colors */
+    --color-error: #FF453A; /* clear-red */
+    --color-error-foreground: #FFFFFF; /* white */
+    --color-destructive: #FF453A; /* clear-red */
+    --color-destructive-foreground: #FFFFFF; /* white */
+  }
+
+  * {
+    @apply border-border;
+  }
+  
+  body {
+    @apply bg-background text-foreground;
+    font-feature-settings: "rlig" 1, "calt" 1;
+  }
+
+  /* Typography Base Styles */
+  h1, h2, h3, h4, h5, h6 {
+    font-family: 'Inter', sans-serif;
+  }
+
+  body, p, span, div {
+    font-family: 'Source Sans Pro', sans-serif;
+  }
+
+  .font-caption {
+    font-family: 'Roboto', sans-serif;
+  }
+
+  .font-mono {
+    font-family: 'JetBrains Mono', monospace;
+  }
+
+  /* Custom Animation Easing */
+  .ease-cinematic {
+    transition-timing-function: cubic-bezier(0.4, 0.0, 0.2, 1);
+  }
+
+  /* Reduced Motion Support */
+  @media (prefers-reduced-motion: reduce) {
+    *,
+    *::before,
+    *::after {
+      animation-duration: 0.01ms !important;
+      animation-iteration-count: 1 !important;
+      transition-duration: 0.01ms !important;
+    }
+  }
+}
+
+@layer components {
+  /* Movie Card Hover Effects */
+  .movie-card-hover {
+    @apply transition-transform duration-200 ease-cinematic hover:scale-[1.02];
+  }
+
+  /* Cinematic Shadows */
+  .shadow-cinematic {
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15), 0 1px 3px rgba(0, 0, 0, 0.3);
+  }
+
+  .shadow-cinematic-intense {
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.25), 0 2px 6px rgba(0, 0, 0, 0.4);
+  }
+
+  /* Shimmer Loading Effect */
+  .shimmer {
+    background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.1), transparent);
+    background-size: 200% 100%;
+    animation: shimmer 1.5s infinite;
+  }
+
+  @keyframes shimmer {
+    0% { background-position: -200% 0; }
+    100% { background-position: 200% 0; }
+  }
+
+  /* Recommendation Confidence Indicators */
+  .confidence-high {
+    @apply border-2 border-primary shadow-[0_0_8px_rgba(229,9,20,0.3)];
+  }
+
+  .confidence-medium {
+    @apply border border-accent shadow-[0_0_4px_rgba(255,215,0,0.2)];
+  }
+
+  .confidence-low {
+    @apply border border-muted;
+  }
+}
