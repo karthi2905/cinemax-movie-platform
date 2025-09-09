@@ -329,8 +329,7 @@ export const getAllMovies = () => allMovies;
 export {
   allMovies,
   genreCollections,
-  popularCollections,
-  getAllMovies
+  popularCollections
 };
 
 export default {
