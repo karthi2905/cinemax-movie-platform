@@ -6,3 +6,9 @@ package-lock.json
 .vscode/
 .idea/
 vite.config.*s.*
+
+# Large data files
+public/data/full-movie-dataset.json
+src/data/movies_backup_large.js
+src/data/*.json
+public/data/*.json
