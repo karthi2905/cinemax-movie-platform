@@ -6,6 +6,7 @@ import MovieInfo from './components/MovieInfo';
 import RatingComponent from './components/RatingComponent';
 import SimilarMovies from './components/SimilarMovies';
 import { getMovieById, getSimilarMovies } from '../../data/movieUtils';
+import AIRecommendationService from '../../utils/AIRecommendationService';
 
 const MovieDetails = () => {
   const { id } = useParams();
@@ -17,6 +18,7 @@ const MovieDetails = () => {
   const [isInWatchlist, setIsInWatchlist] = useState(false);
   const [similarMovies, setSimilarMovies] = useState([]);
   const [loading, setLoading] = useState(true);
+  const [aiService] = useState(() => new AIRecommendationService());
 
 
   useEffect(() => {
@@ -83,6 +85,15 @@ const MovieDetails = () => {
         averageRating: Math.max(0, newAverageRating),
         totalRatings: Math.max(0, newTotalRatings)
       }));
+    }
+    
+    // Update AI recommendation system
+    aiService.updateUserRating(movieId, rating);
+    
+    // Show a subtle notification that recommendations are being updated
+    if (rating > 0) {
+      // You could show a toast notification here
+      console.log('Your movie recommendations are being updated based on this rating!');
     }
   };
 

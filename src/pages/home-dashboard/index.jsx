@@ -6,13 +6,16 @@ import QuickFilters from './components/QuickFilters';
 import MovieCarousel from './components/MovieCarousel';
 import { getTrendingMovies, getTopRatedMovies, getRandomMovies, getPersonalizedRecommendations } from '../../data/movieUtils';
 import { allMovies } from '../../data/movies';
+import AIRecommendationService from '../../utils/AIRecommendationService';
 
 const HomeDashboard = () => {
   const [isLoading, setIsLoading] = useState(true);
   const [featuredMovies, setFeaturedMovies] = useState([]);
   const [trendingMovies, setTrendingMovies] = useState([]);
   const [recommendedMovies, setRecommendedMovies] = useState([]);
+  const [aiRecommendedMovies, setAiRecommendedMovies] = useState([]);
   const [becauseYouWatchedMovies, setBecauseYouWatchedMovies] = useState([]);
+  const [aiService] = useState(() => new AIRecommendationService());
 
   useEffect(() => {
     // Simulate loading time and fetch real data
@@ -61,6 +64,20 @@ const HomeDashboard = () => {
         userRating: Math.random() > 0.7 ? Math.floor(Math.random() * 5) + 1 : 0
       }));
       
+      // Get AI-powered recommendations based on user ratings
+      const aiRecommendations = aiService.getHomePageRecommendations(8).map(movie => ({
+        id: movie.id,
+        title: movie.title,
+        poster: movie.posterImage || movie.poster,
+        rating: movie.rating,
+        year: movie.year,
+        genre: movie.genre,
+        recommendationReason: movie.recommendationReason,
+        confidence: movie.confidence,
+        inWatchlist: Math.random() > 0.5, // Random for demo
+        userRating: 0 // Not rated yet since these are recommendations
+      }));
+      
       // Get "Because You Watched" movies (sci-fi movies since featured has sci-fi)
       const becauseYouWatched = allMovies
         .filter(movie => movie.genres.includes('Sci-Fi') && movie.averageRating >= 7.0)
@@ -80,6 +97,7 @@ const HomeDashboard = () => {
       setFeaturedMovies(topRecent);
       setTrendingMovies(trending);
       setRecommendedMovies(recommended);
+      setAiRecommendedMovies(aiRecommendations);
       setBecauseYouWatchedMovies(becauseYouWatched);
       setIsLoading(false);
     }, 1000);
@@ -145,6 +163,32 @@ const HomeDashboard = () => {
             cardSize="default"
             showQuickActions={true}
           />
+
+          {/* AI Powered Recommendations */}
+          {aiRecommendedMovies.length > 0 && (
+            <div className="space-y-4">
+              <div className="flex items-center space-x-3">
+                <div className="p-2 bg-gradient-to-r from-primary/20 to-accent/20 rounded-lg">
+                  <svg className="w-5 h-5 text-primary" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9.663 17h4.673M12 3v1m6.364 1.636l-.707.707M21 12h-1M4 12H3m3.343-5.657l-.707-.707m2.828 9.9a5 5 0 117.072 0l-.548.547A3.374 3.374 0 0014 18.469V19a2 2 0 11-4 0v-.531c0-.895-.356-1.754-.988-2.386l-.548-.547z" />
+                  </svg>
+                </div>
+                <div>
+                  <h2 className="text-xl font-heading font-semibold text-foreground">
+                    AI Recommendations for You
+                  </h2>
+                  <p className="text-sm text-muted-foreground">
+                    Personalized suggestions based on your ratings and preferences
+                  </p>
+                </div>
+              </div>
+              <MovieCarousel
+                movies={aiRecommendedMovies}
+                cardSize="default"
+                showQuickActions={true}
+              />
+            </div>
+          )}
 
           {/* Recommended for You */}
           <MovieCarousel

@@ -31,7 +31,7 @@ const Header = () => {
   const navigationItems = [
     { label: 'Home', path: '/home-dashboard', icon: 'Home' },
     { label: 'Browse', path: '/movie-browse', icon: 'Film' },
-    { label: 'AI Recs', path: '/recommendations', icon: 'Brain' },
+    { label: 'Ask AI', path: '/ai-chat', icon: 'MessageSquare' },
     { label: 'Search', path: '/search-results', icon: 'Search' },
   ];
 
