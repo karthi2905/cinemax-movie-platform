@@ -322,11 +322,15 @@ export const getPersonalizedRecommendations = (userPreferences, limit = 10) => {
   return recommendations.slice(0, limit);
 };
 
+// Get all movies (alias for allMovies for consistency)
+export const getAllMovies = () => allMovies;
+
 // Export all collections and utilities
 export {
   allMovies,
   genreCollections,
-  popularCollections
+  popularCollections,
+  getAllMovies
 };
 
 export default {

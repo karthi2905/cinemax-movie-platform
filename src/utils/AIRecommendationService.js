@@ -69,9 +69,8 @@ class AIRecommendationService {
       const weight = rating / 5; // Normalize to 0-1
 
       // Genre preferences
-      if (movie.genre) {
-        movie.genre.split(',').forEach(genre => {
-          genre = genre.trim();
+      if (movie.genres && Array.isArray(movie.genres)) {
+        movie.genres.forEach(genre => {
           preferences.genres[genre] = (preferences.genres[genre] || 0) + weight;
         });
       }
@@ -85,15 +84,16 @@ class AIRecommendationService {
       }
 
       // Director preferences
-      if (movie.director) {
-        preferences.directors[movie.director] = (preferences.directors[movie.director] || 0) + weight;
+      if (movie.director && movie.director.name) {
+        preferences.directors[movie.director.name] = (preferences.directors[movie.director.name] || 0) + weight;
       }
 
       // Actor preferences (if available)
-      if (movie.cast) {
-        movie.cast.split(',').forEach(actor => {
-          actor = actor.trim();
-          preferences.actors[actor] = (preferences.actors[actor] || 0) + weight;
+      if (movie.cast && Array.isArray(movie.cast)) {
+        movie.cast.forEach(castMember => {
+          if (castMember.name) {
+            preferences.actors[castMember.name] = (preferences.actors[castMember.name] || 0) + weight;
+          }
         });
       }
     });
@@ -157,9 +157,8 @@ class AIRecommendationService {
     let score = 0;
 
     // Genre matching
-    if (movie.genre) {
-      const movieGenres = movie.genre.split(',').map(g => g.trim());
-      movieGenres.forEach(genre => {
+    if (movie.genres && Array.isArray(movie.genres)) {
+      movie.genres.forEach(genre => {
         if (preferences.genres[genre]) {
           score += preferences.genres[genre] * 3; // Genre is important
         }
@@ -177,18 +176,18 @@ class AIRecommendationService {
     }
 
     // Director matching
-    if (movie.director && preferences.directors[movie.director]) {
-      score += preferences.directors[movie.director] * 2;
+    if (movie.director && movie.director.name && preferences.directors[movie.director.name]) {
+      score += preferences.directors[movie.director.name] * 2;
     }
 
     // Rating bias (prefer higher-rated movies)
-    if (movie.rating) {
-      score += (movie.rating / 10) * 2;
+    if (movie.averageRating) {
+      score += (movie.averageRating / 10) * 2;
     }
 
     // Year bias (slight preference for newer movies)
     const currentYear = new Date().getFullYear();
-    const movieYear = parseInt(movie.year || currentYear);
+    const movieYear = parseInt(movie.releaseYear || currentYear);
     const yearDiff = currentYear - movieYear;
     const yearScore = Math.max(0, (20 - yearDiff) / 20); // Movies older than 20 years get 0 boost
     score += yearScore * 0.5;
@@ -200,23 +199,22 @@ class AIRecommendationService {
     const reasons = [];
 
     // Check genre match
-    if (movie.genre) {
-      const movieGenres = movie.genre.split(',').map(g => g.trim());
+    if (movie.genres && Array.isArray(movie.genres)) {
       const topGenre = Object.entries(preferences.genres)
         .sort((a, b) => b[1] - a[1])[0];
       
-      if (topGenre && movieGenres.includes(topGenre[0])) {
+      if (topGenre && movie.genres.includes(topGenre[0])) {
         reasons.push(`You enjoy ${topGenre[0]} movies`);
       }
     }
 
     // Check director match
-    if (movie.director && preferences.directors[movie.director]) {
-      reasons.push(`You like movies by ${movie.director}`);
+    if (movie.director && movie.director.name && preferences.directors[movie.director.name]) {
+      reasons.push(`You like movies by ${movie.director.name}`);
     }
 
     // Check rating
-    if (movie.rating >= 8.0) {
+    if (movie.averageRating >= 8.0) {
       reasons.push('Highly rated by critics and audiences');
     }
 
@@ -242,8 +240,11 @@ class AIRecommendationService {
         }
 
         // Genre matching
-        if (movie.genre && queryWords.some(word => movie.genre.toLowerCase().includes(word))) {
-          relevanceScore += 8;
+        if (movie.genres && Array.isArray(movie.genres)) {
+          const genreMatch = movie.genres.some(genre => 
+            queryWords.some(word => genre.toLowerCase().includes(word))
+          );
+          if (genreMatch) relevanceScore += 8;
         }
 
         // Synopsis matching
@@ -257,13 +258,16 @@ class AIRecommendationService {
         }
 
         // Director matching
-        if (movie.director && movie.director.toLowerCase().includes(lowerQuery)) {
+        if (movie.director && movie.director.name && movie.director.name.toLowerCase().includes(lowerQuery)) {
           relevanceScore += 7;
         }
 
         // Cast matching
-        if (movie.cast && movie.cast.toLowerCase().includes(lowerQuery)) {
-          relevanceScore += 5;
+        if (movie.cast && Array.isArray(movie.cast)) {
+          const castMatch = movie.cast.some(castMember => 
+            castMember.name && castMember.name.toLowerCase().includes(lowerQuery)
+          );
+          if (castMatch) relevanceScore += 5;
         }
 
         return {
@@ -285,11 +289,12 @@ class AIRecommendationService {
       reasons.push('Title match');
     }
     
-    if (movie.genre && movie.genre.toLowerCase().includes(lowerQuery)) {
+    if (movie.genres && Array.isArray(movie.genres) && 
+        movie.genres.some(genre => genre.toLowerCase().includes(lowerQuery))) {
       reasons.push('Genre match');
     }
     
-    if (movie.director && movie.director.toLowerCase().includes(lowerQuery)) {
+    if (movie.director && movie.director.name && movie.director.name.toLowerCase().includes(lowerQuery)) {
       reasons.push('Director match');
     }
     
@@ -415,16 +420,14 @@ class AIRecommendationService {
         let similarity = 0;
         
         // Genre similarity
-        if (movie.genre && targetMovie.genre) {
-          const movieGenres = movie.genre.split(',').map(g => g.trim());
-          const targetGenres = targetMovie.genre.split(',').map(g => g.trim());
-          const commonGenres = movieGenres.filter(g => targetGenres.includes(g));
+        if (movie.genres && targetMovie.genres && Array.isArray(movie.genres) && Array.isArray(targetMovie.genres)) {
+          const commonGenres = movie.genres.filter(g => targetMovie.genres.includes(g));
           similarity += commonGenres.length * 3;
         }
         
         // Rating similarity
-        if (movie.rating && targetMovie.rating) {
-          const ratingDiff = Math.abs(movie.rating - targetMovie.rating);
+        if (movie.averageRating && targetMovie.averageRating) {
+          const ratingDiff = Math.abs(movie.averageRating - targetMovie.averageRating);
           similarity += Math.max(0, 3 - ratingDiff);
         }
         
@@ -437,10 +440,11 @@ class AIRecommendationService {
   getMoviesByTheme(theme) {
     return this.movies
       .filter(movie => {
-        const searchText = `${movie.title} ${movie.synopsis} ${movie.genre}`.toLowerCase();
+        const genresText = movie.genres ? movie.genres.join(' ') : '';
+        const searchText = `${movie.title} ${movie.synopsis} ${genresText}`.toLowerCase();
         return searchText.includes(theme.toLowerCase());
       })
-      .sort((a, b) => b.rating - a.rating);
+      .sort((a, b) => (b.averageRating || 0) - (a.averageRating || 0));
   }
 
   getMoviesByDirectorStyle(director) {
@@ -453,10 +457,11 @@ class AIRecommendationService {
     
     return this.movies
       .filter(movie => {
-        const searchText = `${movie.synopsis} ${movie.genre}`.toLowerCase();
+        const genresText = movie.genres ? movie.genres.join(' ') : '';
+        const searchText = `${movie.synopsis} ${genresText}`.toLowerCase();
         return keywords.some(keyword => searchText.includes(keyword));
       })
-      .sort((a, b) => b.rating - a.rating);
+      .sort((a, b) => (b.averageRating || 0) - (a.averageRating || 0));
   }
 }
 
