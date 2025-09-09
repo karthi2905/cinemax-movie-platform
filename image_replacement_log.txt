@@ -1,0 +1,2180 @@
+🎬 Movie Image Replacement Started: 2025-09-09T05:30:49.495Z
+[2025-09-09T05:30:49.497Z] 🎬 Starting movie image replacement process...
+[2025-09-09T05:30:49.500Z] 📊 Reading CSV file...
+[2025-09-09T05:30:49.502Z] 📋 Found 496 movies needing image updates
+[2025-09-09T05:30:49.503Z] 📖 Reading movies.js file...
+[2025-09-09T05:30:49.517Z] 📚 Loaded 502 movies from movies.js
+[2025-09-09T05:30:49.518Z] 
+🎯 Processing 1/496: "Before It's Too Late: A Film on Teenage Suicide" (1985)
+[2025-09-09T05:30:49.519Z] 🔍 Searching: "Before It's Too Late: A Film on Teenage Suicide" (1985)
+[2025-09-09T05:30:50.740Z] ❌ Movie not found on TMDB: "Before It's Too Late: A Film on Teenage Suicide"
+[2025-09-09T05:30:50.741Z] 
+🎯 Processing 2/496: "Taken from Me: The Tiffany Rubin Story" (2011)
+[2025-09-09T05:30:50.999Z] 🔍 Searching: "Taken from Me: The Tiffany Rubin Story" (2011)
+[2025-09-09T05:30:51.355Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/4iiA0V2IL1ERvqYb0MwRW1p8wkl.jpg
+[2025-09-09T05:30:51.355Z] ✅ Updated backdrop: https://image.tmdb.org/t/p/w1280/sIEd8lYcWUDEQNoGDqgplCc2Ged.jpg
+[2025-09-09T05:30:51.356Z] 
+🎯 Processing 3/496: "Calm at Sunset" (1996)
+[2025-09-09T05:30:51.614Z] 🔍 Searching: "Calm at Sunset" (1996)
+[2025-09-09T05:30:52.038Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/nVUqtgsdvtJ3tDEDFKp2Sg3i0Eb.jpg
+[2025-09-09T05:30:52.039Z] ✅ Updated backdrop: https://image.tmdb.org/t/p/w1280/n1mQyspbwOZD4A18petm2nEMp1c.jpg
+[2025-09-09T05:30:52.039Z] 
+🎯 Processing 4/496: "Fallen Angel" (1981)
+[2025-09-09T05:30:52.294Z] 🔍 Searching: "Fallen Angel" (1981)
+[2025-09-09T05:30:52.715Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/7lRGRTatWS9C25YqxMvBGDyQsDd.jpg
+[2025-09-09T05:30:52.716Z] ✅ Updated backdrop: https://image.tmdb.org/t/p/w1280/rot0x3aBHNNKHYv1J3uOeWx4yRH.jpg
+[2025-09-09T05:30:52.717Z] 
+🎯 Processing 5/496: "Half Dead" (2005)
+[2025-09-09T05:30:52.973Z] 🔍 Searching: "Half Dead" (2005)
+[2025-09-09T05:30:53.351Z] ❌ Movie not found on TMDB: "Half Dead"
+[2025-09-09T05:30:53.352Z] 
+🎯 Processing 6/496: "Adventures with Wink and Blink: A Day in the Life of a Zoo" (2005)
+[2025-09-09T05:30:53.606Z] 🔍 Searching: "Adventures with Wink and Blink: A Day in the Life of a Zoo" (2005)
+[2025-09-09T05:30:53.977Z] ❌ Movie not found on TMDB: "Adventures with Wink and Blink: A Day in the Life of a Zoo"
+[2025-09-09T05:30:53.978Z] 
+🎯 Processing 7/496: "Cruising Bar 2" (2008)
+[2025-09-09T05:30:54.239Z] 🔍 Searching: "Cruising Bar 2" (2008)
+[2025-09-09T05:30:54.685Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/zm9PZx2qD5ud4JO2tgcaN471M7b.jpg
+[2025-09-09T05:30:54.686Z] ✅ Updated backdrop: https://image.tmdb.org/t/p/w1280/9v76vZxP88PZcCsqJzZmpuwt6oJ.jpg
+[2025-09-09T05:30:54.686Z] 
+🎯 Processing 8/496: "Pauly Shore Is Dead" (2003)
+[2025-09-09T05:30:54.951Z] 🔍 Searching: "Pauly Shore Is Dead" (2003)
+[2025-09-09T05:30:55.258Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/e5o7LfDgSKurbBQTw6lL1pouKDQ.jpg
+[2025-09-09T05:30:55.258Z] ✅ Updated backdrop: https://image.tmdb.org/t/p/w1280/tu5k0Trq86eFP2d7U9XzaHVu2lv.jpg
+[2025-09-09T05:30:55.259Z] 
+🎯 Processing 9/496: "Wake (2012/IX)" (1951)
+[2025-09-09T05:30:55.510Z] 🔍 Searching: "Wake 2012/IX" (1951)
+[2025-09-09T05:30:55.916Z] ❌ Movie not found on TMDB: "Wake (2012/IX)"
+[2025-09-09T05:30:55.916Z] 
+🎯 Processing 10/496: "Juan Marsé habla de Juan Marsé" (2012)
+[2025-09-09T05:30:56.170Z] 🔍 Searching: "Juan Marsé habla de Juan Marsé" (2012)
+[2025-09-09T05:30:56.625Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/yLu5FXXjlgYVipm79HMrxaXoUee.jpg
+[2025-09-09T05:30:56.625Z] ✅ Updated backdrop: https://image.tmdb.org/t/p/w1280/9GLjYBh7XLcGMHMmJ66Wb9oiV29.jpg
+[2025-09-09T05:30:56.626Z] 
+🎯 Processing 11/496: "Magická Praha" (2015)
+[2025-09-09T05:30:56.882Z] 🔍 Searching: "Magická Praha" (2015)
+[2025-09-09T05:30:57.248Z] ❌ Movie not found on TMDB: "Magická Praha"
+[2025-09-09T05:30:57.249Z] 
+🎯 Processing 12/496: "Plan 10: The Vengeance of Bela" (1983)
+[2025-09-09T05:30:57.513Z] 🔍 Searching: "Plan 10: The Vengeance of Bela" (1983)
+[2025-09-09T05:30:57.869Z] ⚠️ No images found for "Plan 10: The Vengeance of Bela"
+[2025-09-09T05:30:57.869Z] 
+🎯 Processing 13/496: "All the Ordinary Angels" (2015)
+[2025-09-09T05:30:58.128Z] 🔍 Searching: "All the Ordinary Angels" (2015)
+[2025-09-09T05:30:58.479Z] ⚠️ No images found for "All the Ordinary Angels"
+[2025-09-09T05:30:58.479Z] 
+🎯 Processing 14/496: "Code of the Prairie" (1944)
+[2025-09-09T05:30:58.733Z] 🔍 Searching: "Code of the Prairie" (1944)
+[2025-09-09T05:30:59.093Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/7lSTOpok58neaGbSENb3jedyRNh.jpg
+[2025-09-09T05:30:59.094Z] ✅ Updated backdrop: https://image.tmdb.org/t/p/w1280/bFmmjHRzBl6POcwiB2uzNToKKRd.jpg
+[2025-09-09T05:30:59.094Z] 
+🎯 Processing 15/496: "Happy Console Gamer: The Movie" (2012)
+[2025-09-09T05:30:59.354Z] 🔍 Searching: "Happy Console Gamer: The Movie" (2012)
+[2025-09-09T05:30:59.717Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/iyHHViR1qFmvz1ZzFQLu9d8dEI7.jpg
+[2025-09-09T05:30:59.717Z] 
+🎯 Processing 16/496: "My Night with Reg" (1997)
+[2025-09-09T05:30:59.972Z] 🔍 Searching: "My Night with Reg" (1997)
+[2025-09-09T05:31:00.397Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/wT96v4OhAqDghPhuPwJHsweEPbY.jpg
+[2025-09-09T05:31:00.398Z] ✅ Updated backdrop: https://image.tmdb.org/t/p/w1280/8TXApBs9UseBLgGsbnEB1QlGhIr.jpg
+[2025-09-09T05:31:00.399Z] 
+🎯 Processing 17/496: "Saddle Mountain Roundup" (1941)
+[2025-09-09T05:31:00.651Z] 🔍 Searching: "Saddle Mountain Roundup" (1941)
+[2025-09-09T05:31:01.012Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/qgZy9MtM2jXGGDFBppSmsK8lLas.jpg
+[2025-09-09T05:31:01.012Z] ✅ Updated backdrop: https://image.tmdb.org/t/p/w1280/dGBEPxC7D6MNS3YcZgPmXIkttiY.jpg
+[2025-09-09T05:31:01.013Z] 
+🎯 Processing 18/496: "Thalai Nagaram" (2006)
+[2025-09-09T05:31:01.270Z] 🔍 Searching: "Thalai Nagaram" (2006)
+[2025-09-09T05:31:01.654Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/1PBrW0LU2WNGJ7xT6NBToDpRQMB.jpg
+[2025-09-09T05:31:01.655Z] 
+🎯 Processing 19/496: "Hotýlek v srdci Evropy" (1994)
+[2025-09-09T05:31:01.918Z] 🔍 Searching: "Hotýlek v srdci Evropy" (1994)
+[2025-09-09T05:31:02.286Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/7sYmDIu8BqzokUz4gznzyC3y4vF.jpg
+[2025-09-09T05:31:02.287Z] 
+🎯 Processing 20/496: "\" (1977)
+[2025-09-09T05:31:02.548Z] 🔍 Searching: "\" (1977)
+[2025-09-09T05:31:02.918Z] ❌ Movie not found on TMDB: "\"
+[2025-09-09T05:31:02.919Z] 
+🎯 Processing 21/496: "\" (2017)
+[2025-09-09T05:31:03.182Z] 🔍 Searching: "\" (2017)
+[2025-09-09T05:31:03.536Z] ❌ Movie not found on TMDB: "\"
+[2025-09-09T05:31:03.537Z] 
+🎯 Processing 22/496: "\" (2013)
+[2025-09-09T05:31:03.797Z] 🔍 Searching: "\" (2013)
+[2025-09-09T05:31:04.154Z] ❌ Movie not found on TMDB: "\"
+[2025-09-09T05:31:04.155Z] 
+🎯 Processing 23/496: "\" (1978)
+[2025-09-09T05:31:04.412Z] 🔍 Searching: "\" (1978)
+[2025-09-09T05:31:04.778Z] ❌ Movie not found on TMDB: "\"
+[2025-09-09T05:31:04.779Z] 
+🎯 Processing 24/496: "From an End to Another: Journey Through Lampedusa's Mosaic" (2012)
+[2025-09-09T05:31:05.044Z] 🔍 Searching: "From an End to Another: Journey Through Lampedusa's Mosaic" (2012)
+[2025-09-09T05:31:05.464Z] ❌ Movie not found on TMDB: "From an End to Another: Journey Through Lampedusa's Mosaic"
+[2025-09-09T05:31:05.465Z] 
+🎯 Processing 25/496: "Bouba" (1987)
+[2025-09-09T05:31:05.725Z] 🔍 Searching: "Bouba" (1987)
+[2025-09-09T05:31:06.123Z] ⚠️ No images found for "Bouba"
+[2025-09-09T05:31:06.124Z] 
+🎯 Processing 26/496: "Andrea Perron: House of Darkness House of Light" (2013)
+[2025-09-09T05:31:06.386Z] 🔍 Searching: "Andrea Perron: House of Darkness House of Light" (2013)
+[2025-09-09T05:31:06.811Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/qdnCoq3yEj5nyX7AMxcAhC4RTLr.jpg
+[2025-09-09T05:31:06.811Z] 
+🎯 Processing 27/496: "Pullahiiri" (1988)
+[2025-09-09T05:31:07.068Z] 🔍 Searching: "Pullahiiri" (1988)
+[2025-09-09T05:31:07.473Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/nXRtYFLJsqLYIatmbf8qGG6YKvr.jpg
+[2025-09-09T05:31:07.473Z] 
+🎯 Processing 28/496: "Bureaukratiets slagmark" (2000)
+[2025-09-09T05:31:07.729Z] 🔍 Searching: "Bureaukratiets slagmark" (2000)
+[2025-09-09T05:31:08.117Z] ❌ Movie not found on TMDB: "Bureaukratiets slagmark"
+[2025-09-09T05:31:08.117Z] 
+🎯 Processing 29/496: "Checkpoint" (1997)
+[2025-09-09T05:31:08.376Z] 🔍 Searching: "Checkpoint" (1997)
+[2025-09-09T05:31:08.769Z] ❌ Movie not found on TMDB: "Checkpoint"
+[2025-09-09T05:31:08.770Z] 
+🎯 Processing 30/496: "Hotel Paradiso" (1966)
+[2025-09-09T05:31:09.027Z] 🔍 Searching: "Hotel Paradiso" (1966)
+[2025-09-09T05:31:09.399Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/fdq2lqPhQV5FJlSR4QsUhOWpyQm.jpg
+[2025-09-09T05:31:09.400Z] ✅ Updated backdrop: https://image.tmdb.org/t/p/w1280/ndh316IVlI21nFFFz8JyIYwJiyA.jpg
+[2025-09-09T05:31:09.400Z] 
+🎯 Processing 31/496: "Krishna Leelai" (2010)
+[2025-09-09T05:31:09.665Z] 🔍 Searching: "Krishna Leelai" (2010)
+[2025-09-09T05:31:10.090Z] ❌ Movie not found on TMDB: "Krishna Leelai"
+[2025-09-09T05:31:10.091Z] 
+🎯 Processing 32/496: "119 Kadurim + Shlosha" (1995)
+[2025-09-09T05:31:10.346Z] 🔍 Searching: "119 Kadurim + Shlosha" (1995)
+[2025-09-09T05:31:10.762Z] ❌ Movie not found on TMDB: "119 Kadurim + Shlosha"
+[2025-09-09T05:31:10.763Z] 
+🎯 Processing 33/496: "\" (2017)
+[2025-09-09T05:31:11.023Z] 🔍 Searching: "\" (2017)
+[2025-09-09T05:31:11.341Z] ❌ Movie not found on TMDB: "\"
+[2025-09-09T05:31:11.341Z] 
+🎯 Processing 34/496: "Broke Hallucinations" (2014)
+[2025-09-09T05:31:11.595Z] 🔍 Searching: "Broke Hallucinations" (2014)
+[2025-09-09T05:31:11.990Z] ❌ Movie not found on TMDB: "Broke Hallucinations"
+[2025-09-09T05:31:11.991Z] 
+🎯 Processing 35/496: "Coming of Age with Elephants (????)" (2003)
+[2025-09-09T05:31:12.246Z] 🔍 Searching: "Coming of Age with Elephants ????" (2003)
+[2025-09-09T05:31:12.607Z] ❌ Movie not found on TMDB: "Coming of Age with Elephants (????)"
+[2025-09-09T05:31:12.608Z] 
+🎯 Processing 36/496: "The Company Men" (2010)
+[2025-09-09T05:31:12.861Z] 🔍 Searching: "The Company Men" (2010)
+[2025-09-09T05:31:13.245Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/tKX6E1nOf4vZN903YbkjQe7x1fv.jpg
+[2025-09-09T05:31:13.246Z] ✅ Updated backdrop: https://image.tmdb.org/t/p/w1280/nGYko5jtVcdk2csEDX66e87aBWJ.jpg
+[2025-09-09T05:31:13.247Z] 
+🎯 Processing 37/496: "I'm Losing You" (1998)
+[2025-09-09T05:31:13.511Z] 🔍 Searching: "I'm Losing You" (1998)
+[2025-09-09T05:31:13.873Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/5tPU4WRaMp03Wta6wH9ukCbTF1m.jpg
+[2025-09-09T05:31:13.874Z] ✅ Updated backdrop: https://image.tmdb.org/t/p/w1280/fhrTVRMauwECxH73hCTkAI7BDkI.jpg
+[2025-09-09T05:31:13.875Z] 
+🎯 Processing 38/496: "The Magic History of Cinema" (2015)
+[2025-09-09T05:31:14.129Z] 🔍 Searching: "The Magic History of Cinema" (2015)
+[2025-09-09T05:31:14.506Z] ❌ Movie not found on TMDB: "The Magic History of Cinema"
+[2025-09-09T05:31:14.506Z] 
+🎯 Processing 39/496: "Thank You Mr. President" (2009)
+[2025-09-09T05:31:14.764Z] 🔍 Searching: "Thank You Mr. President" (2009)
+[2025-09-09T05:31:15.135Z] ❌ Movie not found on TMDB: "Thank You Mr. President"
+[2025-09-09T05:31:15.135Z] 
+🎯 Processing 40/496: "Totalmente Inocentes" (2012)
+[2025-09-09T05:31:15.395Z] 🔍 Searching: "Totalmente Inocentes" (2012)
+[2025-09-09T05:31:15.790Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/Ae7IAVbeIbdE4fyGqTBLdgqqzQe.jpg
+[2025-09-09T05:31:15.791Z] ✅ Updated backdrop: https://image.tmdb.org/t/p/w1280/3e24NegRHVe9BPTmJ3l5OjMAqpw.jpg
+[2025-09-09T05:31:15.791Z] 
+🎯 Processing 41/496: "Mr. Singh/Mrs. Mehta" (2010)
+[2025-09-09T05:31:16.044Z] 🔍 Searching: "Mr. Singh/Mrs. Mehta" (2010)
+[2025-09-09T05:31:16.425Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/rbNSDZwCRA1ZIDw4Kbs6awRSwLq.jpg
+[2025-09-09T05:31:16.425Z] 
+🎯 Processing 42/496: "Lovers N' Strangers" (2018)
+[2025-09-09T05:31:16.676Z] 🔍 Searching: "Lovers N' Strangers" (2018)
+[2025-09-09T05:31:17.123Z] ❌ Movie not found on TMDB: "Lovers N' Strangers"
+[2025-09-09T05:31:17.124Z] 
+🎯 Processing 43/496: "Butt Blazer" (1997)
+[2025-09-09T05:31:17.391Z] 🔍 Searching: "Butt Blazer" (1997)
+[2025-09-09T05:31:17.766Z] ❌ Movie not found on TMDB: "Butt Blazer"
+[2025-09-09T05:31:17.767Z] 
+🎯 Processing 44/496: "Shaping the Future" (2009)
+[2025-09-09T05:31:18.023Z] 🔍 Searching: "Shaping the Future" (2009)
+[2025-09-09T05:31:18.406Z] ❌ Movie not found on TMDB: "Shaping the Future"
+[2025-09-09T05:31:18.407Z] 
+🎯 Processing 45/496: "Me'Ahorei Hasoragim" (1984)
+[2025-09-09T05:31:18.658Z] 🔍 Searching: "Me'Ahorei Hasoragim" (1984)
+[2025-09-09T05:31:19.057Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/k03Q47h3AFCtwCt3hyQ6qaKGnD5.jpg
+[2025-09-09T05:31:19.058Z] ✅ Updated backdrop: https://image.tmdb.org/t/p/w1280/8LQmiyU23xIbbAM4rM5jnMoFzfL.jpg
+[2025-09-09T05:31:19.058Z] 
+🎯 Processing 46/496: "\" (1970)
+[2025-09-09T05:31:19.319Z] 🔍 Searching: "\" (1970)
+[2025-09-09T05:31:19.752Z] ❌ Movie not found on TMDB: "\"
+[2025-09-09T05:31:19.753Z] 
+🎯 Processing 47/496: "Kolekcioniere" (2008)
+[2025-09-09T05:31:20.013Z] 🔍 Searching: "Kolekcioniere" (2008)
+[2025-09-09T05:31:20.398Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/wYN6N0PXLaIy2oKrB6ZwntfYE3J.jpg
+[2025-09-09T05:31:20.399Z] ✅ Updated backdrop: https://image.tmdb.org/t/p/w1280/rtZm8xpFNHCT4N9VL5wlHVuyhjw.jpg
+[2025-09-09T05:31:20.400Z] 
+🎯 Processing 48/496: "\" (2011)
+[2025-09-09T05:31:20.665Z] 🔍 Searching: "\" (2011)
+[2025-09-09T05:31:21.108Z] ❌ Movie not found on TMDB: "\"
+[2025-09-09T05:31:21.109Z] 
+🎯 Processing 49/496: "Klavs - Martina dels" (1970)
+[2025-09-09T05:31:21.361Z] 🔍 Searching: "Klavs - Martina dels" (1970)
+[2025-09-09T05:31:21.718Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/3zFQJ7wwAQTnSaJQkyr57QVdXvA.jpg
+[2025-09-09T05:31:21.719Z] 
+🎯 Processing 50/496: "Everything Will Be" (2014)
+[2025-09-09T05:31:21.979Z] 🔍 Searching: "Everything Will Be" (2014)
+[2025-09-09T05:31:22.358Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/2hDqtArbNHtuXLxsAANl9qidKUW.jpg
+[2025-09-09T05:31:22.359Z] 
+💾 Saving progress... (50/496)
+[2025-09-09T05:31:22.361Z] ✅ Created backup at: D:\projects\cinemax\cinemax\src\data\movies_backup.js
+[2025-09-09T05:31:22.372Z] ✅ Updated movies.js successfully
+[2025-09-09T05:31:22.374Z] ✅ Updated CSV file with progress
+[2025-09-09T05:31:22.374Z] 
+🎯 Processing 51/496: "Jonah and the Great Fish" (2011)
+[2025-09-09T05:31:22.627Z] 🔍 Searching: "Jonah and the Great Fish" (2011)
+[2025-09-09T05:31:23.022Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/yvd8JDJTdswPsdMraHszJCaxT8l.jpg
+[2025-09-09T05:31:23.023Z] 
+🎯 Processing 52/496: "Attention: A Life in Extremes" (2014)
+[2025-09-09T05:31:23.276Z] 🔍 Searching: "Attention: A Life in Extremes" (2014)
+[2025-09-09T05:31:23.643Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/lH8kIYQZHZOWHbRd8546eh2AsnL.jpg
+[2025-09-09T05:31:23.643Z] ✅ Updated backdrop: https://image.tmdb.org/t/p/w1280/PUql6AnGvRRhAtobzPgjRwpmAt.jpg
+[2025-09-09T05:31:23.644Z] 
+🎯 Processing 53/496: "J'aimerais pas crever un dimanche" (1998)
+[2025-09-09T05:31:23.897Z] 🔍 Searching: "J'aimerais pas crever un dimanche" (1998)
+[2025-09-09T05:31:24.288Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/kUQLQYtZL1UiXnDoGAIZU8czEqm.jpg
+[2025-09-09T05:31:24.289Z] ✅ Updated backdrop: https://image.tmdb.org/t/p/w1280/roxQj0ycOv3piY3qJsexU2FnIdT.jpg
+[2025-09-09T05:31:24.290Z] 
+🎯 Processing 54/496: "L'Aventurier Alpin: L'Ultime Aventure: La Nouvelle-Zélande" (2017)
+[2025-09-09T05:31:24.547Z] 🔍 Searching: "L'Aventurier Alpin: L'Ultime Aventure: La Nouvelle-Zélande" (2017)
+[2025-09-09T05:31:24.941Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/7UZT1l2JCyuhJD26VoIAcm6woPn.jpg
+[2025-09-09T05:31:24.942Z] 
+🎯 Processing 55/496: "Sunset in the West" (1950)
+[2025-09-09T05:31:25.207Z] 🔍 Searching: "Sunset in the West" (1950)
+[2025-09-09T05:31:25.574Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/rnxuS5tlwaDgJQpP94KcwcX9RN2.jpg
+[2025-09-09T05:31:25.575Z] ✅ Updated backdrop: https://image.tmdb.org/t/p/w1280/6s8pgF0qbT2l3SSOXo34FQDMMhI.jpg
+[2025-09-09T05:31:25.576Z] 
+🎯 Processing 56/496: "Bahrtalo!" (2008)
+[2025-09-09T05:31:25.839Z] 🔍 Searching: "Bahrtalo!" (2008)
+[2025-09-09T05:31:26.187Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/vQEoY8MlEMSOKXzebUjsd3HuYVd.jpg
+[2025-09-09T05:31:26.187Z] 
+🎯 Processing 57/496: "Tamanna" (1998)
+[2025-09-09T05:31:26.440Z] 🔍 Searching: "Tamanna" (1998)
+[2025-09-09T05:31:26.794Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/2vnnruGc9oFQLlJzUlTNrf49Dcj.jpg
+[2025-09-09T05:31:26.795Z] 
+🎯 Processing 58/496: "How to be More Inclusive" (2017)
+[2025-09-09T05:31:27.046Z] 🔍 Searching: "How to be More Inclusive" (2017)
+[2025-09-09T05:31:27.408Z] ❌ Movie not found on TMDB: "How to be More Inclusive"
+[2025-09-09T05:31:27.409Z] 
+🎯 Processing 59/496: "The Journalist and the Jihadi: The Murder of Daniel Pearl" (2006)
+[2025-09-09T05:31:27.668Z] 🔍 Searching: "The Journalist and the Jihadi: The Murder of Daniel Pearl" (2006)
+[2025-09-09T05:31:28.038Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/wXRaECH61cBMUneLWjGTWTixzPB.jpg
+[2025-09-09T05:31:28.038Z] 
+🎯 Processing 60/496: "Underdogs: Born to Lose" (2009)
+[2025-09-09T05:31:28.303Z] 🔍 Searching: "Underdogs: Born to Lose" (2009)
+[2025-09-09T05:31:28.656Z] ❌ Movie not found on TMDB: "Underdogs: Born to Lose"
+[2025-09-09T05:31:28.657Z] 
+🎯 Processing 61/496: "Spirit Spread High" (2010)
+[2025-09-09T05:31:28.918Z] 🔍 Searching: "Spirit Spread High" (2010)
+[2025-09-09T05:31:29.310Z] ❌ Movie not found on TMDB: "Spirit Spread High"
+[2025-09-09T05:31:29.311Z] 
+🎯 Processing 62/496: "La tela protectora" (2010)
+[2025-09-09T05:31:29.568Z] 🔍 Searching: "La tela protectora" (2010)
+[2025-09-09T05:31:29.966Z] ❌ Movie not found on TMDB: "La tela protectora"
+[2025-09-09T05:31:29.967Z] 
+🎯 Processing 63/496: "Unlikely Family" (2015)
+[2025-09-09T05:31:30.231Z] 🔍 Searching: "Unlikely Family" (2015)
+[2025-09-09T05:31:30.626Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/jziEy1ty3MIaujiEBv8XGGzSw41.jpg
+[2025-09-09T05:31:30.627Z] ✅ Updated backdrop: https://image.tmdb.org/t/p/w1280/duwMRGzOrHfZhHG0jn8cMIMnLlf.jpg
+[2025-09-09T05:31:30.627Z] 
+🎯 Processing 64/496: "No Signal (????)" (1999)
+[2025-09-09T05:31:30.884Z] 🔍 Searching: "No Signal ????" (1999)
+[2025-09-09T05:31:31.258Z] ❌ Movie not found on TMDB: "No Signal (????)"
+[2025-09-09T05:31:31.259Z] 
+🎯 Processing 65/496: "Conspiracy of Terror" (1975)
+[2025-09-09T05:31:31.519Z] 🔍 Searching: "Conspiracy of Terror" (1975)
+[2025-09-09T05:31:31.887Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/yLuZH91VGz4HmBMJakCusZlpLZ5.jpg
+[2025-09-09T05:31:31.888Z] 
+🎯 Processing 66/496: "\" (2014)
+[2025-09-09T05:31:32.140Z] 🔍 Searching: "\" (2014)
+[2025-09-09T05:31:32.526Z] ❌ Movie not found on TMDB: "\"
+[2025-09-09T05:31:32.526Z] 
+🎯 Processing 67/496: "\" (2017)
+[2025-09-09T05:31:32.778Z] 🔍 Searching: "\" (2017)
+[2025-09-09T05:31:33.113Z] ❌ Movie not found on TMDB: "\"
+[2025-09-09T05:31:33.113Z] 
+🎯 Processing 68/496: "Den gode terrorist" (2001)
+[2025-09-09T05:31:33.377Z] 🔍 Searching: "Den gode terrorist" (2001)
+[2025-09-09T05:31:33.928Z] ❌ Movie not found on TMDB: "Den gode terrorist"
+[2025-09-09T05:31:33.929Z] 
+🎯 Processing 69/496: "The Book of Clarence" (2017)
+[2025-09-09T05:31:34.182Z] 🔍 Searching: "The Book of Clarence" (2017)
+[2025-09-09T05:31:34.629Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/nPjISDZSYwQ1s5zc7ljFoyuYV6q.jpg
+[2025-09-09T05:31:34.629Z] 
+🎯 Processing 70/496: "Unraveling the Creative Mind" (2016)
+[2025-09-09T05:31:34.895Z] 🔍 Searching: "Unraveling the Creative Mind" (2016)
+[2025-09-09T05:31:35.428Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/1z6VAiApZLKZawP84U8z6hbyinw.jpg
+[2025-09-09T05:31:35.429Z] ✅ Updated backdrop: https://image.tmdb.org/t/p/w1280/93wE4YFvNMpu6VTE6LZKy8obnf5.jpg
+[2025-09-09T05:31:35.429Z] 
+🎯 Processing 71/496: "Suckerfish" (2013)
+[2025-09-09T05:31:35.687Z] 🔍 Searching: "Suckerfish" (2013)
+[2025-09-09T05:31:36.078Z] ❌ Movie not found on TMDB: "Suckerfish"
+[2025-09-09T05:31:36.079Z] 
+🎯 Processing 72/496: "I maniaci" (1964)
+[2025-09-09T05:31:36.336Z] 🔍 Searching: "I maniaci" (1964)
+[2025-09-09T05:31:36.763Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/2utxtIxdd66p95f2K2SoUpz6YOf.jpg
+[2025-09-09T05:31:36.764Z] ✅ Updated backdrop: https://image.tmdb.org/t/p/w1280/fFRFyeOJ5LZ1K3WMZTCRriue5G0.jpg
+[2025-09-09T05:31:36.764Z] 
+🎯 Processing 73/496: "\" (2011)
+[2025-09-09T05:31:37.018Z] 🔍 Searching: "\" (2011)
+[2025-09-09T05:31:37.341Z] ❌ Movie not found on TMDB: "\"
+[2025-09-09T05:31:37.342Z] 
+🎯 Processing 74/496: "Not Alone" (2017)
+[2025-09-09T05:31:37.607Z] 🔍 Searching: "Not Alone" (2017)
+[2025-09-09T05:31:38.081Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/7viUXof6N33Ec72cOqIeo8RCDHP.jpg
+[2025-09-09T05:31:38.081Z] ✅ Updated backdrop: https://image.tmdb.org/t/p/w1280/gvNnqWMWrVJIZSyusYrkyvnWEyI.jpg
+[2025-09-09T05:31:38.082Z] 
+🎯 Processing 75/496: "Virgin High" (1991)
+[2025-09-09T05:31:38.347Z] 🔍 Searching: "Virgin High" (1991)
+[2025-09-09T05:31:38.801Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/94ihioxOhTVEln4V1htZrN7a6ZU.jpg
+[2025-09-09T05:31:38.801Z] ✅ Updated backdrop: https://image.tmdb.org/t/p/w1280/okYw978ZxvbGupnpx90ZJICJdTS.jpg
+[2025-09-09T05:31:38.802Z] 
+🎯 Processing 76/496: "Social Enterprises of Crete" (2008)
+[2025-09-09T05:31:39.058Z] 🔍 Searching: "Social Enterprises of Crete" (2008)
+[2025-09-09T05:31:39.482Z] ❌ Movie not found on TMDB: "Social Enterprises of Crete"
+[2025-09-09T05:31:39.483Z] 
+🎯 Processing 77/496: "Bijuka" (2012)
+[2025-09-09T05:31:39.737Z] 🔍 Searching: "Bijuka" (2012)
+[2025-09-09T05:31:40.094Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/1YXOk6K50XgZwEABGAbDve35vxc.jpg
+[2025-09-09T05:31:40.094Z] 
+🎯 Processing 78/496: "Just Molly and Me (????)" (2003)
+[2025-09-09T05:31:40.356Z] 🔍 Searching: "Just Molly and Me ????" (2003)
+[2025-09-09T05:31:40.768Z] ❌ Movie not found on TMDB: "Just Molly and Me (????)"
+[2025-09-09T05:31:40.769Z] 
+🎯 Processing 79/496: "\" (2011)
+[2025-09-09T05:31:41.034Z] 🔍 Searching: "\" (2011)
+[2025-09-09T05:31:41.312Z] ❌ Movie not found on TMDB: "\"
+[2025-09-09T05:31:41.313Z] 
+🎯 Processing 80/496: "Anantaram" (1987)
+[2025-09-09T05:31:41.576Z] 🔍 Searching: "Anantaram" (1987)
+[2025-09-09T05:31:41.941Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/npiG9m6Skk3fDyugqOJwhQa95Y6.jpg
+[2025-09-09T05:31:41.941Z] ✅ Updated backdrop: https://image.tmdb.org/t/p/w1280/j3SIFnfOO59Bkmz85LhsR3T6jvq.jpg
+[2025-09-09T05:31:41.942Z] 
+🎯 Processing 81/496: "Chitrokar" (2016)
+[2025-09-09T05:31:42.195Z] 🔍 Searching: "Chitrokar" (2016)
+[2025-09-09T05:31:42.594Z] ⚠️ No images found for "Chitrokar"
+[2025-09-09T05:31:42.595Z] 
+🎯 Processing 82/496: "America After Ferguson" (2014)
+[2025-09-09T05:31:42.860Z] 🔍 Searching: "America After Ferguson" (2014)
+[2025-09-09T05:31:43.291Z] ❌ Movie not found on TMDB: "America After Ferguson"
+[2025-09-09T05:31:43.292Z] 
+🎯 Processing 83/496: "\" (1987)
+[2025-09-09T05:31:43.544Z] 🔍 Searching: "\" (1987)
+[2025-09-09T05:31:43.951Z] ❌ Movie not found on TMDB: "\"
+[2025-09-09T05:31:43.951Z] 
+🎯 Processing 84/496: "Reina y Rey" (1994)
+[2025-09-09T05:31:44.215Z] 🔍 Searching: "Reina y Rey" (1994)
+[2025-09-09T05:31:44.630Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/4zuojoaeTpHDEn08farAkzLRqXp.jpg
+[2025-09-09T05:31:44.631Z] 
+🎯 Processing 85/496: "We are not a nuisance!" (2017)
+[2025-09-09T05:31:44.884Z] 🔍 Searching: "We are not a nuisance!" (2017)
+[2025-09-09T05:31:45.340Z] ❌ Movie not found on TMDB: "We are not a nuisance!"
+[2025-09-09T05:31:45.341Z] 
+🎯 Processing 86/496: "The Making Of" (2007)
+[2025-09-09T05:31:45.593Z] 🔍 Searching: "The Making Of" (2007)
+[2025-09-09T05:31:46.001Z] ⚠️ No images found for "The Making Of"
+[2025-09-09T05:31:46.001Z] 
+🎯 Processing 87/496: "Reason Saves Cleveland with Drew Carey" (2010)
+[2025-09-09T05:31:46.259Z] 🔍 Searching: "Reason Saves Cleveland with Drew Carey" (2010)
+[2025-09-09T05:31:46.671Z] ❌ Movie not found on TMDB: "Reason Saves Cleveland with Drew Carey"
+[2025-09-09T05:31:46.672Z] 
+🎯 Processing 88/496: "Boys Love gekijouban" (2007)
+[2025-09-09T05:31:46.924Z] 🔍 Searching: "Boys Love gekijouban" (2007)
+[2025-09-09T05:31:47.376Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/wo0lZbQjnxLgeT20wkIPi73GiAU.jpg
+[2025-09-09T05:31:47.376Z] 
+🎯 Processing 89/496: "Full Circle" (2014)
+[2025-09-09T05:31:47.636Z] 🔍 Searching: "Full Circle" (2014)
+[2025-09-09T05:31:47.991Z] ❌ Movie not found on TMDB: "Full Circle"
+[2025-09-09T05:31:47.992Z] 
+🎯 Processing 90/496: "Blind Faith" (1991)
+[2025-09-09T05:31:48.256Z] 🔍 Searching: "Blind Faith" (1991)
+[2025-09-09T05:31:48.644Z] ❌ Movie not found on TMDB: "Blind Faith"
+[2025-09-09T05:31:48.644Z] 
+🎯 Processing 91/496: "Indieboyz Trashed" (2009)
+[2025-09-09T05:31:48.905Z] 🔍 Searching: "Indieboyz Trashed" (2009)
+[2025-09-09T05:31:49.349Z] ❌ Movie not found on TMDB: "Indieboyz Trashed"
+[2025-09-09T05:31:49.350Z] 
+🎯 Processing 92/496: "Wild Boar Hunt" (1940)
+[2025-09-09T05:31:49.615Z] 🔍 Searching: "Wild Boar Hunt" (1940)
+[2025-09-09T05:31:49.987Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/6A7Gj84IHVnNsxeULcVj6LlXeLL.jpg
+[2025-09-09T05:31:49.988Z] 
+🎯 Processing 93/496: "Dad's in Heaven with Nixon" (2010)
+[2025-09-09T05:31:50.251Z] 🔍 Searching: "Dad's in Heaven with Nixon" (2010)
+[2025-09-09T05:31:50.741Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/hftresT7emnvuDc8QnnhJKVLDxs.jpg
+[2025-09-09T05:31:50.741Z] 
+🎯 Processing 94/496: "The Newest Pledge" (2012)
+[2025-09-09T05:31:50.994Z] 🔍 Searching: "The Newest Pledge" (2012)
+[2025-09-09T05:31:51.394Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/askI2rBkzq99pYp3AUPDYh2mAvz.jpg
+[2025-09-09T05:31:51.395Z] ✅ Updated backdrop: https://image.tmdb.org/t/p/w1280/6RJ0yITDYO2VFDStAqdrNQHvNXw.jpg
+[2025-09-09T05:31:51.396Z] 
+🎯 Processing 95/496: "3 Strange Days" (1998)
+[2025-09-09T05:31:51.660Z] 🔍 Searching: "3 Strange Days" (1998)
+[2025-09-09T05:31:52.048Z] ❌ Movie not found on TMDB: "3 Strange Days"
+[2025-09-09T05:31:52.049Z] 
+🎯 Processing 96/496: "Yesil Kirmizi" (2016)
+[2025-09-09T05:31:52.313Z] 🔍 Searching: "Yesil Kirmizi" (2016)
+[2025-09-09T05:31:52.761Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/lWHm2cHtWicd0QIZ8oshQqG3cSR.jpg
+[2025-09-09T05:31:52.762Z] 
+🎯 Processing 97/496: "Adrift" (1993)
+[2025-09-09T05:31:53.013Z] 🔍 Searching: "Adrift" (1993)
+[2025-09-09T05:31:53.484Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/lihrtIe61J8KVxV64GS5TyRhm7Z.jpg
+[2025-09-09T05:31:53.484Z] ✅ Updated backdrop: https://image.tmdb.org/t/p/w1280/xHiYufJ9BSD6rDXCgG0iVXrHm4z.jpg
+[2025-09-09T05:31:53.485Z] 
+🎯 Processing 98/496: "Healed by Grace" (2012)
+[2025-09-09T05:31:53.739Z] 🔍 Searching: "Healed by Grace" (2012)
+[2025-09-09T05:31:54.081Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/cSSVqPkegat8joHsXQNB7aeLgPj.jpg
+[2025-09-09T05:31:54.082Z] ✅ Updated backdrop: https://image.tmdb.org/t/p/w1280/9YL2D75qxHZTtDt1kLX86VKPAdu.jpg
+[2025-09-09T05:31:54.082Z] 
+🎯 Processing 99/496: "Sentimental Education" (1998)
+[2025-09-09T05:31:54.346Z] 🔍 Searching: "Sentimental Education" (1998)
+[2025-09-09T05:31:54.715Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/u373bQgBvi01iZn0Jp83TSB6YVV.jpg
+[2025-09-09T05:31:54.715Z] 
+🎯 Processing 100/496: "SilverLake (????)" (1972)
+[2025-09-09T05:31:54.981Z] 🔍 Searching: "SilverLake ????" (1972)
+[2025-09-09T05:31:55.410Z] ❌ Movie not found on TMDB: "SilverLake (????)"
+[2025-09-09T05:31:55.411Z] 
+💾 Saving progress... (100/496)
+[2025-09-09T05:31:55.413Z] ✅ Created backup at: D:\projects\cinemax\cinemax\src\data\movies_backup.js
+[2025-09-09T05:31:55.423Z] ✅ Updated movies.js successfully
+[2025-09-09T05:31:55.425Z] ✅ Updated CSV file with progress
+[2025-09-09T05:31:55.425Z] 
+🎯 Processing 101/496: "Born to Royalty" (2013)
+[2025-09-09T05:31:55.680Z] 🔍 Searching: "Born to Royalty" (2013)
+[2025-09-09T05:31:56.150Z] ⚠️ No images found for "Born to Royalty"
+[2025-09-09T05:31:56.151Z] 
+🎯 Processing 102/496: "Who's Getting Married" (2013)
+[2025-09-09T05:31:56.407Z] 🔍 Searching: "Who's Getting Married" (2013)
+[2025-09-09T05:31:56.791Z] ❌ Movie not found on TMDB: "Who's Getting Married"
+[2025-09-09T05:31:56.792Z] 
+🎯 Processing 103/496: "Too Long a Winter" (1973)
+[2025-09-09T05:31:57.046Z] 🔍 Searching: "Too Long a Winter" (1973)
+[2025-09-09T05:31:57.441Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/xubngPjX7kYozksNvTwqmob4MWT.jpg
+[2025-09-09T05:31:57.441Z] 
+🎯 Processing 104/496: "Little Girl Lost: The Delimar Vera Story" (2008)
+[2025-09-09T05:31:57.695Z] 🔍 Searching: "Little Girl Lost: The Delimar Vera Story" (2008)
+[2025-09-09T05:31:58.144Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/ye1relk04Z3KOoS8T0OBUl0bdEk.jpg
+[2025-09-09T05:31:58.144Z] ✅ Updated backdrop: https://image.tmdb.org/t/p/w1280/y5i0gPKaJDN2spttStCT5OOW2ov.jpg
+[2025-09-09T05:31:58.145Z] 
+🎯 Processing 105/496: "Fool's Paradise" (1921)
+[2025-09-09T05:31:58.406Z] 🔍 Searching: "Fool's Paradise" (1921)
+[2025-09-09T05:31:58.808Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/aERr7tIe44autYq260wBhgIxEhp.jpg
+[2025-09-09T05:31:58.808Z] 
+🎯 Processing 106/496: "Nuk leng klong yao" (2001)
+[2025-09-09T05:31:59.072Z] 🔍 Searching: "Nuk leng klong yao" (2001)
+[2025-09-09T05:31:59.457Z] ❌ Movie not found on TMDB: "Nuk leng klong yao"
+[2025-09-09T05:31:59.458Z] 
+🎯 Processing 107/496: "Make Way for a Lady" (1936)
+[2025-09-09T05:31:59.718Z] 🔍 Searching: "Make Way for a Lady" (1936)
+[2025-09-09T05:32:00.174Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/qRlkZEAUWcSRfIuDpCyukCa8M3h.jpg
+[2025-09-09T05:32:00.175Z] ✅ Updated backdrop: https://image.tmdb.org/t/p/w1280/5VgT7D9gDHeH262iBDyu1bAE1eg.jpg
+[2025-09-09T05:32:00.176Z] 
+🎯 Processing 108/496: "Princes in Exile" (1990)
+[2025-09-09T05:32:00.430Z] 🔍 Searching: "Princes in Exile" (1990)
+[2025-09-09T05:32:00.786Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/6r09dpYggKqrt71S63yvr5gCWzy.jpg
+[2025-09-09T05:32:00.787Z] 
+🎯 Processing 109/496: "The Hospice Care" (2017)
+[2025-09-09T05:32:01.047Z] 🔍 Searching: "The Hospice Care" (2017)
+[2025-09-09T05:32:01.427Z] ❌ Movie not found on TMDB: "The Hospice Care"
+[2025-09-09T05:32:01.428Z] 
+🎯 Processing 110/496: "\" (1977)
+[2025-09-09T05:32:01.682Z] 🔍 Searching: "\" (1977)
+[2025-09-09T05:32:02.030Z] ❌ Movie not found on TMDB: "\"
+[2025-09-09T05:32:02.031Z] 
+🎯 Processing 111/496: "What Goes Around Comes Around" (2012)
+[2025-09-09T05:32:02.286Z] 🔍 Searching: "What Goes Around Comes Around" (2012)
+[2025-09-09T05:32:02.665Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/9t77UqOR3csQYYOhhAF4hy2E5YH.jpg
+[2025-09-09T05:32:02.666Z] ✅ Updated backdrop: https://image.tmdb.org/t/p/w1280/4fFbvIYXkOJJzwANohLLSwJAuEZ.jpg
+[2025-09-09T05:32:02.666Z] 
+🎯 Processing 112/496: "Call of Story" (2002)
+[2025-09-09T05:32:02.919Z] 🔍 Searching: "Call of Story" (2002)
+[2025-09-09T05:32:03.365Z] ❌ Movie not found on TMDB: "Call of Story"
+[2025-09-09T05:32:03.366Z] 
+🎯 Processing 113/496: "Valamit visz a víz" (1944)
+[2025-09-09T05:32:03.620Z] 🔍 Searching: "Valamit visz a víz" (1944)
+[2025-09-09T05:32:04.044Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/qIsVz40neVtErTyJLUKmZZYzEV7.jpg
+[2025-09-09T05:32:04.044Z] 
+🎯 Processing 114/496: "Beyond the Limelight" (2016)
+[2025-09-09T05:32:04.299Z] 🔍 Searching: "Beyond the Limelight" (2016)
+[2025-09-09T05:32:04.686Z] ❌ Movie not found on TMDB: "Beyond the Limelight"
+[2025-09-09T05:32:04.687Z] 
+🎯 Processing 115/496: "Nari" (2017)
+[2025-09-09T05:32:04.948Z] 🔍 Searching: "Nari" (2017)
+[2025-09-09T05:32:05.308Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/vml8e8k6HOPaQXEUr81GvbNeL1a.jpg
+[2025-09-09T05:32:05.308Z] 
+🎯 Processing 116/496: "Boss of Rawhide" (1943)
+[2025-09-09T05:32:05.567Z] 🔍 Searching: "Boss of Rawhide" (1943)
+[2025-09-09T05:32:06.124Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/lF9rTyq8DNfZev6tEzUoFGDGFDN.jpg
+[2025-09-09T05:32:06.125Z] ✅ Updated backdrop: https://image.tmdb.org/t/p/w1280/siouDMOXdbJ3dZvTTMNfNgJnmel.jpg
+[2025-09-09T05:32:06.125Z] 
+🎯 Processing 117/496: "\" (1987)
+[2025-09-09T05:32:06.387Z] 🔍 Searching: "\" (1987)
+[2025-09-09T05:32:06.750Z] ❌ Movie not found on TMDB: "\"
+[2025-09-09T05:32:06.750Z] 
+🎯 Processing 118/496: "Ilawod" (2017)
+[2025-09-09T05:32:07.005Z] 🔍 Searching: "Ilawod" (2017)
+[2025-09-09T05:32:07.423Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/9fwo2gaichxfZzUYDm9BT2Ohocj.jpg
+[2025-09-09T05:32:07.423Z] ✅ Updated backdrop: https://image.tmdb.org/t/p/w1280/ecbFvQzDmj26OJ8BMuTf1CQKsuK.jpg
+[2025-09-09T05:32:07.424Z] 
+🎯 Processing 119/496: "Hamlet" (1969)
+[2025-09-09T05:32:07.687Z] 🔍 Searching: "Hamlet" (1969)
+[2025-09-09T05:32:07.973Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/bfH3D57JkXewQ6rxVtEGJ7vhsFB.jpg
+[2025-09-09T05:32:07.974Z] ✅ Updated backdrop: https://image.tmdb.org/t/p/w1280/sneUvILriz2sqJyl57nzWcGwsw3.jpg
+[2025-09-09T05:32:07.974Z] 
+🎯 Processing 120/496: "Éjjeli zene" (1943)
+[2025-09-09T05:32:08.226Z] 🔍 Searching: "Éjjeli zene" (1943)
+[2025-09-09T05:32:08.630Z] ❌ Movie not found on TMDB: "Éjjeli zene"
+[2025-09-09T05:32:08.631Z] 
+🎯 Processing 121/496: "Standing Silent Nation" (2006)
+[2025-09-09T05:32:08.887Z] 🔍 Searching: "Standing Silent Nation" (2006)
+[2025-09-09T05:32:09.253Z] ❌ Movie not found on TMDB: "Standing Silent Nation"
+[2025-09-09T05:32:09.254Z] 
+🎯 Processing 122/496: "For Your Youth" (2016)
+[2025-09-09T05:32:09.518Z] 🔍 Searching: "For Your Youth" (2016)
+[2025-09-09T05:32:09.910Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/scodNzkIdyUqyHMZ0qAKDsR4TZk.jpg
+[2025-09-09T05:32:09.911Z] 
+🎯 Processing 123/496: "\" (2017)
+[2025-09-09T05:32:10.169Z] 🔍 Searching: "\" (2017)
+[2025-09-09T05:32:10.421Z] ❌ Movie not found on TMDB: "\"
+[2025-09-09T05:32:10.422Z] 
+🎯 Processing 124/496: "Whirlwind" (1951)
+[2025-09-09T05:32:10.675Z] 🔍 Searching: "Whirlwind" (1951)
+[2025-09-09T05:32:11.145Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/1lMuDFUMth1CJtC7oXnonhFH7j2.jpg
+[2025-09-09T05:32:11.146Z] ✅ Updated backdrop: https://image.tmdb.org/t/p/w1280/nT6ByAnD5GV0w8fZkKv4fVfQJJI.jpg
+[2025-09-09T05:32:11.147Z] 
+🎯 Processing 125/496: "Robert Motherwell: Summer of 1971" (1972)
+[2025-09-09T05:32:11.404Z] 🔍 Searching: "Robert Motherwell: Summer of 1971" (1972)
+[2025-09-09T05:32:11.808Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/7hpQTmzIEQm2W4nqMkgFWgx8GDu.jpg
+[2025-09-09T05:32:11.808Z] 
+🎯 Processing 126/496: "\" (2006)
+[2025-09-09T05:32:12.072Z] 🔍 Searching: "\" (2006)
+[2025-09-09T05:32:12.444Z] ❌ Movie not found on TMDB: "\"
+[2025-09-09T05:32:12.445Z] 
+🎯 Processing 127/496: "Antarnaad" (1991)
+[2025-09-09T05:32:12.704Z] 🔍 Searching: "Antarnaad" (1991)
+[2025-09-09T05:32:13.099Z] ⚠️ No images found for "Antarnaad"
+[2025-09-09T05:32:13.100Z] 
+🎯 Processing 128/496: "Makedonski del od pekolot" (1971)
+[2025-09-09T05:32:13.355Z] 🔍 Searching: "Makedonski del od pekolot" (1971)
+[2025-09-09T05:32:13.713Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/rBh6Jxe2tLxQHEHmBmK9VItkI4S.jpg
+[2025-09-09T05:32:13.714Z] 
+🎯 Processing 129/496: "Ju-on" (2002)
+[2025-09-09T05:32:13.974Z] 🔍 Searching: "Ju-on" (2002)
+[2025-09-09T05:32:14.333Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/6q1hlBC6rudc3mHwXsbMBR2xAT6.jpg
+[2025-09-09T05:32:14.333Z] ✅ Updated backdrop: https://image.tmdb.org/t/p/w1280/jNGVlbH2tnZmVqEIvuoxvV78vBY.jpg
+[2025-09-09T05:32:14.334Z] 
+🎯 Processing 130/496: "Kuroshitsuji: Book of the Atlantic" (2017)
+[2025-09-09T05:32:14.594Z] 🔍 Searching: "Kuroshitsuji: Book of the Atlantic" (2017)
+[2025-09-09T05:32:14.948Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/4jU2Bdk1MB2OvP4BBvTJIPQc0BF.jpg
+[2025-09-09T05:32:14.949Z] ✅ Updated backdrop: https://image.tmdb.org/t/p/w1280/clFQR5zwzDrayMVVe7axo0YLFfh.jpg
+[2025-09-09T05:32:14.949Z] 
+🎯 Processing 131/496: "\" (2012)
+[2025-09-09T05:32:15.211Z] 🔍 Searching: "\" (2012)
+[2025-09-09T05:32:15.551Z] ❌ Movie not found on TMDB: "\"
+[2025-09-09T05:32:15.552Z] 
+🎯 Processing 132/496: "Dalanan mal" (1989)
+[2025-09-09T05:32:15.804Z] 🔍 Searching: "Dalanan mal" (1989)
+[2025-09-09T05:32:16.159Z] ❌ Movie not found on TMDB: "Dalanan mal"
+[2025-09-09T05:32:16.159Z] 
+🎯 Processing 133/496: "The Show Boat Story" (1989)
+[2025-09-09T05:32:16.412Z] 🔍 Searching: "The Show Boat Story" (1989)
+[2025-09-09T05:32:16.831Z] ❌ Movie not found on TMDB: "The Show Boat Story"
+[2025-09-09T05:32:16.832Z] 
+🎯 Processing 134/496: "Do No Harm" (2018)
+[2025-09-09T05:32:17.095Z] 🔍 Searching: "Do No Harm" (2018)
+[2025-09-09T05:32:17.437Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/gzDblD2zqLuLTRTc83WmSqNZoNN.jpg
+[2025-09-09T05:32:17.438Z] 
+🎯 Processing 135/496: "I'm Not Fascinating" (1996)
+[2025-09-09T05:32:17.698Z] 🔍 Searching: "I'm Not Fascinating" (1996)
+[2025-09-09T05:32:18.076Z] ⚠️ No images found for "I'm Not Fascinating"
+[2025-09-09T05:32:18.077Z] 
+🎯 Processing 136/496: "Jeff Ross Roasts America" (2012)
+[2025-09-09T05:32:18.331Z] 🔍 Searching: "Jeff Ross Roasts America" (2012)
+[2025-09-09T05:32:18.837Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/2oBslfXkgP7Awtoicczha0MGsCL.jpg
+[2025-09-09T05:32:18.838Z] ✅ Updated backdrop: https://image.tmdb.org/t/p/w1280/8O2hSl2rIbmwCK6qTAeFY9gLoEC.jpg
+[2025-09-09T05:32:18.838Z] 
+🎯 Processing 137/496: "Kuo Hina 'E Hiapo" (2002)
+[2025-09-09T05:32:19.101Z] 🔍 Searching: "Kuo Hina 'E Hiapo" (2002)
+[2025-09-09T05:32:19.452Z] ❌ Movie not found on TMDB: "Kuo Hina 'E Hiapo"
+[2025-09-09T05:32:19.452Z] 
+🎯 Processing 138/496: "Bubba's Chili Parlor" (2008)
+[2025-09-09T05:32:19.705Z] 🔍 Searching: "Bubba's Chili Parlor" (2008)
+[2025-09-09T05:32:20.179Z] ❌ Movie not found on TMDB: "Bubba's Chili Parlor"
+[2025-09-09T05:32:20.180Z] 
+🎯 Processing 139/496: "A Question of Faith" (2017)
+[2025-09-09T05:32:20.433Z] 🔍 Searching: "A Question of Faith" (2017)
+[2025-09-09T05:32:20.823Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/4DwBNsU23aI3A83Mtpj2QDmmXAH.jpg
+[2025-09-09T05:32:20.824Z] ✅ Updated backdrop: https://image.tmdb.org/t/p/w1280/slo4uAwTb08rAq99pgLbV30oZzo.jpg
+[2025-09-09T05:32:20.824Z] 
+🎯 Processing 140/496: "Zutaten für Träume" (2003)
+[2025-09-09T05:32:21.084Z] 🔍 Searching: "Zutaten für Träume" (2003)
+[2025-09-09T05:32:21.471Z] ❌ Movie not found on TMDB: "Zutaten für Träume"
+[2025-09-09T05:32:21.471Z] 
+🎯 Processing 141/496: "\" (2017)
+[2025-09-09T05:32:21.732Z] 🔍 Searching: "\" (2017)
+[2025-09-09T05:32:22.184Z] ❌ Movie not found on TMDB: "\"
+[2025-09-09T05:32:22.185Z] 
+🎯 Processing 142/496: "Yeoguneochul" (1990)
+[2025-09-09T05:32:22.442Z] 🔍 Searching: "Yeoguneochul" (1990)
+[2025-09-09T05:32:22.922Z] ❌ Movie not found on TMDB: "Yeoguneochul"
+[2025-09-09T05:32:22.922Z] 
+🎯 Processing 143/496: "Bare Witness" (2002)
+[2025-09-09T05:32:23.181Z] 🔍 Searching: "Bare Witness" (2002)
+[2025-09-09T05:32:23.621Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/gy7vfuMBCJDZ4UNKXmVdirVwSSi.jpg
+[2025-09-09T05:32:23.622Z] ✅ Updated backdrop: https://image.tmdb.org/t/p/w1280/l5h145ufJyiS0TFPOFaEraLTL0h.jpg
+[2025-09-09T05:32:23.622Z] 
+🎯 Processing 144/496: "Vectorman" (1995)
+[2025-09-09T05:32:23.878Z] 🔍 Searching: "Vectorman" (1995)
+[2025-09-09T05:32:24.292Z] ❌ Movie not found on TMDB: "Vectorman"
+[2025-09-09T05:32:24.293Z] 
+🎯 Processing 145/496: "O lyubvi" (2017)
+[2025-09-09T05:32:24.545Z] 🔍 Searching: "O lyubvi" (2017)
+[2025-09-09T05:32:24.909Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/tFWCzhuH399m6wF8W3P7cXeT7en.jpg
+[2025-09-09T05:32:24.910Z] ✅ Updated backdrop: https://image.tmdb.org/t/p/w1280/xc7wWA83QmTou6IH5fs15dUGg9M.jpg
+[2025-09-09T05:32:24.910Z] 
+🎯 Processing 146/496: "Xiao Jia Hui Jia (Xiao Jia Going Home)" (2007)
+[2025-09-09T05:32:25.163Z] 🔍 Searching: "Xiao Jia Hui Jia Xiao Jia Going Home" (2007)
+[2025-09-09T05:32:25.539Z] ❌ Movie not found on TMDB: "Xiao Jia Hui Jia (Xiao Jia Going Home)"
+[2025-09-09T05:32:25.540Z] 
+🎯 Processing 147/496: "Comrades" (2008)
+[2025-09-09T05:32:25.796Z] 🔍 Searching: "Comrades" (2008)
+[2025-09-09T05:32:26.196Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/kTVRSxjIZpiTbpuxqhliVFF7NzK.jpg
+[2025-09-09T05:32:26.197Z] ✅ Updated backdrop: https://image.tmdb.org/t/p/w1280/nDorITWFqzNSDztjuEpgPXhaEDi.jpg
+[2025-09-09T05:32:26.197Z] 
+🎯 Processing 148/496: "This Too Shall Pass" (2009)
+[2025-09-09T05:32:26.448Z] 🔍 Searching: "This Too Shall Pass" (2009)
+[2025-09-09T05:32:26.861Z] ⚠️ No images found for "This Too Shall Pass"
+[2025-09-09T05:32:26.862Z] 
+🎯 Processing 149/496: "\" (2008)
+[2025-09-09T05:32:27.115Z] 🔍 Searching: "\" (2008)
+[2025-09-09T05:32:27.507Z] ❌ Movie not found on TMDB: "\"
+[2025-09-09T05:32:27.508Z] 
+🎯 Processing 150/496: "Der Tangospieler" (1991)
+[2025-09-09T05:32:27.765Z] 🔍 Searching: "Der Tangospieler" (1991)
+[2025-09-09T05:32:28.154Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/5xlMPbOua53GWcz7ZFZZ7FrVFEj.jpg
+[2025-09-09T05:32:28.154Z] ✅ Updated backdrop: https://image.tmdb.org/t/p/w1280/5i2fxR4EcIOJB5VGQI4QG0EDbLA.jpg
+[2025-09-09T05:32:28.155Z] 
+💾 Saving progress... (150/496)
+[2025-09-09T05:32:28.157Z] ✅ Created backup at: D:\projects\cinemax\cinemax\src\data\movies_backup.js
+[2025-09-09T05:32:28.165Z] ✅ Updated movies.js successfully
+[2025-09-09T05:32:28.167Z] ✅ Updated CSV file with progress
+[2025-09-09T05:32:28.168Z] 
+🎯 Processing 151/496: "\" (2014)
+[2025-09-09T05:32:28.430Z] 🔍 Searching: "\" (2014)
+[2025-09-09T05:32:28.786Z] ❌ Movie not found on TMDB: "\"
+[2025-09-09T05:32:28.786Z] 
+🎯 Processing 152/496: "The Green Man" (1956)
+[2025-09-09T05:32:29.050Z] 🔍 Searching: "The Green Man" (1956)
+[2025-09-09T05:32:29.442Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/5UQISYyjXtqjkKzaDp3c84Whk1w.jpg
+[2025-09-09T05:32:29.443Z] ✅ Updated backdrop: https://image.tmdb.org/t/p/w1280/8yWa53v6CcpkHSgM6nhsi5jRIxb.jpg
+[2025-09-09T05:32:29.444Z] 
+🎯 Processing 153/496: "The Hepatitis C Epidemic: A 15-Year Government Cover-up" (2002)
+[2025-09-09T05:32:29.699Z] 🔍 Searching: "The Hepatitis C Epidemic: A 15-Year Government Cover-up" (2002)
+[2025-09-09T05:32:30.141Z] ❌ Movie not found on TMDB: "The Hepatitis C Epidemic: A 15-Year Government Cover-up"
+[2025-09-09T05:32:30.141Z] 
+🎯 Processing 154/496: "Spaltprozesse" (1987)
+[2025-09-09T05:32:30.399Z] 🔍 Searching: "Spaltprozesse" (1987)
+[2025-09-09T05:32:30.851Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/oAgzczy6X8vKWgpOxxkbioOJOwG.jpg
+[2025-09-09T05:32:30.851Z] 
+🎯 Processing 155/496: "Happy Birthday to Me" (2015)
+[2025-09-09T05:32:31.113Z] 🔍 Searching: "Happy Birthday to Me" (2015)
+[2025-09-09T05:32:31.492Z] ❌ Movie not found on TMDB: "Happy Birthday to Me"
+[2025-09-09T05:32:31.493Z] 
+🎯 Processing 156/496: "The Many Moods of Josh Rouse" (2004)
+[2025-09-09T05:32:31.750Z] 🔍 Searching: "The Many Moods of Josh Rouse" (2004)
+[2025-09-09T05:32:32.199Z] ❌ Movie not found on TMDB: "The Many Moods of Josh Rouse"
+[2025-09-09T05:32:32.199Z] 
+🎯 Processing 157/496: "Tri chlapi na cestách" (1973)
+[2025-09-09T05:32:32.460Z] 🔍 Searching: "Tri chlapi na cestách" (1973)
+[2025-09-09T05:32:32.936Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/oZJ5f03MQ8Z5DvElG0EDWcNEE3O.jpg
+[2025-09-09T05:32:32.937Z] 
+🎯 Processing 158/496: "Ogamdo" (2009)
+[2025-09-09T05:32:33.201Z] 🔍 Searching: "Ogamdo" (2009)
+[2025-09-09T05:32:33.653Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/rPMEejVL6YMlrpnaaFioIIASTOy.jpg
+[2025-09-09T05:32:33.653Z] ✅ Updated backdrop: https://image.tmdb.org/t/p/w1280/cdfPC3LGjHvKnaU4w4KLIVa4h8A.jpg
+[2025-09-09T05:32:33.654Z] 
+🎯 Processing 159/496: "Svindlerne" (2014)
+[2025-09-09T05:32:33.911Z] 🔍 Searching: "Svindlerne" (2014)
+[2025-09-09T05:32:34.326Z] ❌ Movie not found on TMDB: "Svindlerne"
+[2025-09-09T05:32:34.327Z] 
+🎯 Processing 160/496: "Action Lady & Other Tales" (2000)
+[2025-09-09T05:32:34.590Z] 🔍 Searching: "Action Lady & Other Tales" (2000)
+[2025-09-09T05:32:34.962Z] ❌ Movie not found on TMDB: "Action Lady & Other Tales"
+[2025-09-09T05:32:34.962Z] 
+🎯 Processing 161/496: "So This Is Arizona" (1922)
+[2025-09-09T05:32:35.223Z] 🔍 Searching: "So This Is Arizona" (1922)
+[2025-09-09T05:32:35.577Z] ❌ Movie not found on TMDB: "So This Is Arizona"
+[2025-09-09T05:32:35.578Z] 
+🎯 Processing 162/496: "Campus Police" (2016)
+[2025-09-09T05:32:35.838Z] 🔍 Searching: "Campus Police" (2016)
+[2025-09-09T05:32:36.193Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/gEivHrGjNqek84SGJc6rFw6vcZF.jpg
+[2025-09-09T05:32:36.193Z] 
+🎯 Processing 163/496: "In the Beginning: The Epic of the Anunnaki (????)" (2015)
+[2025-09-09T05:32:36.456Z] 🔍 Searching: "In the Beginning: The Epic of the Anunnaki ????" (2015)
+[2025-09-09T05:32:36.945Z] ❌ Movie not found on TMDB: "In the Beginning: The Epic of the Anunnaki (????)"
+[2025-09-09T05:32:36.946Z] 
+🎯 Processing 164/496: "Wakai sensei" (1942)
+[2025-09-09T05:32:37.198Z] 🔍 Searching: "Wakai sensei" (1942)
+[2025-09-09T05:32:37.567Z] ❌ Movie not found on TMDB: "Wakai sensei"
+[2025-09-09T05:32:37.567Z] 
+🎯 Processing 165/496: "\" (2005)
+[2025-09-09T05:32:37.833Z] 🔍 Searching: "\" (2005)
+[2025-09-09T05:32:38.261Z] ❌ Movie not found on TMDB: "\"
+[2025-09-09T05:32:38.262Z] 
+🎯 Processing 166/496: "Rust Golem" (2015)
+[2025-09-09T05:32:38.516Z] 🔍 Searching: "Rust Golem" (2015)
+[2025-09-09T05:32:38.918Z] ❌ Movie not found on TMDB: "Rust Golem"
+[2025-09-09T05:32:38.918Z] 
+🎯 Processing 167/496: "Bionicle: Maze of Shadows" (2005)
+[2025-09-09T05:32:39.180Z] 🔍 Searching: "Bionicle: Maze of Shadows" (2005)
+[2025-09-09T05:32:39.541Z] ❌ Movie not found on TMDB: "Bionicle: Maze of Shadows"
+[2025-09-09T05:32:39.542Z] 
+🎯 Processing 168/496: "\" (1985)
+[2025-09-09T05:32:39.797Z] 🔍 Searching: "\" (1985)
+[2025-09-09T05:32:40.203Z] ❌ Movie not found on TMDB: "\"
+[2025-09-09T05:32:40.204Z] 
+🎯 Processing 169/496: "Love Ain't Suppose to Hurt" (2006)
+[2025-09-09T05:32:40.459Z] 🔍 Searching: "Love Ain't Suppose to Hurt" (2006)
+[2025-09-09T05:32:40.871Z] ❌ Movie not found on TMDB: "Love Ain't Suppose to Hurt"
+[2025-09-09T05:32:40.871Z] 
+🎯 Processing 170/496: "Becoming Family" (2006)
+[2025-09-09T05:32:41.125Z] 🔍 Searching: "Becoming Family" (2006)
+[2025-09-09T05:32:41.505Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/31DIbcWRn3YXPAIw5yyAOSKvIi6.jpg
+[2025-09-09T05:32:41.506Z] 
+🎯 Processing 171/496: "Aviva Ahuvati" (2006)
+[2025-09-09T05:32:41.761Z] 🔍 Searching: "Aviva Ahuvati" (2006)
+[2025-09-09T05:32:42.141Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/eRr4q3JcwGMzPcJdH8iSIsefvvk.jpg
+[2025-09-09T05:32:42.142Z] 
+🎯 Processing 172/496: "Zan-e ziadi" (2005)
+[2025-09-09T05:32:42.395Z] 🔍 Searching: "Zan-e ziadi" (2005)
+[2025-09-09T05:32:42.785Z] ⚠️ No images found for "Zan-e ziadi"
+[2025-09-09T05:32:42.785Z] 
+🎯 Processing 173/496: "In the Blue Ground" (1999)
+[2025-09-09T05:32:43.047Z] 🔍 Searching: "In the Blue Ground" (1999)
+[2025-09-09T05:32:43.486Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/kKe7VkerEKNcS3OUc8VMYy4qInw.jpg
+[2025-09-09T05:32:43.486Z] 
+🎯 Processing 174/496: "\" (2015)
+[2025-09-09T05:32:43.743Z] 🔍 Searching: "\" (2015)
+[2025-09-09T05:32:44.096Z] ❌ Movie not found on TMDB: "\"
+[2025-09-09T05:32:44.097Z] 
+🎯 Processing 175/496: "Classical Baby (I'm Grown Up Now): The Poetry Show" (2008)
+[2025-09-09T05:32:44.361Z] 🔍 Searching: "Classical Baby I'm Grown Up Now: The Poetry Show" (2008)
+[2025-09-09T05:32:44.826Z] ❌ Movie not found on TMDB: "Classical Baby (I'm Grown Up Now): The Poetry Show"
+[2025-09-09T05:32:44.826Z] 
+🎯 Processing 176/496: "Sleepwalking" (2008)
+[2025-09-09T05:32:45.089Z] 🔍 Searching: "Sleepwalking" (2008)
+[2025-09-09T05:32:45.503Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/xMJi8Y8rUmhTp5jYd2dSdBfKvzF.jpg
+[2025-09-09T05:32:45.504Z] ✅ Updated backdrop: https://image.tmdb.org/t/p/w1280/276IKjUIqjmwUPUdiW3WgToOf2Z.jpg
+[2025-09-09T05:32:45.504Z] 
+🎯 Processing 177/496: "Nirjan Sanlap" (1987)
+[2025-09-09T05:32:45.756Z] 🔍 Searching: "Nirjan Sanlap" (1987)
+[2025-09-09T05:32:46.191Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/7RcbTQ7GLqS7cTanNkTYIOWNPMm.jpg
+[2025-09-09T05:32:46.192Z] 
+🎯 Processing 178/496: "So-poong" (2001)
+[2025-09-09T05:32:46.455Z] 🔍 Searching: "So-poong" (2001)
+[2025-09-09T05:32:46.858Z] ❌ Movie not found on TMDB: "So-poong"
+[2025-09-09T05:32:46.859Z] 
+🎯 Processing 179/496: "Accused" (1925)
+[2025-09-09T05:32:47.123Z] 🔍 Searching: "Accused" (1925)
+[2025-09-09T05:32:47.586Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/k2SEo38QuPJ2RUzZGKxlq62dvrH.jpg
+[2025-09-09T05:32:47.587Z] 
+🎯 Processing 180/496: "Chloroformed & Helpless" (2000)
+[2025-09-09T05:32:47.848Z] 🔍 Searching: "Chloroformed & Helpless" (2000)
+[2025-09-09T05:32:48.275Z] ❌ Movie not found on TMDB: "Chloroformed & Helpless"
+[2025-09-09T05:32:48.276Z] 
+🎯 Processing 181/496: "El viejo Rock" (2013)
+[2025-09-09T05:32:48.530Z] 🔍 Searching: "El viejo Rock" (2013)
+[2025-09-09T05:32:49.049Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/aY98PGF6dnFkW7DRrCauZ8RBsXA.jpg
+[2025-09-09T05:32:49.049Z] 
+🎯 Processing 182/496: "Drop Dead Rock" (1996)
+[2025-09-09T05:32:49.303Z] 🔍 Searching: "Drop Dead Rock" (1996)
+[2025-09-09T05:32:49.732Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/pLYLKe5PxB5KfNcd9XZVB1tnmvv.jpg
+[2025-09-09T05:32:49.732Z] 
+🎯 Processing 183/496: "My Brothers and Sisters in the North" (2016)
+[2025-09-09T05:32:49.996Z] 🔍 Searching: "My Brothers and Sisters in the North" (2016)
+[2025-09-09T05:32:50.393Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/aEHfIO5vmTtTyqkUTWivElvz91R.jpg
+[2025-09-09T05:32:50.394Z] ✅ Updated backdrop: https://image.tmdb.org/t/p/w1280/yqBKeEy8NT7uv8okedAXrMfbQ3p.jpg
+[2025-09-09T05:32:50.394Z] 
+🎯 Processing 184/496: "U Game?" (2012)
+[2025-09-09T05:32:50.649Z] 🔍 Searching: "U Game?" (2012)
+[2025-09-09T05:32:51.065Z] ❌ Movie not found on TMDB: "U Game?"
+[2025-09-09T05:32:51.065Z] 
+🎯 Processing 185/496: "The Treasure of Abbot Thomas" (1974)
+[2025-09-09T05:32:51.329Z] 🔍 Searching: "The Treasure of Abbot Thomas" (1974)
+[2025-09-09T05:32:51.712Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/kZhupqYBSdRy2ob1hbjvzAqCNSz.jpg
+[2025-09-09T05:32:51.713Z] ✅ Updated backdrop: https://image.tmdb.org/t/p/w1280/iW5Xrh7szX84pJg7NFCd17wdoa6.jpg
+[2025-09-09T05:32:51.714Z] 
+🎯 Processing 186/496: "\" (2017)
+[2025-09-09T05:32:51.979Z] 🔍 Searching: "\" (2017)
+[2025-09-09T05:32:52.244Z] ❌ Movie not found on TMDB: "\"
+[2025-09-09T05:32:52.245Z] 
+🎯 Processing 187/496: "Carpool Guy" (2005)
+[2025-09-09T05:32:52.505Z] 🔍 Searching: "Carpool Guy" (2005)
+[2025-09-09T05:32:52.874Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/y4o9iHtrpUQ4pmlE1DuB6ERs1qI.jpg
+[2025-09-09T05:32:52.875Z] 
+🎯 Processing 188/496: "Beyond the 'G'" (2017)
+[2025-09-09T05:32:53.127Z] 🔍 Searching: "Beyond the 'G'" (2017)
+[2025-09-09T05:32:53.573Z] ❌ Movie not found on TMDB: "Beyond the 'G'"
+[2025-09-09T05:32:53.573Z] 
+🎯 Processing 189/496: "Cheerleaders" (2008)
+[2025-09-09T05:32:53.837Z] 🔍 Searching: "Cheerleaders" (2008)
+[2025-09-09T05:32:54.190Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/6jWrGBdET2FIcWi2hOPqQbyRhQ.jpg
+[2025-09-09T05:32:54.191Z] ✅ Updated backdrop: https://image.tmdb.org/t/p/w1280/8YMdNZQEZMl8nPlve88M66V3lMZ.jpg
+[2025-09-09T05:32:54.191Z] 
+🎯 Processing 190/496: "Breaking Symmetry" (2001)
+[2025-09-09T05:32:54.455Z] 🔍 Searching: "Breaking Symmetry" (2001)
+[2025-09-09T05:32:54.854Z] ❌ Movie not found on TMDB: "Breaking Symmetry"
+[2025-09-09T05:32:54.855Z] 
+🎯 Processing 191/496: "Catch 69" (1970)
+[2025-09-09T05:32:55.120Z] 🔍 Searching: "Catch 69" (1970)
+[2025-09-09T05:32:55.525Z] ❌ Movie not found on TMDB: "Catch 69"
+[2025-09-09T05:32:55.526Z] 
+🎯 Processing 192/496: "Ciutat morta" (2014)
+[2025-09-09T05:32:55.789Z] 🔍 Searching: "Ciutat morta" (2014)
+[2025-09-09T05:32:56.145Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/hC93bHILhYwYH2FnFeai5VMLkZ.jpg
+[2025-09-09T05:32:56.146Z] 
+🎯 Processing 193/496: "Germans & Jews" (2016)
+[2025-09-09T05:32:56.409Z] 🔍 Searching: "Germans & Jews" (2016)
+[2025-09-09T05:32:56.767Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/rFATNwQKhIdXQZHKR5k8HbmCaSo.jpg
+[2025-09-09T05:32:56.767Z] ✅ Updated backdrop: https://image.tmdb.org/t/p/w1280/bb3mMDOSV8KMW3XD810Ra4naC97.jpg
+[2025-09-09T05:32:56.768Z] 
+🎯 Processing 194/496: "Alone Among Grizzlies" (2010)
+[2025-09-09T05:32:57.023Z] 🔍 Searching: "Alone Among Grizzlies" (2010)
+[2025-09-09T05:32:57.437Z] ❌ Movie not found on TMDB: "Alone Among Grizzlies"
+[2025-09-09T05:32:57.438Z] 
+🎯 Processing 195/496: "An Enemy of the People" (1978)
+[2025-09-09T05:32:57.692Z] 🔍 Searching: "An Enemy of the People" (1978)
+[2025-09-09T05:32:58.074Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/vV11P8ICDO1EE618dubk0KbNBiV.jpg
+[2025-09-09T05:32:58.074Z] ✅ Updated backdrop: https://image.tmdb.org/t/p/w1280/hJuAIIeYHvUOUPlpDZwTwpJFEnb.jpg
+[2025-09-09T05:32:58.075Z] 
+🎯 Processing 196/496: "Teodora" (1921)
+[2025-09-09T05:32:58.337Z] 🔍 Searching: "Teodora" (1921)
+[2025-09-09T05:32:59.035Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/6OWTq7HRF5vZWt04Fo2ZjEKWpav.jpg
+[2025-09-09T05:32:59.035Z] 
+🎯 Processing 197/496: "The Great American Bash" (2005)
+[2025-09-09T05:32:59.299Z] 🔍 Searching: "The Great American Bash" (2005)
+[2025-09-09T05:32:59.791Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/p7IOThvqhLyCkrYNbo2cgXOp5lq.jpg
+[2025-09-09T05:32:59.792Z] 
+🎯 Processing 198/496: "\" (2009)
+[2025-09-09T05:33:00.044Z] 🔍 Searching: "\" (2009)
+[2025-09-09T05:33:00.457Z] ❌ Movie not found on TMDB: "\"
+[2025-09-09T05:33:00.458Z] 
+🎯 Processing 199/496: "La soupe culturelle - La soupe magique" (2005)
+[2025-09-09T05:33:00.710Z] 🔍 Searching: "La soupe culturelle - La soupe magique" (2005)
+[2025-09-09T05:33:01.111Z] ❌ Movie not found on TMDB: "La soupe culturelle - La soupe magique"
+[2025-09-09T05:33:01.112Z] 
+🎯 Processing 200/496: "Bring the Wood (????)" (1968)
+[2025-09-09T05:33:01.376Z] 🔍 Searching: "Bring the Wood ????" (1968)
+[2025-09-09T05:33:01.794Z] ❌ Movie not found on TMDB: "Bring the Wood (????)"
+[2025-09-09T05:33:01.795Z] 
+💾 Saving progress... (200/496)
+[2025-09-09T05:33:01.796Z] ✅ Created backup at: D:\projects\cinemax\cinemax\src\data\movies_backup.js
+[2025-09-09T05:33:01.807Z] ✅ Updated movies.js successfully
+[2025-09-09T05:33:01.809Z] ✅ Updated CSV file with progress
+[2025-09-09T05:33:01.809Z] 
+🎯 Processing 201/496: "Shadow of Thoughts" (2013)
+[2025-09-09T05:33:02.072Z] 🔍 Searching: "Shadow of Thoughts" (2013)
+[2025-09-09T05:33:02.513Z] ❌ Movie not found on TMDB: "Shadow of Thoughts"
+[2025-09-09T05:33:02.514Z] 
+🎯 Processing 202/496: "Barefoot in Ethiopia" (2011)
+[2025-09-09T05:33:02.768Z] 🔍 Searching: "Barefoot in Ethiopia" (2011)
+[2025-09-09T05:33:03.125Z] ❌ Movie not found on TMDB: "Barefoot in Ethiopia"
+[2025-09-09T05:33:03.126Z] 
+🎯 Processing 203/496: "Rotonda" (2006)
+[2025-09-09T05:33:03.383Z] 🔍 Searching: "Rotonda" (2006)
+[2025-09-09T05:33:03.742Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/9XKRbYpSBgaxBmurUIxE4bjNJVn.jpg
+[2025-09-09T05:33:03.743Z] 
+🎯 Processing 204/496: "\" (1978)
+[2025-09-09T05:33:04.003Z] 🔍 Searching: "\" (1978)
+[2025-09-09T05:33:04.292Z] ❌ Movie not found on TMDB: "\"
+[2025-09-09T05:33:04.292Z] 
+🎯 Processing 205/496: "The Last Victory" (2004)
+[2025-09-09T05:33:04.543Z] 🔍 Searching: "The Last Victory" (2004)
+[2025-09-09T05:33:04.960Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/rhaRGbHzWbA5qbrWuS0cQUxxQjA.jpg
+[2025-09-09T05:33:04.960Z] 
+🎯 Processing 206/496: "Nasty Girls" (1983)
+[2025-09-09T05:33:05.225Z] 🔍 Searching: "Nasty Girls" (1983)
+[2025-09-09T05:33:05.612Z] ❌ Movie not found on TMDB: "Nasty Girls"
+[2025-09-09T05:33:05.612Z] 
+🎯 Processing 207/496: "\" (1992)
+[2025-09-09T05:33:05.877Z] 🔍 Searching: "\" (1992)
+[2025-09-09T05:33:06.220Z] ❌ Movie not found on TMDB: "\"
+[2025-09-09T05:33:06.220Z] 
+🎯 Processing 208/496: "Primal" (2018)
+[2025-09-09T05:33:06.480Z] 🔍 Searching: "Primal" (2018)
+[2025-09-09T05:33:06.863Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/8tGM0Vv4X60r6zHDGcpanIrDcdm.jpg
+[2025-09-09T05:33:06.863Z] ✅ Updated backdrop: https://image.tmdb.org/t/p/w1280/eYVVhXpu2jhuxMWOrWDNuPGKvkW.jpg
+[2025-09-09T05:33:06.864Z] 
+🎯 Processing 209/496: "Mesteren" (2017)
+[2025-09-09T05:33:07.127Z] 🔍 Searching: "Mesteren" (2017)
+[2025-09-09T05:33:07.506Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/nFaSIdhYsGARHeIO6Pfn3BRVSXb.jpg
+[2025-09-09T05:33:07.506Z] ✅ Updated backdrop: https://image.tmdb.org/t/p/w1280/zeAheyAMN43NAbVEdnsIGdNUyIB.jpg
+[2025-09-09T05:33:07.507Z] 
+🎯 Processing 210/496: "Voyage of the Lonely Turtle" (2007)
+[2025-09-09T05:33:07.759Z] 🔍 Searching: "Voyage of the Lonely Turtle" (2007)
+[2025-09-09T05:33:08.207Z] ❌ Movie not found on TMDB: "Voyage of the Lonely Turtle"
+[2025-09-09T05:33:08.207Z] 
+🎯 Processing 211/496: "Hood of the Living Dead" (2005)
+[2025-09-09T05:33:08.467Z] 🔍 Searching: "Hood of the Living Dead" (2005)
+[2025-09-09T05:33:08.837Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/dAcvrETlNAkw2ClkAvAPx5o4c6X.jpg
+[2025-09-09T05:33:08.838Z] 
+🎯 Processing 212/496: "Mafeesh gher keda" (2006)
+[2025-09-09T05:33:09.100Z] 🔍 Searching: "Mafeesh gher keda" (2006)
+[2025-09-09T05:33:09.558Z] ❌ Movie not found on TMDB: "Mafeesh gher keda"
+[2025-09-09T05:33:09.559Z] 
+🎯 Processing 213/496: "Brand im Ozean" (1939)
+[2025-09-09T05:33:09.824Z] 🔍 Searching: "Brand im Ozean" (1939)
+[2025-09-09T05:33:10.215Z] ⚠️ No images found for "Brand im Ozean"
+[2025-09-09T05:33:10.216Z] 
+🎯 Processing 214/496: "Bujilan" (2015)
+[2025-09-09T05:33:10.481Z] 🔍 Searching: "Bujilan" (2015)
+[2025-09-09T05:33:10.838Z] ❌ Movie not found on TMDB: "Bujilan"
+[2025-09-09T05:33:10.839Z] 
+🎯 Processing 215/496: "Dragqueens: Motorsportens Okrönta Drottningar" (2016)
+[2025-09-09T05:33:11.094Z] 🔍 Searching: "Dragqueens: Motorsportens Okrönta Drottningar" (2016)
+[2025-09-09T05:33:11.448Z] ❌ Movie not found on TMDB: "Dragqueens: Motorsportens Okrönta Drottningar"
+[2025-09-09T05:33:11.449Z] 
+🎯 Processing 216/496: "Deus e o Diabo em cima da muralha" (2006)
+[2025-09-09T05:33:11.704Z] 🔍 Searching: "Deus e o Diabo em cima da muralha" (2006)
+[2025-09-09T05:33:12.067Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/aMriXbIOQh8DtluMnCFLoDL5OEm.jpg
+[2025-09-09T05:33:12.068Z] ✅ Updated backdrop: https://image.tmdb.org/t/p/w1280/3P5xlxa1NOrcWt4hWDa2vxWZ00A.jpg
+[2025-09-09T05:33:12.068Z] 
+🎯 Processing 217/496: "Picture Cars (????)" (1966)
+[2025-09-09T05:33:12.330Z] 🔍 Searching: "Picture Cars ????" (1966)
+[2025-09-09T05:33:12.706Z] ❌ Movie not found on TMDB: "Picture Cars (????)"
+[2025-09-09T05:33:12.706Z] 
+🎯 Processing 218/496: "Magma: Volcanic Disaster" (2006)
+[2025-09-09T05:33:12.960Z] 🔍 Searching: "Magma: Volcanic Disaster" (2006)
+[2025-09-09T05:33:13.313Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/m5PeIUdO32mqKlfR8VTpCTR7juK.jpg
+[2025-09-09T05:33:13.314Z] ✅ Updated backdrop: https://image.tmdb.org/t/p/w1280/tJi3CRNlNaBc0HQ3qAV6rwUOAVN.jpg
+[2025-09-09T05:33:13.314Z] 
+🎯 Processing 219/496: "Nuclear Zombies from Area 51 (????)" (2008)
+[2025-09-09T05:33:13.575Z] 🔍 Searching: "Nuclear Zombies from Area 51 ????" (2008)
+[2025-09-09T05:33:13.928Z] ❌ Movie not found on TMDB: "Nuclear Zombies from Area 51 (????)"
+[2025-09-09T05:33:13.929Z] 
+🎯 Processing 220/496: "Daniel" (1983)
+[2025-09-09T05:33:14.191Z] 🔍 Searching: "Daniel" (1983)
+[2025-09-09T05:33:14.471Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/5wr27gUyfi0sDdiTPa1jg48MvmK.jpg
+[2025-09-09T05:33:14.471Z] ✅ Updated backdrop: https://image.tmdb.org/t/p/w1280/bs0QTuo2EBqiWTyeGUxke37TAfK.jpg
+[2025-09-09T05:33:14.472Z] 
+🎯 Processing 221/496: "Fluff" (2021)
+[2025-09-09T05:33:14.727Z] 🔍 Searching: "Fluff" (2021)
+[2025-09-09T05:33:15.077Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/e3Gfxh8ecwNReOLxsXzZzRn5ZbQ.jpg
+[2025-09-09T05:33:15.078Z] ✅ Updated backdrop: https://image.tmdb.org/t/p/w1280/dHbJLxc7dWtefKdiXcA5C00C8YY.jpg
+[2025-09-09T05:33:15.078Z] 
+🎯 Processing 222/496: "Saskatchewan River Delta" (2009)
+[2025-09-09T05:33:15.330Z] 🔍 Searching: "Saskatchewan River Delta" (2009)
+[2025-09-09T05:33:15.688Z] ❌ Movie not found on TMDB: "Saskatchewan River Delta"
+[2025-09-09T05:33:15.688Z] 
+🎯 Processing 223/496: "Chile" (la memoria obstinada)
+[2025-09-09T05:33:15.943Z] 🔍 Searching: "Chile" (la memoria obstinada)
+[2025-09-09T05:33:16.320Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/bcCq2SsMsGslqgSk4DAj6eMIEam.jpg
+[2025-09-09T05:33:16.320Z] ✅ Updated backdrop: https://image.tmdb.org/t/p/w1280/rjgZD969RWMA97eLVvzrUZwPc3q.jpg
+[2025-09-09T05:33:16.321Z] 
+🎯 Processing 224/496: "I'm Not Single" (2008)
+[2025-09-09T05:33:16.574Z] 🔍 Searching: "I'm Not Single" (2008)
+[2025-09-09T05:33:16.949Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/7WVWGFy3Zt7e1Ojj7661dDgABAz.jpg
+[2025-09-09T05:33:16.950Z] 
+🎯 Processing 225/496: "\" (2012)
+[2025-09-09T05:33:17.207Z] 🔍 Searching: "\" (2012)
+[2025-09-09T05:33:17.485Z] ❌ Movie not found on TMDB: "\"
+[2025-09-09T05:33:17.486Z] 
+🎯 Processing 226/496: "Apollo 13: Twenty Years Later" (2015)
+[2025-09-09T05:33:17.744Z] 🔍 Searching: "Apollo 13: Twenty Years Later" (2015)
+[2025-09-09T05:33:18.117Z] ❌ Movie not found on TMDB: "Apollo 13: Twenty Years Later"
+[2025-09-09T05:33:18.117Z] 
+🎯 Processing 227/496: "Supravietuitorul" (2008)
+[2025-09-09T05:33:18.376Z] 🔍 Searching: "Supravietuitorul" (2008)
+[2025-09-09T05:33:18.732Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/b68ZGtzkom5067AZQcroPYVil65.jpg
+[2025-09-09T05:33:18.733Z] 
+🎯 Processing 228/496: "\" (2006)
+[2025-09-09T05:33:18.997Z] 🔍 Searching: "\" (2006)
+[2025-09-09T05:33:19.287Z] ❌ Movie not found on TMDB: "\"
+[2025-09-09T05:33:19.287Z] 
+🎯 Processing 229/496: "The Maddening Descent" (2013)
+[2025-09-09T05:33:19.549Z] 🔍 Searching: "The Maddening Descent" (2013)
+[2025-09-09T05:33:19.935Z] ❌ Movie not found on TMDB: "The Maddening Descent"
+[2025-09-09T05:33:19.935Z] 
+🎯 Processing 230/496: "Talk of the Town (????/II)" (2011)
+[2025-09-09T05:33:20.199Z] 🔍 Searching: "Talk of the Town ????/II" (2011)
+[2025-09-09T05:33:20.601Z] ❌ Movie not found on TMDB: "Talk of the Town (????/II)"
+[2025-09-09T05:33:20.601Z] 
+🎯 Processing 231/496: "Jidu hanleng" (1996)
+[2025-09-09T05:33:20.866Z] 🔍 Searching: "Jidu hanleng" (1996)
+[2025-09-09T05:33:21.264Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/bilqIQBTl7yaamKvaxwaDeaOsRq.jpg
+[2025-09-09T05:33:21.265Z] ✅ Updated backdrop: https://image.tmdb.org/t/p/w1280/dDEsf1TJggooJ9vW844sgHnVcdq.jpg
+[2025-09-09T05:33:21.266Z] 
+🎯 Processing 232/496: "Between the Sheets" (2003)
+[2025-09-09T05:33:21.518Z] 🔍 Searching: "Between the Sheets" (2003)
+[2025-09-09T05:33:21.912Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/mKY2gAjy0NMvvgJDrVBHiy9Ua3q.jpg
+[2025-09-09T05:33:21.913Z] 
+🎯 Processing 233/496: "\" (1963)
+[2025-09-09T05:33:22.170Z] 🔍 Searching: "\" (1963)
+[2025-09-09T05:33:22.534Z] ❌ Movie not found on TMDB: "\"
+[2025-09-09T05:33:22.534Z] 
+🎯 Processing 234/496: "Run the North" (2017)
+[2025-09-09T05:33:22.787Z] 🔍 Searching: "Run the North" (2017)
+[2025-09-09T05:33:23.180Z] ❌ Movie not found on TMDB: "Run the North"
+[2025-09-09T05:33:23.181Z] 
+🎯 Processing 235/496: "Cheoljonggwa boknyeo" (1963)
+[2025-09-09T05:33:23.438Z] 🔍 Searching: "Cheoljonggwa boknyeo" (1963)
+[2025-09-09T05:33:23.795Z] ❌ Movie not found on TMDB: "Cheoljonggwa boknyeo"
+[2025-09-09T05:33:23.797Z] 
+🎯 Processing 236/496: "L'annonce" (2000)
+[2025-09-09T05:33:24.053Z] 🔍 Searching: "L'annonce" (2000)
+[2025-09-09T05:33:24.407Z] ❌ Movie not found on TMDB: "L'annonce"
+[2025-09-09T05:33:24.407Z] 
+🎯 Processing 237/496: "Wet Job" (1981)
+[2025-09-09T05:33:24.669Z] 🔍 Searching: "Wet Job" (1981)
+[2025-09-09T05:33:25.022Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/hnQUtojwuKPQqAXdB2l5uazroc.jpg
+[2025-09-09T05:33:25.023Z] ✅ Updated backdrop: https://image.tmdb.org/t/p/w1280/bCyYreUZdIMAdHCAb0qfbZ2zLL7.jpg
+[2025-09-09T05:33:25.024Z] 
+🎯 Processing 238/496: "Jinu yo saraba Kamuroba mura e" (2015)
+[2025-09-09T05:33:25.284Z] 🔍 Searching: "Jinu yo saraba Kamuroba mura e" (2015)
+[2025-09-09T05:33:25.648Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/oHmukFeoJe4tSt1e5bHjnby7po6.jpg
+[2025-09-09T05:33:25.649Z] ✅ Updated backdrop: https://image.tmdb.org/t/p/w1280/jWXlxgDrWfm4QO8hw9PFNN2uldS.jpg
+[2025-09-09T05:33:25.649Z] 
+🎯 Processing 239/496: "Runaway" (1979)
+[2025-09-09T05:33:25.901Z] 🔍 Searching: "Runaway" (1979)
+[2025-09-09T05:33:26.321Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/uAdploJXz7MUM3aKfWdnGBvDOqM.jpg
+[2025-09-09T05:33:26.322Z] 
+🎯 Processing 240/496: "The Blue Bonnet" (1919)
+[2025-09-09T05:33:26.582Z] 🔍 Searching: "The Blue Bonnet" (1919)
+[2025-09-09T05:33:26.949Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/4UnLueeq8yPKjOZan3rgGus7EBk.jpg
+[2025-09-09T05:33:26.950Z] 
+🎯 Processing 241/496: "Sono fotogenico" (1980)
+[2025-09-09T05:33:27.214Z] 🔍 Searching: "Sono fotogenico" (1980)
+[2025-09-09T05:33:27.615Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/UnM9qltCcjXD6tq0B6BMuNKTfJ.jpg
+[2025-09-09T05:33:27.616Z] ✅ Updated backdrop: https://image.tmdb.org/t/p/w1280/66a0CELGdt4CLhWYJG4JEraAJRM.jpg
+[2025-09-09T05:33:27.617Z] 
+🎯 Processing 242/496: "Finding Bespoke: The Violin Maker" (2014)
+[2025-09-09T05:33:27.883Z] 🔍 Searching: "Finding Bespoke: The Violin Maker" (2014)
+[2025-09-09T05:33:28.320Z] ❌ Movie not found on TMDB: "Finding Bespoke: The Violin Maker"
+[2025-09-09T05:33:28.320Z] 
+🎯 Processing 243/496: "Cinematic Titanic: Danger on Tiki Island" (2010)
+[2025-09-09T05:33:28.580Z] 🔍 Searching: "Cinematic Titanic: Danger on Tiki Island" (2010)
+[2025-09-09T05:33:28.983Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/spPawDvOOoCcg5uQl96rg7qfdVT.jpg
+[2025-09-09T05:33:28.983Z] 
+🎯 Processing 244/496: "Five Minutes to Love" (1963)
+[2025-09-09T05:33:29.242Z] 🔍 Searching: "Five Minutes to Love" (1963)
+[2025-09-09T05:33:29.623Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/ne2AZrBEdB3KTEkBQ8ixNF6RpAQ.jpg
+[2025-09-09T05:33:29.624Z] ✅ Updated backdrop: https://image.tmdb.org/t/p/w1280/qeD8UeiHgkiJ3ZRQLlqKYA4j0Su.jpg
+[2025-09-09T05:33:29.624Z] 
+🎯 Processing 245/496: "Initiation: Silent Night" (Deadly Night 4)
+[2025-09-09T05:33:29.890Z] 🔍 Searching: "Initiation: Silent Night" (Deadly Night 4)
+[2025-09-09T05:33:30.338Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/1Oc6wObXYHThbBGsozL7WuilqOS.jpg
+[2025-09-09T05:33:30.339Z] ✅ Updated backdrop: https://image.tmdb.org/t/p/w1280/oMAdNLArnHKYM61SDmWJBcKci8f.jpg
+[2025-09-09T05:33:30.339Z] 
+🎯 Processing 246/496: "Noc" (2006)
+[2025-09-09T05:33:30.600Z] 🔍 Searching: "Noc" (2006)
+[2025-09-09T05:33:31.077Z] ⚠️ No images found for "Noc"
+[2025-09-09T05:33:31.077Z] 
+🎯 Processing 247/496: "Yurusenai" (aitai)
+[2025-09-09T05:33:31.339Z] 🔍 Searching: "Yurusenai" (aitai)
+[2025-09-09T05:33:31.724Z] ❌ Movie not found on TMDB: "Yurusenai"
+[2025-09-09T05:33:31.724Z] 
+🎯 Processing 248/496: "They Didn't Make It" (2007)
+[2025-09-09T05:33:31.977Z] 🔍 Searching: "They Didn't Make It" (2007)
+[2025-09-09T05:33:32.347Z] ❌ Movie not found on TMDB: "They Didn't Make It"
+[2025-09-09T05:33:32.348Z] 
+🎯 Processing 249/496: "Amoeba" (2016)
+[2025-09-09T05:33:32.599Z] 🔍 Searching: "Amoeba" (2016)
+[2025-09-09T05:33:32.994Z] ⚠️ No images found for "Amoeba"
+[2025-09-09T05:33:32.995Z] 
+🎯 Processing 250/496: "Mi Sangre Enarbolada (A Family Love Story)" (2016)
+[2025-09-09T05:33:33.246Z] 🔍 Searching: "Mi Sangre Enarbolada A Family Love Story" (2016)
+[2025-09-09T05:33:33.608Z] ❌ Movie not found on TMDB: "Mi Sangre Enarbolada (A Family Love Story)"
+[2025-09-09T05:33:33.609Z] 
+💾 Saving progress... (250/496)
+[2025-09-09T05:33:33.611Z] ✅ Created backup at: D:\projects\cinemax\cinemax\src\data\movies_backup.js
+[2025-09-09T05:33:33.622Z] ✅ Updated movies.js successfully
+[2025-09-09T05:33:33.624Z] ✅ Updated CSV file with progress
+[2025-09-09T05:33:33.624Z] 
+🎯 Processing 251/496: "Solace: Wisdom of the Dying" (2008)
+[2025-09-09T05:33:33.881Z] 🔍 Searching: "Solace: Wisdom of the Dying" (2008)
+[2025-09-09T05:33:34.253Z] ❌ Movie not found on TMDB: "Solace: Wisdom of the Dying"
+[2025-09-09T05:33:34.253Z] 
+🎯 Processing 252/496: "\" (1964)
+[2025-09-09T05:33:34.515Z] 🔍 Searching: "\" (1964)
+[2025-09-09T05:33:34.952Z] ❌ Movie not found on TMDB: "\"
+[2025-09-09T05:33:34.953Z] 
+🎯 Processing 253/496: "Why Girls Leave Home" (1945)
+[2025-09-09T05:33:35.212Z] 🔍 Searching: "Why Girls Leave Home" (1945)
+[2025-09-09T05:33:36.086Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/8RmEAHbDDgjPPsYfJrwqkDRpBFI.jpg
+[2025-09-09T05:33:36.086Z] ✅ Updated backdrop: https://image.tmdb.org/t/p/w1280/yZmPcOpEGajWWCepA4zwj663flV.jpg
+[2025-09-09T05:33:36.087Z] 
+🎯 Processing 254/496: "Yaseong nyeo" (1969)
+[2025-09-09T05:33:36.339Z] 🔍 Searching: "Yaseong nyeo" (1969)
+[2025-09-09T05:33:36.715Z] ❌ Movie not found on TMDB: "Yaseong nyeo"
+[2025-09-09T05:33:36.716Z] 
+🎯 Processing 255/496: "Myself" (1917)
+[2025-09-09T05:33:36.971Z] 🔍 Searching: "Myself" (1917)
+[2025-09-09T05:33:37.332Z] ❌ Movie not found on TMDB: "Myself"
+[2025-09-09T05:33:37.333Z] 
+🎯 Processing 256/496: "The Silence" (2012)
+[2025-09-09T05:33:37.585Z] 🔍 Searching: "The Silence" (2012)
+[2025-09-09T05:33:37.988Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/a4N0FxApjymOPimPXLmO0YRKQQy.jpg
+[2025-09-09T05:33:37.989Z] ✅ Updated backdrop: https://image.tmdb.org/t/p/w1280/5teHB7wRFJdZ5fDyofWhBIQPoC8.jpg
+[2025-09-09T05:33:37.989Z] 
+🎯 Processing 257/496: "Sugar Coated" (2015)
+[2025-09-09T05:33:38.243Z] 🔍 Searching: "Sugar Coated" (2015)
+[2025-09-09T05:33:38.639Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/2pDXBqfP45hwHIT8CmYXZLJpNah.jpg
+[2025-09-09T05:33:38.640Z] ✅ Updated backdrop: https://image.tmdb.org/t/p/w1280/u7oZy9Ef12reZVRJam08iHMb8uA.jpg
+[2025-09-09T05:33:38.640Z] 
+🎯 Processing 258/496: "PWS: Vendetta" (2010)
+[2025-09-09T05:33:38.901Z] 🔍 Searching: "PWS: Vendetta" (2010)
+[2025-09-09T05:33:39.802Z] ❌ Movie not found on TMDB: "PWS: Vendetta"
+[2025-09-09T05:33:39.803Z] 
+🎯 Processing 259/496: "Gai Shanxi and Her Sisters" (2007)
+[2025-09-09T05:33:40.061Z] 🔍 Searching: "Gai Shanxi and Her Sisters" (2007)
+[2025-09-09T05:33:40.459Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/ul2IcG94eLK0FqK3jhUO0oH3cuk.jpg
+[2025-09-09T05:33:40.459Z] 
+🎯 Processing 260/496: "'Doctor Zhivago': The Making of a Russian Epic" (1995)
+[2025-09-09T05:33:40.712Z] 🔍 Searching: "'Doctor Zhivago': The Making of a Russian Epic" (1995)
+[2025-09-09T05:33:41.087Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/z1tg9KYZhBdeRSk7vzAIZ7yS7q3.jpg
+[2025-09-09T05:33:41.088Z] 
+🎯 Processing 261/496: "Zhixi" (2005)
+[2025-09-09T05:33:41.347Z] 🔍 Searching: "Zhixi" (2005)
+[2025-09-09T05:33:41.748Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/u9TKhVNJ7k3H0NIzkhwFOOn1y1.jpg
+[2025-09-09T05:33:41.748Z] 
+🎯 Processing 262/496: "Youth of a Nation" (2005)
+[2025-09-09T05:33:42.013Z] 🔍 Searching: "Youth of a Nation" (2005)
+[2025-09-09T05:33:42.512Z] ❌ Movie not found on TMDB: "Youth of a Nation"
+[2025-09-09T05:33:42.513Z] 
+🎯 Processing 263/496: "Seven Man Made Wonders of the South" (2006)
+[2025-09-09T05:33:42.770Z] 🔍 Searching: "Seven Man Made Wonders of the South" (2006)
+[2025-09-09T05:33:43.148Z] ❌ Movie not found on TMDB: "Seven Man Made Wonders of the South"
+[2025-09-09T05:33:43.148Z] 
+🎯 Processing 264/496: "Fight for Life" (1987)
+[2025-09-09T05:33:43.405Z] 🔍 Searching: "Fight for Life" (1987)
+[2025-09-09T05:33:43.802Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/q1uOGhgsfFxaLmvPGwhfo9NYDQg.jpg
+[2025-09-09T05:33:43.803Z] ✅ Updated backdrop: https://image.tmdb.org/t/p/w1280/drgwCwmkZeBi7Cdi0Q7DkjxXtlo.jpg
+[2025-09-09T05:33:43.803Z] 
+🎯 Processing 265/496: "L.A. Vampire" (2010)
+[2025-09-09T05:33:44.069Z] 🔍 Searching: "L.A. Vampire" (2010)
+[2025-09-09T05:33:44.484Z] ❌ Movie not found on TMDB: "L.A. Vampire"
+[2025-09-09T05:33:44.485Z] 
+🎯 Processing 266/496: "When a King Came to Town" (2010)
+[2025-09-09T05:33:44.737Z] 🔍 Searching: "When a King Came to Town" (2010)
+[2025-09-09T05:33:45.105Z] ⚠️ No images found for "When a King Came to Town"
+[2025-09-09T05:33:45.105Z] 
+🎯 Processing 267/496: "Broken Side of Time" (2013)
+[2025-09-09T05:33:45.360Z] 🔍 Searching: "Broken Side of Time" (2013)
+[2025-09-09T05:33:46.186Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/tlAPdWL7p8dN2zjjuaCunitK6Ec.jpg
+[2025-09-09T05:33:46.186Z] ✅ Updated backdrop: https://image.tmdb.org/t/p/w1280/l3rV6fXeoNT2CMGcIlYDhJZuei6.jpg
+[2025-09-09T05:33:46.187Z] 
+🎯 Processing 268/496: "Ilhéu da Contenda" (1996)
+[2025-09-09T05:33:46.447Z] 🔍 Searching: "Ilhéu da Contenda" (1996)
+[2025-09-09T05:33:46.804Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/vMcAJqTBWjs8LDVhUXA3CB2RQ4U.jpg
+[2025-09-09T05:33:46.805Z] 
+🎯 Processing 269/496: "Alabados de Nuevo Mexico" (2005)
+[2025-09-09T05:33:47.065Z] 🔍 Searching: "Alabados de Nuevo Mexico" (2005)
+[2025-09-09T05:33:47.572Z] ❌ Movie not found on TMDB: "Alabados de Nuevo Mexico"
+[2025-09-09T05:33:47.573Z] 
+🎯 Processing 270/496: "The Virtual Corpse" (2003)
+[2025-09-09T05:33:47.826Z] 🔍 Searching: "The Virtual Corpse" (2003)
+[2025-09-09T05:33:48.261Z] ⚠️ No images found for "The Virtual Corpse"
+[2025-09-09T05:33:48.262Z] 
+🎯 Processing 271/496: "Soon" (2006)
+[2025-09-09T05:33:48.519Z] 🔍 Searching: "Soon" (2006)
+[2025-09-09T05:33:48.929Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/rXozu7eLKu3UFXAZTLhtrhQenUq.jpg
+[2025-09-09T05:33:48.931Z] ✅ Updated backdrop: https://image.tmdb.org/t/p/w1280/iEcxjfcpw5myTN77SXC81Se9Ane.jpg
+[2025-09-09T05:33:48.932Z] 
+🎯 Processing 272/496: "Okpik's Dream" (2015)
+[2025-09-09T05:33:49.197Z] 🔍 Searching: "Okpik's Dream" (2015)
+[2025-09-09T05:33:49.570Z] ❌ Movie not found on TMDB: "Okpik's Dream"
+[2025-09-09T05:33:49.570Z] 
+🎯 Processing 273/496: "My Little Pony: Dancing in the Clouds" (2004)
+[2025-09-09T05:33:49.830Z] 🔍 Searching: "My Little Pony: Dancing in the Clouds" (2004)
+[2025-09-09T05:33:50.204Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/vtqjr4lgNjjLhLDpnnpc2NECUGB.jpg
+[2025-09-09T05:33:50.204Z] ✅ Updated backdrop: https://image.tmdb.org/t/p/w1280/8E455OPLUyleqdsMqnWdhfqmwb0.jpg
+[2025-09-09T05:33:50.205Z] 
+🎯 Processing 274/496: "WCPW True Legacy" (2016)
+[2025-09-09T05:33:50.464Z] 🔍 Searching: "WCPW True Legacy" (2016)
+[2025-09-09T05:33:50.820Z] ❌ Movie not found on TMDB: "WCPW True Legacy"
+[2025-09-09T05:33:50.821Z] 
+🎯 Processing 275/496: "Dona Cristina Perdeu a Memória" (2002)
+[2025-09-09T05:33:51.081Z] 🔍 Searching: "Dona Cristina Perdeu a Memória" (2002)
+[2025-09-09T05:33:51.437Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/uFWJQDBQ9L6kuvqGBeZBkKRcRlW.jpg
+[2025-09-09T05:33:51.438Z] 
+🎯 Processing 276/496: "Le motorizzate" (1963)
+[2025-09-09T05:33:51.702Z] 🔍 Searching: "Le motorizzate" (1963)
+[2025-09-09T05:33:52.062Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/xBzLzjO4z1A5M6XLVLaDUwA6CnS.jpg
+[2025-09-09T05:33:52.063Z] ✅ Updated backdrop: https://image.tmdb.org/t/p/w1280/w8hSAGqK7Y0RFlHDgZ4ZJkTg61W.jpg
+[2025-09-09T05:33:52.063Z] 
+🎯 Processing 277/496: "The Batavia: Wreck" (Mutiny and Murder)
+[2025-09-09T05:33:52.317Z] 🔍 Searching: "The Batavia: Wreck" (Mutiny and Murder)
+[2025-09-09T05:33:52.732Z] ❌ Movie not found on TMDB: "The Batavia: Wreck"
+[2025-09-09T05:33:52.733Z] 
+🎯 Processing 278/496: "My Wife's Relatives" (1939)
+[2025-09-09T05:33:52.996Z] 🔍 Searching: "My Wife's Relatives" (1939)
+[2025-09-09T05:33:53.363Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/oceOllWqbdyzTk7J3eZ6tmgrEvr.jpg
+[2025-09-09T05:33:53.364Z] ✅ Updated backdrop: https://image.tmdb.org/t/p/w1280/WD0BPioePqRnC0IFtmzqmOvULX.jpg
+[2025-09-09T05:33:53.365Z] 
+🎯 Processing 279/496: "Edward Ford (????)" (1958)
+[2025-09-09T05:33:53.628Z] 🔍 Searching: "Edward Ford ????" (1958)
+[2025-09-09T05:33:54.085Z] ❌ Movie not found on TMDB: "Edward Ford (????)"
+[2025-09-09T05:33:54.086Z] 
+🎯 Processing 280/496: "\" (2013)
+[2025-09-09T05:33:54.338Z] 🔍 Searching: "\" (2013)
+[2025-09-09T05:33:54.638Z] ❌ Movie not found on TMDB: "\"
+[2025-09-09T05:33:54.639Z] 
+🎯 Processing 281/496: "Barn9: Chariots on Fire" (2017)
+[2025-09-09T05:33:54.895Z] 🔍 Searching: "Barn9: Chariots on Fire" (2017)
+[2025-09-09T05:33:55.312Z] ❌ Movie not found on TMDB: "Barn9: Chariots on Fire"
+[2025-09-09T05:33:55.313Z] 
+🎯 Processing 282/496: "Mickey Finn" (1991)
+[2025-09-09T05:33:55.576Z] 🔍 Searching: "Mickey Finn" (1991)
+[2025-09-09T05:33:55.924Z] ❌ Movie not found on TMDB: "Mickey Finn"
+[2025-09-09T05:33:55.925Z] 
+🎯 Processing 283/496: "Suicide" (the Comedy)
+[2025-09-09T05:33:56.181Z] 🔍 Searching: "Suicide" (the Comedy)
+[2025-09-09T05:33:56.604Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/wclaeqPip4tGB2UgqDwm1z8JvBU.jpg
+[2025-09-09T05:33:56.605Z] 
+🎯 Processing 284/496: "The Honor Code" (2012)
+[2025-09-09T05:33:56.871Z] 🔍 Searching: "The Honor Code" (2012)
+[2025-09-09T05:33:57.253Z] ⚠️ No images found for "The Honor Code"
+[2025-09-09T05:33:57.254Z] 
+🎯 Processing 285/496: "Chinese Chocolate Made in China" (2018)
+[2025-09-09T05:33:57.509Z] 🔍 Searching: "Chinese Chocolate Made in China" (2018)
+[2025-09-09T05:33:57.902Z] ❌ Movie not found on TMDB: "Chinese Chocolate Made in China"
+[2025-09-09T05:33:57.903Z] 
+🎯 Processing 286/496: "\" (1972)
+[2025-09-09T05:33:58.164Z] 🔍 Searching: "\" (1972)
+[2025-09-09T05:33:58.526Z] ❌ Movie not found on TMDB: "\"
+[2025-09-09T05:33:58.527Z] 
+🎯 Processing 287/496: "Afterparty" (1974)
+[2025-09-09T05:33:58.781Z] 🔍 Searching: "Afterparty" (1974)
+[2025-09-09T05:33:59.136Z] ❌ Movie not found on TMDB: "Afterparty"
+[2025-09-09T05:33:59.137Z] 
+🎯 Processing 288/496: "\" (2009)
+[2025-09-09T05:33:59.399Z] 🔍 Searching: "\" (2009)
+[2025-09-09T05:33:59.675Z] ❌ Movie not found on TMDB: "\"
+[2025-09-09T05:33:59.676Z] 
+🎯 Processing 289/496: "Faiâ enburemu hîrôzu" (2017)
+[2025-09-09T05:33:59.941Z] 🔍 Searching: "Faiâ enburemu hîrôzu" (2017)
+[2025-09-09T05:34:00.296Z] ❌ Movie not found on TMDB: "Faiâ enburemu hîrôzu"
+[2025-09-09T05:34:00.297Z] 
+🎯 Processing 290/496: "Sex" (1993)
+[2025-09-09T05:34:00.560Z] 🔍 Searching: "Sex" (1993)
+[2025-09-09T05:34:00.943Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/dR5Zf1Q8eYkjaLEbvaG1dD443C5.jpg
+[2025-09-09T05:34:00.943Z] 
+🎯 Processing 291/496: "The Concise John Lennon's New York" (2007)
+[2025-09-09T05:34:01.208Z] 🔍 Searching: "The Concise John Lennon's New York" (2007)
+[2025-09-09T05:34:01.636Z] ❌ Movie not found on TMDB: "The Concise John Lennon's New York"
+[2025-09-09T05:34:01.637Z] 
+🎯 Processing 292/496: "Dallas: J.R. Returns" (1996)
+[2025-09-09T05:34:01.891Z] 🔍 Searching: "Dallas: J.R. Returns" (1996)
+[2025-09-09T05:34:02.298Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/clqqA7rjIiy1bEUVJMQ5OhAC79t.jpg
+[2025-09-09T05:34:02.299Z] ✅ Updated backdrop: https://image.tmdb.org/t/p/w1280/u0T3q2B46z2WPRVNXbHvslrbbPG.jpg
+[2025-09-09T05:34:02.299Z] 
+🎯 Processing 293/496: "\" (2011)
+[2025-09-09T05:34:02.554Z] 🔍 Searching: "\" (2011)
+[2025-09-09T05:34:02.828Z] ❌ Movie not found on TMDB: "\"
+[2025-09-09T05:34:02.829Z] 
+🎯 Processing 294/496: "Ognuno per sé" (1968)
+[2025-09-09T05:34:03.092Z] 🔍 Searching: "Ognuno per sé" (1968)
+[2025-09-09T05:34:03.477Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/1zRFJOHQ8iLiuCPK9arQWBspJ70.jpg
+[2025-09-09T05:34:03.478Z] ✅ Updated backdrop: https://image.tmdb.org/t/p/w1280/fhGCvk78G0DyZoOe5Y1wLMqPcdM.jpg
+[2025-09-09T05:34:03.478Z] 
+🎯 Processing 295/496: "Bends" (2013)
+[2025-09-09T05:34:03.743Z] 🔍 Searching: "Bends" (2013)
+[2025-09-09T05:34:04.089Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/eR37EHOXs1GUugfGf2JCLtv0Zr.jpg
+[2025-09-09T05:34:04.090Z] ✅ Updated backdrop: https://image.tmdb.org/t/p/w1280/xA6EiytY2hZKgrjL5QL2ajWG1Gw.jpg
+[2025-09-09T05:34:04.091Z] 
+🎯 Processing 296/496: "Qué Despelote! La película" (2010)
+[2025-09-09T05:34:04.342Z] 🔍 Searching: "Qué Despelote! La película" (2010)
+[2025-09-09T05:34:04.696Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/9VLVoeLBV0PU7tj3ISxCijKknEh.jpg
+[2025-09-09T05:34:04.696Z] ✅ Updated backdrop: https://image.tmdb.org/t/p/w1280/bCoCgJdOAYXe28xSdNEudPgS3Mt.jpg
+[2025-09-09T05:34:04.697Z] 
+🎯 Processing 297/496: "The Dates" (2015)
+[2025-09-09T05:34:04.961Z] 🔍 Searching: "The Dates" (2015)
+[2025-09-09T05:34:05.334Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/7SeDsqYCmCFO7fNTzQ3GFp97sg8.jpg
+[2025-09-09T05:34:05.335Z] ✅ Updated backdrop: https://image.tmdb.org/t/p/w1280/iPGCpZq1l6LZ2yGTPar4PZf8Kkq.jpg
+[2025-09-09T05:34:05.335Z] 
+🎯 Processing 298/496: "Thrive: What on Earth Will it Take?" (2011)
+[2025-09-09T05:34:05.596Z] 🔍 Searching: "Thrive: What on Earth Will it Take?" (2011)
+[2025-09-09T05:34:05.946Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/A8TQcGsSg9BSAq2YGiYlFzBcSJ3.jpg
+[2025-09-09T05:34:05.946Z] ✅ Updated backdrop: https://image.tmdb.org/t/p/w1280/nZLnhGL3Zgus2LjvbBGiCNx6Py3.jpg
+[2025-09-09T05:34:05.947Z] 
+🎯 Processing 299/496: "Edgar's Lunch" (1998)
+[2025-09-09T05:34:06.201Z] 🔍 Searching: "Edgar's Lunch" (1998)
+[2025-09-09T05:34:06.612Z] ❌ Movie not found on TMDB: "Edgar's Lunch"
+[2025-09-09T05:34:06.613Z] 
+🎯 Processing 300/496: "The Laramie Trail" (1944)
+[2025-09-09T05:34:06.868Z] 🔍 Searching: "The Laramie Trail" (1944)
+[2025-09-09T05:34:07.227Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/togeBMSB9XSpNSqtrPfFyADnQuv.jpg
+[2025-09-09T05:34:07.228Z] ✅ Updated backdrop: https://image.tmdb.org/t/p/w1280/nAZp9aZbBxLzbXjjzK4whF1593s.jpg
+[2025-09-09T05:34:07.228Z] 
+💾 Saving progress... (300/496)
+[2025-09-09T05:34:07.230Z] ✅ Created backup at: D:\projects\cinemax\cinemax\src\data\movies_backup.js
+[2025-09-09T05:34:07.239Z] ✅ Updated movies.js successfully
+[2025-09-09T05:34:07.241Z] ✅ Updated CSV file with progress
+[2025-09-09T05:34:07.241Z] 
+🎯 Processing 301/496: "Blank City" (2010)
+[2025-09-09T05:34:07.502Z] 🔍 Searching: "Blank City" (2010)
+[2025-09-09T05:34:07.859Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/5BFBiatNSFECdvKSSE2tOT8cxP3.jpg
+[2025-09-09T05:34:07.859Z] ✅ Updated backdrop: https://image.tmdb.org/t/p/w1280/w2JSPj40o64vpoc7MqvLnDo7tY.jpg
+[2025-09-09T05:34:07.860Z] 
+🎯 Processing 302/496: "Rules of the Road" (1993)
+[2025-09-09T05:34:08.122Z] 🔍 Searching: "Rules of the Road" (1993)
+[2025-09-09T05:34:08.614Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/aKUaUWZaljx5wtytqaDPiEOgxwX.jpg
+[2025-09-09T05:34:08.615Z] ✅ Updated backdrop: https://image.tmdb.org/t/p/w1280/pN1TuQMGZzSVQUVZFt3nJWhxIu5.jpg
+[2025-09-09T05:34:08.615Z] 
+🎯 Processing 303/496: "Rebound: A Basketball Story" (2009)
+[2025-09-09T05:34:08.875Z] 🔍 Searching: "Rebound: A Basketball Story" (2009)
+[2025-09-09T05:34:09.267Z] ❌ Movie not found on TMDB: "Rebound: A Basketball Story"
+[2025-09-09T05:34:09.268Z] 
+🎯 Processing 304/496: "Run Home" (Slow)
+[2025-09-09T05:34:09.521Z] 🔍 Searching: "Run Home" (Slow)
+[2025-09-09T05:34:09.915Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/kGclAzPJobEy7qg7LNuFI9grNoh.jpg
+[2025-09-09T05:34:09.915Z] ✅ Updated backdrop: https://image.tmdb.org/t/p/w1280/71oBx4HShXiJbLwDudGjeY6mHFI.jpg
+[2025-09-09T05:34:09.916Z] 
+🎯 Processing 305/496: "The Brisbane Bard" (2012)
+[2025-09-09T05:34:10.167Z] 🔍 Searching: "The Brisbane Bard" (2012)
+[2025-09-09T05:34:10.558Z] ❌ Movie not found on TMDB: "The Brisbane Bard"
+[2025-09-09T05:34:10.558Z] 
+🎯 Processing 306/496: "The Whip" (1917)
+[2025-09-09T05:34:10.818Z] 🔍 Searching: "The Whip" (1917)
+[2025-09-09T05:34:11.223Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/58xphLHacUisXvbkySukT8KjnOe.jpg
+[2025-09-09T05:34:11.224Z] 
+🎯 Processing 307/496: "Maria Lai: Ansia d'infinito" (2009)
+[2025-09-09T05:34:11.481Z] 🔍 Searching: "Maria Lai: Ansia d'infinito" (2009)
+[2025-09-09T05:34:11.853Z] ❌ Movie not found on TMDB: "Maria Lai: Ansia d'infinito"
+[2025-09-09T05:34:11.854Z] 
+🎯 Processing 308/496: "La vida inesperada" (2013)
+[2025-09-09T05:34:12.112Z] 🔍 Searching: "La vida inesperada" (2013)
+[2025-09-09T05:34:12.477Z] ❌ Movie not found on TMDB: "La vida inesperada"
+[2025-09-09T05:34:12.477Z] 
+🎯 Processing 309/496: "Tba" (1998)
+[2025-09-09T05:34:12.731Z] 🔍 Searching: "Tba" (1998)
+[2025-09-09T05:34:13.184Z] ❌ Movie not found on TMDB: "Tba"
+[2025-09-09T05:34:13.185Z] 
+🎯 Processing 310/496: "Si Eva at si Adan" (1954)
+[2025-09-09T05:34:13.443Z] 🔍 Searching: "Si Eva at si Adan" (1954)
+[2025-09-09T05:34:13.847Z] ❌ Movie not found on TMDB: "Si Eva at si Adan"
+[2025-09-09T05:34:13.847Z] 
+🎯 Processing 311/496: "\" (2005)
+[2025-09-09T05:34:14.106Z] 🔍 Searching: "\" (2005)
+[2025-09-09T05:34:14.496Z] ❌ Movie not found on TMDB: "\"
+[2025-09-09T05:34:14.497Z] 
+🎯 Processing 312/496: "I Heard It Through the Grapevine" (1982)
+[2025-09-09T05:34:14.756Z] 🔍 Searching: "I Heard It Through the Grapevine" (1982)
+[2025-09-09T05:34:15.159Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/lJCNvyh2xuJy0a5rQFTTCsuzPEB.jpg
+[2025-09-09T05:34:15.160Z] 
+🎯 Processing 313/496: "Can't Get No Worse (????)" (1976)
+[2025-09-09T05:34:15.417Z] 🔍 Searching: "Can't Get No Worse ????" (1976)
+[2025-09-09T05:34:15.896Z] ❌ Movie not found on TMDB: "Can't Get No Worse (????)"
+[2025-09-09T05:34:15.896Z] 
+🎯 Processing 314/496: "Party Police: Wild on the Water" (2006)
+[2025-09-09T05:34:16.160Z] 🔍 Searching: "Party Police: Wild on the Water" (2006)
+[2025-09-09T05:34:16.610Z] ❌ Movie not found on TMDB: "Party Police: Wild on the Water"
+[2025-09-09T05:34:16.610Z] 
+🎯 Processing 315/496: "\" (2013)
+[2025-09-09T05:34:16.868Z] 🔍 Searching: "\" (2013)
+[2025-09-09T05:34:17.182Z] ❌ Movie not found on TMDB: "\"
+[2025-09-09T05:34:17.183Z] 
+🎯 Processing 316/496: "\" (2010)
+[2025-09-09T05:34:17.441Z] 🔍 Searching: "\" (2010)
+[2025-09-09T05:34:17.842Z] ❌ Movie not found on TMDB: "\"
+[2025-09-09T05:34:17.842Z] 
+🎯 Processing 317/496: "Yeoreumi gagi-jeone" (2006)
+[2025-09-09T05:34:18.107Z] 🔍 Searching: "Yeoreumi gagi-jeone" (2006)
+[2025-09-09T05:34:18.517Z] ❌ Movie not found on TMDB: "Yeoreumi gagi-jeone"
+[2025-09-09T05:34:18.518Z] 
+🎯 Processing 318/496: "Loverboy" (2003)
+[2025-09-09T05:34:18.773Z] 🔍 Searching: "Loverboy" (2003)
+[2025-09-09T05:34:19.161Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/6kMTbrXx9Fj3AnDRS8w2jmZY0Hz.jpg
+[2025-09-09T05:34:19.161Z] 
+🎯 Processing 319/496: "My Pet Monster" (1986)
+[2025-09-09T05:34:19.418Z] 🔍 Searching: "My Pet Monster" (1986)
+[2025-09-09T05:34:19.793Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/sBYdMOQN535k0Um2ulgC6xYpEVl.jpg
+[2025-09-09T05:34:19.794Z] ✅ Updated backdrop: https://image.tmdb.org/t/p/w1280/9YprwzofXUi4gliL6zvggxTgqqN.jpg
+[2025-09-09T05:34:19.795Z] 
+🎯 Processing 320/496: "Stars on Sports" (2013)
+[2025-09-09T05:34:20.051Z] 🔍 Searching: "Stars on Sports" (2013)
+[2025-09-09T05:34:20.406Z] ❌ Movie not found on TMDB: "Stars on Sports"
+[2025-09-09T05:34:20.407Z] 
+🎯 Processing 321/496: "The Kidnapping of the President" (1980)
+[2025-09-09T05:34:20.658Z] 🔍 Searching: "The Kidnapping of the President" (1980)
+[2025-09-09T05:34:21.009Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/ep51bKbJC5J39Xy0iP4WhPi29ro.jpg
+[2025-09-09T05:34:21.010Z] ✅ Updated backdrop: https://image.tmdb.org/t/p/w1280/cLvsqoqL59KKDLbiBTEKeklH3xh.jpg
+[2025-09-09T05:34:21.010Z] 
+🎯 Processing 322/496: "\" (2016)
+[2025-09-09T05:34:21.273Z] 🔍 Searching: "\" (2016)
+[2025-09-09T05:34:21.629Z] ❌ Movie not found on TMDB: "\"
+[2025-09-09T05:34:21.629Z] 
+🎯 Processing 323/496: "China Tidal Bore on the Qiantang River" (2009)
+[2025-09-09T05:34:21.889Z] 🔍 Searching: "China Tidal Bore on the Qiantang River" (2009)
+[2025-09-09T05:34:22.250Z] ❌ Movie not found on TMDB: "China Tidal Bore on the Qiantang River"
+[2025-09-09T05:34:22.251Z] 
+🎯 Processing 324/496: "The Dream Children" (2015)
+[2025-09-09T05:34:22.509Z] 🔍 Searching: "The Dream Children" (2015)
+[2025-09-09T05:34:23.007Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/6oUONl4MDtAeO1uwGTDP6Lpbzux.jpg
+[2025-09-09T05:34:23.008Z] ✅ Updated backdrop: https://image.tmdb.org/t/p/w1280/pKC6Z6Us8qmHOAWyvZ4d56u4116.jpg
+[2025-09-09T05:34:23.009Z] 
+🎯 Processing 325/496: "Licensed to Kill" (1997)
+[2025-09-09T05:34:23.268Z] 🔍 Searching: "Licensed to Kill" (1997)
+[2025-09-09T05:34:23.679Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/g3FmsJhJV4aQsM609HpIIYYMTrI.jpg
+[2025-09-09T05:34:23.680Z] ✅ Updated backdrop: https://image.tmdb.org/t/p/w1280/aXCCRAnmAdloRaEhPfdYEHcptuU.jpg
+[2025-09-09T05:34:23.681Z] 
+🎯 Processing 326/496: "In Search of a Memory" (2013)
+[2025-09-09T05:34:23.935Z] 🔍 Searching: "In Search of a Memory" (2013)
+[2025-09-09T05:34:24.353Z] ❌ Movie not found on TMDB: "In Search of a Memory"
+[2025-09-09T05:34:24.353Z] 
+🎯 Processing 327/496: "Damn" (New York)
+[2025-09-09T05:34:24.612Z] 🔍 Searching: "Damn" (New York)
+[2025-09-09T05:34:25.075Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/zLOE8eeTWpAXqWgICmAp2nKMiTP.jpg
+[2025-09-09T05:34:25.075Z] ✅ Updated backdrop: https://image.tmdb.org/t/p/w1280/7a4sj6208zkoWqBOlRwPXPhP4Eq.jpg
+[2025-09-09T05:34:25.076Z] 
+🎯 Processing 328/496: "Dark Desires: Eva" (1994)
+[2025-09-09T05:34:25.335Z] 🔍 Searching: "Dark Desires: Eva" (1994)
+[2025-09-09T05:34:25.687Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/mJccP17idLrV2wrmbBH4iBBXK6T.jpg
+[2025-09-09T05:34:25.687Z] 
+🎯 Processing 329/496: "Dareka no mokkin" (2016)
+[2025-09-09T05:34:25.953Z] 🔍 Searching: "Dareka no mokkin" (2016)
+[2025-09-09T05:34:26.346Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/l29AbE7hgCFyIi7eEugQOhP29Aw.jpg
+[2025-09-09T05:34:26.347Z] ✅ Updated backdrop: https://image.tmdb.org/t/p/w1280/6S8eyttgiISYZS2yu4g5nExguRf.jpg
+[2025-09-09T05:34:26.347Z] 
+🎯 Processing 330/496: "Damnesia" (2014)
+[2025-09-09T05:34:26.602Z] 🔍 Searching: "Damnesia" (2014)
+[2025-09-09T05:34:27.053Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/E9rKDJfx3Lru9aGmFhOqbg2udi.jpg
+[2025-09-09T05:34:27.054Z] ✅ Updated backdrop: https://image.tmdb.org/t/p/w1280/kTPP8LfTSkrtZr3pW5YYPV7dop4.jpg
+[2025-09-09T05:34:27.054Z] 
+🎯 Processing 331/496: "L'intrus" (2004)
+[2025-09-09T05:34:27.317Z] 🔍 Searching: "L'intrus" (2004)
+[2025-09-09T05:34:27.712Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/ogaUARGgXWmNSuh8qnFCcbqVvZL.jpg
+[2025-09-09T05:34:27.713Z] ✅ Updated backdrop: https://image.tmdb.org/t/p/w1280/jogWINBpTbACShEC4ScpSi3m8UY.jpg
+[2025-09-09T05:34:27.713Z] 
+🎯 Processing 332/496: "Can It Be Love" (1992)
+[2025-09-09T05:34:27.968Z] 🔍 Searching: "Can It Be Love" (1992)
+[2025-09-09T05:34:28.374Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/lfg3LRdatNIuEivuETMGOfRpN6U.jpg
+[2025-09-09T05:34:28.375Z] 
+🎯 Processing 333/496: "The Day of Five Billion" (1987)
+[2025-09-09T05:34:28.633Z] 🔍 Searching: "The Day of Five Billion" (1987)
+[2025-09-09T05:34:29.042Z] ❌ Movie not found on TMDB: "The Day of Five Billion"
+[2025-09-09T05:34:29.043Z] 
+🎯 Processing 334/496: "A Poet a City and a Footballer" (2015)
+[2025-09-09T05:34:29.299Z] 🔍 Searching: "A Poet a City and a Footballer" (2015)
+[2025-09-09T05:34:29.692Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/xsY6kzIVbPwZDcar46hx4lVBETK.jpg
+[2025-09-09T05:34:29.692Z] 
+🎯 Processing 335/496: "Stealing Summer" (2004)
+[2025-09-09T05:34:29.948Z] 🔍 Searching: "Stealing Summer" (2004)
+[2025-09-09T05:34:30.305Z] ❌ Movie not found on TMDB: "Stealing Summer"
+[2025-09-09T05:34:30.305Z] 
+🎯 Processing 336/496: "Sitting Bull" (1954)
+[2025-09-09T05:34:30.563Z] 🔍 Searching: "Sitting Bull" (1954)
+[2025-09-09T05:34:30.919Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/os1oEOxH8wuVNk1JlsWPyhPcjNk.jpg
+[2025-09-09T05:34:30.919Z] ✅ Updated backdrop: https://image.tmdb.org/t/p/w1280/sqCOOhfmbgM48uLlIauleMcCrZ9.jpg
+[2025-09-09T05:34:30.920Z] 
+🎯 Processing 337/496: "\" (2015)
+[2025-09-09T05:34:31.170Z] 🔍 Searching: "\" (2015)
+[2025-09-09T05:34:31.521Z] ❌ Movie not found on TMDB: "\"
+[2025-09-09T05:34:31.522Z] 
+🎯 Processing 338/496: "Actors' Transformation: The Work of Deena Levy and Her Students" (2003)
+[2025-09-09T05:34:31.786Z] 🔍 Searching: "Actors' Transformation: The Work of Deena Levy and Her Students" (2003)
+[2025-09-09T05:34:32.142Z] ❌ Movie not found on TMDB: "Actors' Transformation: The Work of Deena Levy and Her Students"
+[2025-09-09T05:34:32.143Z] 
+🎯 Processing 339/496: "\" (2008)
+[2025-09-09T05:34:32.405Z] 🔍 Searching: "\" (2008)
+[2025-09-09T05:34:32.774Z] ❌ Movie not found on TMDB: "\"
+[2025-09-09T05:34:32.774Z] 
+🎯 Processing 340/496: "The Gathering" (2008)
+[2025-09-09T05:34:33.037Z] 🔍 Searching: "The Gathering" (2008)
+[2025-09-09T05:34:33.410Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/5YWZ72h0Z0RC3JJGJNImhVjhtfB.jpg
+[2025-09-09T05:34:33.411Z] 
+🎯 Processing 341/496: "Lucas Encounters: The Heat of the Moment" (2006)
+[2025-09-09T05:34:33.675Z] 🔍 Searching: "Lucas Encounters: The Heat of the Moment" (2006)
+[2025-09-09T05:34:34.029Z] ❌ Movie not found on TMDB: "Lucas Encounters: The Heat of the Moment"
+[2025-09-09T05:34:34.029Z] 
+🎯 Processing 342/496: "La tigre dei sette mari" (1962)
+[2025-09-09T05:34:34.294Z] 🔍 Searching: "La tigre dei sette mari" (1962)
+[2025-09-09T05:34:34.661Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/qBgD4AFGZ6nVL95JesaslHWUPwX.jpg
+[2025-09-09T05:34:34.661Z] ✅ Updated backdrop: https://image.tmdb.org/t/p/w1280/8ATiwVhHi0VFNbAOykqtVEMLu9r.jpg
+[2025-09-09T05:34:34.662Z] 
+🎯 Processing 343/496: "Impossible Mission" (1984)
+[2025-09-09T05:34:34.926Z] 🔍 Searching: "Impossible Mission" (1984)
+[2025-09-09T05:34:35.276Z] ❌ Movie not found on TMDB: "Impossible Mission"
+[2025-09-09T05:34:35.276Z] 
+🎯 Processing 344/496: "Gender Troubles: The Butches" (2016)
+[2025-09-09T05:34:35.527Z] 🔍 Searching: "Gender Troubles: The Butches" (2016)
+[2025-09-09T05:34:35.923Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/gFe9SOIuTzyFZpll2dXUJYp9uDV.jpg
+[2025-09-09T05:34:35.923Z] 
+🎯 Processing 345/496: "Cattolica" (2004)
+[2025-09-09T05:34:36.175Z] 🔍 Searching: "Cattolica" (2004)
+[2025-09-09T05:34:36.577Z] ⚠️ No images found for "Cattolica"
+[2025-09-09T05:34:36.578Z] 
+🎯 Processing 346/496: "Shimokita surouraifu" (2009)
+[2025-09-09T05:34:36.836Z] 🔍 Searching: "Shimokita surouraifu" (2009)
+[2025-09-09T05:34:37.204Z] ❌ Movie not found on TMDB: "Shimokita surouraifu"
+[2025-09-09T05:34:37.205Z] 
+🎯 Processing 347/496: "Forever Young" (1983)
+[2025-09-09T05:34:37.471Z] 🔍 Searching: "Forever Young" (1983)
+[2025-09-09T05:34:37.859Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/bp407CecPvfdXTeXD80w19RqT2e.jpg
+[2025-09-09T05:34:37.860Z] 
+🎯 Processing 348/496: "Psychotronic FM" (2018)
+[2025-09-09T05:34:38.120Z] 🔍 Searching: "Psychotronic FM" (2018)
+[2025-09-09T05:34:38.540Z] ❌ Movie not found on TMDB: "Psychotronic FM"
+[2025-09-09T05:34:38.540Z] 
+🎯 Processing 349/496: "Malé letní blues" (1968)
+[2025-09-09T05:34:38.797Z] 🔍 Searching: "Malé letní blues" (1968)
+[2025-09-09T05:34:39.209Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/47X91V6TKm7LvxTvniFiAmnCQYV.jpg
+[2025-09-09T05:34:39.210Z] 
+🎯 Processing 350/496: "Riders" (2001)
+[2025-09-09T05:34:39.475Z] 🔍 Searching: "Riders" (2001)
+[2025-09-09T05:34:39.860Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/am9kfCppdSvlc1WkwdM2U3GdfVy.jpg
+[2025-09-09T05:34:39.861Z] 
+💾 Saving progress... (350/496)
+[2025-09-09T05:34:39.862Z] ✅ Created backup at: D:\projects\cinemax\cinemax\src\data\movies_backup.js
+[2025-09-09T05:34:39.871Z] ✅ Updated movies.js successfully
+[2025-09-09T05:34:39.874Z] ✅ Updated CSV file with progress
+[2025-09-09T05:34:39.874Z] 
+🎯 Processing 351/496: "\" (2015)
+[2025-09-09T05:34:40.139Z] 🔍 Searching: "\" (2015)
+[2025-09-09T05:34:40.442Z] ❌ Movie not found on TMDB: "\"
+[2025-09-09T05:34:40.442Z] 
+🎯 Processing 352/496: "Riders of the Badlands" (1941)
+[2025-09-09T05:34:40.693Z] 🔍 Searching: "Riders of the Badlands" (1941)
+[2025-09-09T05:34:41.085Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/bcz1dWheI69VGxUKnlnZjrorfwz.jpg
+[2025-09-09T05:34:41.085Z] ✅ Updated backdrop: https://image.tmdb.org/t/p/w1280/jA9IBVHssCGbwc0G0byGNO8je7D.jpg
+[2025-09-09T05:34:41.086Z] 
+🎯 Processing 353/496: "\" (2017)
+[2025-09-09T05:34:41.341Z] 🔍 Searching: "\" (2017)
+[2025-09-09T05:34:41.684Z] ❌ Movie not found on TMDB: "\"
+[2025-09-09T05:34:41.685Z] 
+🎯 Processing 354/496: "Burma Storybook" (2017)
+[2025-09-09T05:34:41.941Z] 🔍 Searching: "Burma Storybook" (2017)
+[2025-09-09T05:34:42.321Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/12OFKM4fhuI7lePzavpDXeQzA9L.jpg
+[2025-09-09T05:34:42.322Z] 
+🎯 Processing 355/496: "Palace Beach Hotel" (2014)
+[2025-09-09T05:34:42.583Z] 🔍 Searching: "Palace Beach Hotel" (2014)
+[2025-09-09T05:34:42.948Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/r8uscC3fWRNaqGTo2WNq3EWYTpp.jpg
+[2025-09-09T05:34:42.949Z] ✅ Updated backdrop: https://image.tmdb.org/t/p/w1280/yheqS8yjPksBNS8FYn3aLPDMLOs.jpg
+[2025-09-09T05:34:42.949Z] 
+🎯 Processing 356/496: "Guerillas in Pink Lace" (1964)
+[2025-09-09T05:34:43.203Z] 🔍 Searching: "Guerillas in Pink Lace" (1964)
+[2025-09-09T05:34:43.583Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/xHoFUK1TdyceNe2b61IO1cKnfMO.jpg
+[2025-09-09T05:34:43.583Z] ✅ Updated backdrop: https://image.tmdb.org/t/p/w1280/87Cqn8jfzT9M8kYYBOcuEYnz6xt.jpg
+[2025-09-09T05:34:43.584Z] 
+🎯 Processing 357/496: "Voices in the Tunnels" (2008)
+[2025-09-09T05:34:43.839Z] 🔍 Searching: "Voices in the Tunnels" (2008)
+[2025-09-09T05:34:44.312Z] ⚠️ No images found for "Voices in the Tunnels"
+[2025-09-09T05:34:44.312Z] 
+🎯 Processing 358/496: "Lullaby (????/V)" (1974)
+[2025-09-09T05:34:44.565Z] 🔍 Searching: "Lullaby ????/V" (1974)
+[2025-09-09T05:34:44.974Z] ❌ Movie not found on TMDB: "Lullaby (????/V)"
+[2025-09-09T05:34:44.975Z] 
+🎯 Processing 359/496: "Stalked!" (2002)
+[2025-09-09T05:34:45.226Z] 🔍 Searching: "Stalked!" (2002)
+[2025-09-09T05:34:45.678Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/mt0EcOz54uIFyVB1d6aRZKFB1Ph.jpg
+[2025-09-09T05:34:45.679Z] 
+🎯 Processing 360/496: "Gion no shimai" (1936)
+[2025-09-09T05:34:45.938Z] 🔍 Searching: "Gion no shimai" (1936)
+[2025-09-09T05:34:46.298Z] ❌ Movie not found on TMDB: "Gion no shimai"
+[2025-09-09T05:34:46.299Z] 
+🎯 Processing 361/496: "Dead John" (2015)
+[2025-09-09T05:34:46.558Z] 🔍 Searching: "Dead John" (2015)
+[2025-09-09T05:34:47.257Z] ❌ Movie not found on TMDB: "Dead John"
+[2025-09-09T05:34:47.257Z] 
+🎯 Processing 362/496: "Sweet Brother of Mine (????)" (1989)
+[2025-09-09T05:34:47.521Z] 🔍 Searching: "Sweet Brother of Mine ????" (1989)
+[2025-09-09T05:34:47.895Z] ❌ Movie not found on TMDB: "Sweet Brother of Mine (????)"
+[2025-09-09T05:34:47.896Z] 
+🎯 Processing 363/496: "The Couch Trip" (1988)
+[2025-09-09T05:34:48.152Z] 🔍 Searching: "The Couch Trip" (1988)
+[2025-09-09T05:34:48.515Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/jk0qx7XyFYKK1flXbxO1N3z6zAd.jpg
+[2025-09-09T05:34:48.516Z] ✅ Updated backdrop: https://image.tmdb.org/t/p/w1280/hSklMIxwYZzQyrg3QfCZ2HbjF3Y.jpg
+[2025-09-09T05:34:48.517Z] 
+🎯 Processing 364/496: "Cut" (1998)
+[2025-09-09T05:34:48.767Z] 🔍 Searching: "Cut" (1998)
+[2025-09-09T05:34:49.169Z] ⚠️ No images found for "Cut"
+[2025-09-09T05:34:49.170Z] 
+🎯 Processing 365/496: "Las heridas del viento" (2017)
+[2025-09-09T05:34:49.431Z] 🔍 Searching: "Las heridas del viento" (2017)
+[2025-09-09T05:34:49.857Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/8vnowdbd5aX7mNMIGZMsJ7TeNdo.jpg
+[2025-09-09T05:34:49.857Z] ✅ Updated backdrop: https://image.tmdb.org/t/p/w1280/wKKnrCiNW8ytqIN37d4SH2IuEl1.jpg
+[2025-09-09T05:34:49.858Z] 
+🎯 Processing 366/496: "O poulimenos anthropos" (1967)
+[2025-09-09T05:34:50.111Z] 🔍 Searching: "O poulimenos anthropos" (1967)
+[2025-09-09T05:34:50.493Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/gOfNbBzON7vuISNv9bIC6UhMCsl.jpg
+[2025-09-09T05:34:50.494Z] 
+🎯 Processing 367/496: "Vive nous!" (2000)
+[2025-09-09T05:34:50.745Z] 🔍 Searching: "Vive nous!" (2000)
+[2025-09-09T05:34:51.095Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/yAfnlg7bnuQuuUzV56Zr4mER2jp.jpg
+[2025-09-09T05:34:51.095Z] ✅ Updated backdrop: https://image.tmdb.org/t/p/w1280/j9d1dh5FwEdppTisVJOLg5Fdv3J.jpg
+[2025-09-09T05:34:51.096Z] 
+🎯 Processing 368/496: "Jumadong" (1961)
+[2025-09-09T05:34:51.347Z] 🔍 Searching: "Jumadong" (1961)
+[2025-09-09T05:34:51.710Z] ❌ Movie not found on TMDB: "Jumadong"
+[2025-09-09T05:34:51.711Z] 
+🎯 Processing 369/496: "Nancy LaMott: I'll Be Here with You" (2008)
+[2025-09-09T05:34:51.968Z] 🔍 Searching: "Nancy LaMott: I'll Be Here with You" (2008)
+[2025-09-09T05:34:52.324Z] ❌ Movie not found on TMDB: "Nancy LaMott: I'll Be Here with You"
+[2025-09-09T05:34:52.324Z] 
+🎯 Processing 370/496: "Famous Street Heat Vol.2" (2007)
+[2025-09-09T05:34:52.588Z] 🔍 Searching: "Famous Street Heat Vol.2" (2007)
+[2025-09-09T05:34:53.098Z] ❌ Movie not found on TMDB: "Famous Street Heat Vol.2"
+[2025-09-09T05:34:53.099Z] 
+🎯 Processing 371/496: "J.A.W. Braker (????)" (1960)
+[2025-09-09T05:34:53.362Z] 🔍 Searching: "J.A.W. Braker ????" (1960)
+[2025-09-09T05:34:53.721Z] ❌ Movie not found on TMDB: "J.A.W. Braker (????)"
+[2025-09-09T05:34:53.722Z] 
+🎯 Processing 372/496: "I Know the Way to the Hofbrauhaus" (1991)
+[2025-09-09T05:34:53.978Z] 🔍 Searching: "I Know the Way to the Hofbrauhaus" (1991)
+[2025-09-09T05:34:54.383Z] ❌ Movie not found on TMDB: "I Know the Way to the Hofbrauhaus"
+[2025-09-09T05:34:54.384Z] 
+🎯 Processing 373/496: "Om inte" (2001)
+[2025-09-09T05:34:54.642Z] 🔍 Searching: "Om inte" (2001)
+[2025-09-09T05:34:55.050Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/uqUvPRn1605gvGBGU9UqRWkE7ao.jpg
+[2025-09-09T05:34:55.050Z] ✅ Updated backdrop: https://image.tmdb.org/t/p/w1280/rcl5ksTvrB5DSpfIILu2Yjgo8sh.jpg
+[2025-09-09T05:34:55.051Z] 
+🎯 Processing 374/496: "I Am Not Sam (????)" (1963)
+[2025-09-09T05:34:55.313Z] 🔍 Searching: "I Am Not Sam ????" (1963)
+[2025-09-09T05:34:55.731Z] ❌ Movie not found on TMDB: "I Am Not Sam (????)"
+[2025-09-09T05:34:55.731Z] 
+🎯 Processing 375/496: "Some Call It Heaven" (2007)
+[2025-09-09T05:34:55.994Z] 🔍 Searching: "Some Call It Heaven" (2007)
+[2025-09-09T05:34:56.370Z] ❌ Movie not found on TMDB: "Some Call It Heaven"
+[2025-09-09T05:34:56.371Z] 
+🎯 Processing 376/496: "Raíces" (1954)
+[2025-09-09T05:34:56.626Z] 🔍 Searching: "Raíces" (1954)
+[2025-09-09T05:34:57.032Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/e9TPig33RGa9WoTDiD4dbDB6Mp4.jpg
+[2025-09-09T05:34:57.033Z] ✅ Updated backdrop: https://image.tmdb.org/t/p/w1280/v915qm6GcBZ9OxNmZjvssyfvLAP.jpg
+[2025-09-09T05:34:57.034Z] 
+🎯 Processing 377/496: "Come inguaiammo l'esercito" (1965)
+[2025-09-09T05:34:57.294Z] 🔍 Searching: "Come inguaiammo l'esercito" (1965)
+[2025-09-09T05:34:57.730Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/egZhgLMne1CuJ0SxMDwaUjISJrc.jpg
+[2025-09-09T05:34:57.731Z] ✅ Updated backdrop: https://image.tmdb.org/t/p/w1280/iZRdGsgGfefbljk9p5KeIsn7eF5.jpg
+[2025-09-09T05:34:57.732Z] 
+🎯 Processing 378/496: "Endless Orgy for the Goddess of Perversion" (2008)
+[2025-09-09T05:34:57.993Z] 🔍 Searching: "Endless Orgy for the Goddess of Perversion" (2008)
+[2025-09-09T05:34:58.361Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/12eS5IYta23nZxyVSWyGN74NbZW.jpg
+[2025-09-09T05:34:58.362Z] 
+🎯 Processing 379/496: "Something to Live for: The Alison Gertz Story" (1992)
+[2025-09-09T05:34:58.615Z] 🔍 Searching: "Something to Live for: The Alison Gertz Story" (1992)
+[2025-09-09T05:34:59.012Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/3ovS9oXfoi3ZJCW9TJTRn0I6wXl.jpg
+[2025-09-09T05:34:59.012Z] ✅ Updated backdrop: https://image.tmdb.org/t/p/w1280/sjCeWzkwqoDMKlDD6YYQOKFy3ph.jpg
+[2025-09-09T05:34:59.013Z] 
+🎯 Processing 380/496: "Circle of Fate" (1994)
+[2025-09-09T05:34:59.267Z] 🔍 Searching: "Circle of Fate" (1994)
+[2025-09-09T05:34:59.665Z] ❌ Movie not found on TMDB: "Circle of Fate"
+[2025-09-09T05:34:59.665Z] 
+🎯 Processing 381/496: "13 Days in April" (2003)
+[2025-09-09T05:34:59.930Z] 🔍 Searching: "13 Days in April" (2003)
+[2025-09-09T05:35:00.288Z] ❌ Movie not found on TMDB: "13 Days in April"
+[2025-09-09T05:35:00.289Z] 
+🎯 Processing 382/496: "\" (2009)
+[2025-09-09T05:35:00.547Z] 🔍 Searching: "\" (2009)
+[2025-09-09T05:35:00.794Z] ❌ Movie not found on TMDB: "\"
+[2025-09-09T05:35:00.794Z] 
+🎯 Processing 383/496: "Running Out of Time in Hollywood" (2006)
+[2025-09-09T05:35:01.059Z] 🔍 Searching: "Running Out of Time in Hollywood" (2006)
+[2025-09-09T05:35:01.416Z] ❌ Movie not found on TMDB: "Running Out of Time in Hollywood"
+[2025-09-09T05:35:01.417Z] 
+🎯 Processing 384/496: "\" (2014)
+[2025-09-09T05:35:01.675Z] 🔍 Searching: "\" (2014)
+[2025-09-09T05:35:01.922Z] ❌ Movie not found on TMDB: "\"
+[2025-09-09T05:35:01.923Z] 
+🎯 Processing 385/496: "Star Quality" (2002)
+[2025-09-09T05:35:02.185Z] 🔍 Searching: "Star Quality" (2002)
+[2025-09-09T05:35:02.544Z] ⚠️ No images found for "Star Quality"
+[2025-09-09T05:35:02.545Z] 
+🎯 Processing 386/496: "De weg naar het zuiden" (1981)
+[2025-09-09T05:35:02.805Z] 🔍 Searching: "De weg naar het zuiden" (1981)
+[2025-09-09T05:35:03.261Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/8RHmX8qLya7hloxdOBzyzKDySH5.jpg
+[2025-09-09T05:35:03.262Z] 
+🎯 Processing 387/496: "Angkor" (1935)
+[2025-09-09T05:35:03.516Z] 🔍 Searching: "Angkor" (1935)
+[2025-09-09T05:35:03.907Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/6W3ChA6ChgpkZnhISLsv8nHGSvz.jpg
+[2025-09-09T05:35:03.908Z] ✅ Updated backdrop: https://image.tmdb.org/t/p/w1280/5l4VNgJjQcstDEnguEDFULHM8Tt.jpg
+[2025-09-09T05:35:03.908Z] 
+🎯 Processing 388/496: "Bruges-La-Morte" (1978)
+[2025-09-09T05:35:04.166Z] 🔍 Searching: "Bruges-La-Morte" (1978)
+[2025-09-09T05:35:04.596Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/ziRFmRf1MEiqOQtrzSDxRd8fLhV.jpg
+[2025-09-09T05:35:04.596Z] ✅ Updated backdrop: https://image.tmdb.org/t/p/w1280/3wccz73sjYfCK0PAYZMoOFKnHOW.jpg
+[2025-09-09T05:35:04.597Z] 
+🎯 Processing 389/496: "Alcohol" (Tobacco and Firearms)
+[2025-09-09T05:35:04.861Z] 🔍 Searching: "Alcohol" (Tobacco and Firearms)
+[2025-09-09T05:35:05.261Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/tNhesZfrQEqe2wX7bw68jtgoJC5.jpg
+[2025-09-09T05:35:05.261Z] 
+🎯 Processing 390/496: "Avatar: Production Materials" (2010)
+[2025-09-09T05:35:05.515Z] 🔍 Searching: "Avatar: Production Materials" (2010)
+[2025-09-09T05:35:05.952Z] ❌ Movie not found on TMDB: "Avatar: Production Materials"
+[2025-09-09T05:35:05.953Z] 
+🎯 Processing 391/496: "\" (1985)
+[2025-09-09T05:35:06.211Z] 🔍 Searching: "\" (1985)
+[2025-09-09T05:35:06.488Z] ❌ Movie not found on TMDB: "\"
+[2025-09-09T05:35:06.488Z] 
+🎯 Processing 392/496: "Corky's Hot Ice" (2009)
+[2025-09-09T05:35:06.748Z] 🔍 Searching: "Corky's Hot Ice" (2009)
+[2025-09-09T05:35:07.127Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/1oks9MHFW3HZQJonDmv1Wv5UPNA.jpg
+[2025-09-09T05:35:07.128Z] 
+🎯 Processing 393/496: "\" (2000)
+[2025-09-09T05:35:07.381Z] 🔍 Searching: "\" (2000)
+[2025-09-09T05:35:07.810Z] ❌ Movie not found on TMDB: "\"
+[2025-09-09T05:35:07.811Z] 
+🎯 Processing 394/496: "Fallen Guardian Angels" (2015)
+[2025-09-09T05:35:08.064Z] 🔍 Searching: "Fallen Guardian Angels" (2015)
+[2025-09-09T05:35:08.496Z] ❌ Movie not found on TMDB: "Fallen Guardian Angels"
+[2025-09-09T05:35:08.497Z] 
+🎯 Processing 395/496: "La Caja de Música" (2014)
+[2025-09-09T05:35:08.761Z] 🔍 Searching: "La Caja de Música" (2014)
+[2025-09-09T05:35:09.154Z] ❌ Movie not found on TMDB: "La Caja de Música"
+[2025-09-09T05:35:09.154Z] 
+🎯 Processing 396/496: "Les sous-doués" (1980)
+[2025-09-09T05:35:09.412Z] 🔍 Searching: "Les sous-doués" (1980)
+[2025-09-09T05:35:09.783Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/rbYoFUzstYpGw1A2UYDSh7SqQOn.jpg
+[2025-09-09T05:35:09.783Z] ✅ Updated backdrop: https://image.tmdb.org/t/p/w1280/fmjI1xAQaxeqeVBLYcIm1NSw9Y2.jpg
+[2025-09-09T05:35:09.784Z] 
+🎯 Processing 397/496: "Fight for the Planet" (2009)
+[2025-09-09T05:35:10.047Z] 🔍 Searching: "Fight for the Planet" (2009)
+[2025-09-09T05:35:10.403Z] ❌ Movie not found on TMDB: "Fight for the Planet"
+[2025-09-09T05:35:10.403Z] 
+🎯 Processing 398/496: "The Hammer and the Locksmith" (2012)
+[2025-09-09T05:35:10.667Z] 🔍 Searching: "The Hammer and the Locksmith" (2012)
+[2025-09-09T05:35:11.039Z] ❌ Movie not found on TMDB: "The Hammer and the Locksmith"
+[2025-09-09T05:35:11.040Z] 
+🎯 Processing 399/496: "Fortnight" (2010)
+[2025-09-09T05:35:11.300Z] 🔍 Searching: "Fortnight" (2010)
+[2025-09-09T05:35:11.649Z] ❌ Movie not found on TMDB: "Fortnight"
+[2025-09-09T05:35:11.651Z] 
+🎯 Processing 400/496: "One Foot in Hell" (2013)
+[2025-09-09T05:35:11.901Z] 🔍 Searching: "One Foot in Hell" (2013)
+[2025-09-09T05:35:12.264Z] ❌ Movie not found on TMDB: "One Foot in Hell"
+[2025-09-09T05:35:12.265Z] 
+💾 Saving progress... (400/496)
+[2025-09-09T05:35:12.267Z] ✅ Created backup at: D:\projects\cinemax\cinemax\src\data\movies_backup.js
+[2025-09-09T05:35:12.277Z] ✅ Updated movies.js successfully
+[2025-09-09T05:35:12.279Z] ✅ Updated CSV file with progress
+[2025-09-09T05:35:12.279Z] 
+🎯 Processing 401/496: "La Machina" (2010)
+[2025-09-09T05:35:12.532Z] 🔍 Searching: "La Machina" (2010)
+[2025-09-09T05:35:12.887Z] ❌ Movie not found on TMDB: "La Machina"
+[2025-09-09T05:35:12.888Z] 
+🎯 Processing 402/496: "Fighting Paisanos" (2013)
+[2025-09-09T05:35:13.151Z] 🔍 Searching: "Fighting Paisanos" (2013)
+[2025-09-09T05:35:13.514Z] ❌ Movie not found on TMDB: "Fighting Paisanos"
+[2025-09-09T05:35:13.514Z] 
+🎯 Processing 403/496: "La Casa Rosada" (2016)
+[2025-09-09T05:35:13.770Z] 🔍 Searching: "La Casa Rosada" (2016)
+[2025-09-09T05:35:14.121Z] ❌ Movie not found on TMDB: "La Casa Rosada"
+[2025-09-09T05:35:14.122Z] 
+🎯 Processing 404/496: "Bing du" (2014)
+[2025-09-09T05:35:14.374Z] 🔍 Searching: "Bing du" (2014)
+[2025-09-09T05:35:14.729Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/5k7Kgd0npiiUAPXFci4DtsZttKW.jpg
+[2025-09-09T05:35:14.729Z] 
+🎯 Processing 405/496: "Danger Has Two Faces" (1967)
+[2025-09-09T05:35:14.988Z] 🔍 Searching: "Danger Has Two Faces" (1967)
+[2025-09-09T05:35:15.387Z] ❌ Movie not found on TMDB: "Danger Has Two Faces"
+[2025-09-09T05:35:15.387Z] 
+🎯 Processing 406/496: "\" (2002)
+[2025-09-09T05:35:15.653Z] 🔍 Searching: "\" (2002)
+[2025-09-09T05:35:16.135Z] ❌ Movie not found on TMDB: "\"
+[2025-09-09T05:35:16.136Z] 
+🎯 Processing 407/496: "Too Outrageous Animation" (1995)
+[2025-09-09T05:35:16.390Z] 🔍 Searching: "Too Outrageous Animation" (1995)
+[2025-09-09T05:35:16.769Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/5lRCrnNXKxKqscvUwLoUB9cOTDt.jpg
+[2025-09-09T05:35:16.769Z] 
+🎯 Processing 408/496: "Saharer Itikatha" (1960)
+[2025-09-09T05:35:17.024Z] 🔍 Searching: "Saharer Itikatha" (1960)
+[2025-09-09T05:35:17.386Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/25qQtwgbpuqS0U8ZqJwAgiVIzAQ.jpg
+[2025-09-09T05:35:17.387Z] 
+🎯 Processing 409/496: "Dance Aerobics" (1999)
+[2025-09-09T05:35:17.644Z] 🔍 Searching: "Dance Aerobics" (1999)
+[2025-09-09T05:35:18.059Z] ❌ Movie not found on TMDB: "Dance Aerobics"
+[2025-09-09T05:35:18.060Z] 
+🎯 Processing 410/496: "Pros and Cons: Behind the Scenes" (2011)
+[2025-09-09T05:35:18.312Z] 🔍 Searching: "Pros and Cons: Behind the Scenes" (2011)
+[2025-09-09T05:35:18.683Z] ❌ Movie not found on TMDB: "Pros and Cons: Behind the Scenes"
+[2025-09-09T05:35:18.683Z] 
+🎯 Processing 411/496: "Daybreak" (2001)
+[2025-09-09T05:35:18.949Z] 🔍 Searching: "Daybreak" (2001)
+[2025-09-09T05:35:19.301Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/pk7u9Pvm5e8Zef2UiosM3aDi5Z6.jpg
+[2025-09-09T05:35:19.302Z] ✅ Updated backdrop: https://image.tmdb.org/t/p/w1280/4j2ZMgGF8rNIoIYnRPPlT7sGb5e.jpg
+[2025-09-09T05:35:19.303Z] 
+🎯 Processing 412/496: "Romy and Michele's High School Reunion" (1997)
+[2025-09-09T05:35:19.554Z] 🔍 Searching: "Romy and Michele's High School Reunion" (1997)
+[2025-09-09T05:35:19.911Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/eKpsk0SNNWNMDAq57MdX6g64r1h.jpg
+[2025-09-09T05:35:19.912Z] ✅ Updated backdrop: https://image.tmdb.org/t/p/w1280/95R4RyA1Y0qLC9GxF0aNSQgnmlX.jpg
+[2025-09-09T05:35:19.913Z] 
+🎯 Processing 413/496: "Sand Trap (????)" (2018)
+[2025-09-09T05:35:20.175Z] 🔍 Searching: "Sand Trap ????" (2018)
+[2025-09-09T05:35:20.615Z] ❌ Movie not found on TMDB: "Sand Trap (????)"
+[2025-09-09T05:35:20.616Z] 
+🎯 Processing 414/496: "Khaidi" (1983)
+[2025-09-09T05:35:20.870Z] 🔍 Searching: "Khaidi" (1983)
+[2025-09-09T05:35:21.282Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/3kgb36zGhcIm7W8zRQyySGydyvI.jpg
+[2025-09-09T05:35:21.282Z] ✅ Updated backdrop: https://image.tmdb.org/t/p/w1280/e7XAceWMz6x8HekrDMLtcPFzV7o.jpg
+[2025-09-09T05:35:21.283Z] 
+🎯 Processing 415/496: "Mi ricordo ancora" (1978)
+[2025-09-09T05:35:21.536Z] 🔍 Searching: "Mi ricordo ancora" (1978)
+[2025-09-09T05:35:21.919Z] ❌ Movie not found on TMDB: "Mi ricordo ancora"
+[2025-09-09T05:35:21.920Z] 
+🎯 Processing 416/496: "Angels Sing: Christmas in Ireland" (2013)
+[2025-09-09T05:35:22.181Z] 🔍 Searching: "Angels Sing: Christmas in Ireland" (2013)
+[2025-09-09T05:35:22.574Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/uW92QH1LbrreQTrOwZOflMTKmrM.jpg
+[2025-09-09T05:35:22.574Z] ✅ Updated backdrop: https://image.tmdb.org/t/p/w1280/2wZRr5u67N8XGcqRm4Ze5e2vkfd.jpg
+[2025-09-09T05:35:22.575Z] 
+🎯 Processing 417/496: "Krampus Unleashed" (2016)
+[2025-09-09T05:35:22.831Z] 🔍 Searching: "Krampus Unleashed" (2016)
+[2025-09-09T05:35:23.245Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/3bEhCy21U7TNF1UjRgrMF8USCN0.jpg
+[2025-09-09T05:35:23.246Z] ✅ Updated backdrop: https://image.tmdb.org/t/p/w1280/akytSvJaGcpIzSmLUSmXf5VO1vA.jpg
+[2025-09-09T05:35:23.246Z] 
+🎯 Processing 418/496: "Crippled Creek" (2005)
+[2025-09-09T05:35:23.498Z] 🔍 Searching: "Crippled Creek" (2005)
+[2025-09-09T05:35:23.905Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/6pNP2PcCitBg3fCPSL20asAUYwj.jpg
+[2025-09-09T05:35:23.906Z] 
+🎯 Processing 419/496: "\" (2015)
+[2025-09-09T05:35:24.164Z] 🔍 Searching: "\" (2015)
+[2025-09-09T05:35:24.426Z] ❌ Movie not found on TMDB: "\"
+[2025-09-09T05:35:24.427Z] 
+🎯 Processing 420/496: "Reunited" (2012)
+[2025-09-09T05:35:24.691Z] 🔍 Searching: "Reunited" (2012)
+[2025-09-09T05:35:25.044Z] ❌ Movie not found on TMDB: "Reunited"
+[2025-09-09T05:35:25.045Z] 
+🎯 Processing 421/496: "Hu bian chun meng" (1927)
+[2025-09-09T05:35:25.296Z] 🔍 Searching: "Hu bian chun meng" (1927)
+[2025-09-09T05:35:25.655Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/xCPZNdahM4ieqpto0hH3Och7j6M.jpg
+[2025-09-09T05:35:25.656Z] 
+🎯 Processing 422/496: "Los noms del paisatge" (2013)
+[2025-09-09T05:35:25.914Z] 🔍 Searching: "Los noms del paisatge" (2013)
+[2025-09-09T05:35:26.342Z] ❌ Movie not found on TMDB: "Los noms del paisatge"
+[2025-09-09T05:35:26.343Z] 
+🎯 Processing 423/496: "Tupianas" (2016)
+[2025-09-09T05:35:26.596Z] 🔍 Searching: "Tupianas" (2016)
+[2025-09-09T05:35:27.025Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/xzQTl8fHvXBBzsObsW3GeuH2R32.jpg
+[2025-09-09T05:35:27.025Z] 
+🎯 Processing 424/496: "Checkmate" (2003)
+[2025-09-09T05:35:27.291Z] 🔍 Searching: "Checkmate" (2003)
+[2025-09-09T05:35:27.670Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/7bYE03Nfd2VgRMOr380zqzd60Ze.jpg
+[2025-09-09T05:35:27.670Z] 
+🎯 Processing 425/496: "Around Shimanto" (2015)
+[2025-09-09T05:35:27.923Z] 🔍 Searching: "Around Shimanto" (2015)
+[2025-09-09T05:35:28.456Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/cXtRT7vFGk3o5ZFinBtvw9V1NEZ.jpg
+[2025-09-09T05:35:28.456Z] ✅ Updated backdrop: https://image.tmdb.org/t/p/w1280/4DZ6fKefvPhBKAyvrYgGDFnKJY.jpg
+[2025-09-09T05:35:28.457Z] 
+🎯 Processing 426/496: "\" (2014)
+[2025-09-09T05:35:28.710Z] 🔍 Searching: "\" (2014)
+[2025-09-09T05:35:29.006Z] ❌ Movie not found on TMDB: "\"
+[2025-09-09T05:35:29.007Z] 
+🎯 Processing 427/496: "MakeItRain.TV" (2012)
+[2025-09-09T05:35:29.263Z] 🔍 Searching: "MakeItRain.TV" (2012)
+[2025-09-09T05:35:29.650Z] ❌ Movie not found on TMDB: "MakeItRain.TV"
+[2025-09-09T05:35:29.650Z] 
+🎯 Processing 428/496: "Queridísimos verdugos" (1977)
+[2025-09-09T05:35:29.912Z] 🔍 Searching: "Queridísimos verdugos" (1977)
+[2025-09-09T05:35:30.330Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/b3jhEYXW0rcoawLnRz8AbZ6wOfj.jpg
+[2025-09-09T05:35:30.330Z] ✅ Updated backdrop: https://image.tmdb.org/t/p/w1280/ufQDJSdSvwpnK8GdHACp5WxMWbz.jpg
+[2025-09-09T05:35:30.331Z] 
+🎯 Processing 429/496: "Shadow Over Elveron" (1968)
+[2025-09-09T05:35:30.591Z] 🔍 Searching: "Shadow Over Elveron" (1968)
+[2025-09-09T05:35:30.985Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/mcidoel4u2QDgz1F45Qdlvrzsmu.jpg
+[2025-09-09T05:35:30.985Z] ✅ Updated backdrop: https://image.tmdb.org/t/p/w1280/teKuyrFeqMJjazu786sxPMwKXQs.jpg
+[2025-09-09T05:35:30.986Z] 
+🎯 Processing 430/496: "The Tunguska Project" (2005)
+[2025-09-09T05:35:31.239Z] 🔍 Searching: "The Tunguska Project" (2005)
+[2025-09-09T05:35:31.621Z] ❌ Movie not found on TMDB: "The Tunguska Project"
+[2025-09-09T05:35:31.622Z] 
+🎯 Processing 431/496: "Eko eko azaraku II" (1996)
+[2025-09-09T05:35:31.885Z] 🔍 Searching: "Eko eko azaraku II" (1996)
+[2025-09-09T05:35:32.278Z] ❌ Movie not found on TMDB: "Eko eko azaraku II"
+[2025-09-09T05:35:32.278Z] 
+🎯 Processing 432/496: "Black Harvest" (2014)
+[2025-09-09T05:35:32.537Z] 🔍 Searching: "Black Harvest" (2014)
+[2025-09-09T05:35:32.889Z] ❌ Movie not found on TMDB: "Black Harvest"
+[2025-09-09T05:35:32.890Z] 
+🎯 Processing 433/496: "Négociant" (2017)
+[2025-09-09T05:35:33.145Z] 🔍 Searching: "Négociant" (2017)
+[2025-09-09T05:35:33.589Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/iiNe6bXh7lxMWHLp81EO5A2fXcR.jpg
+[2025-09-09T05:35:33.589Z] 
+🎯 Processing 434/496: "Ek Hans Ka Jora" (1975)
+[2025-09-09T05:35:33.854Z] 🔍 Searching: "Ek Hans Ka Jora" (1975)
+[2025-09-09T05:35:34.257Z] ❌ Movie not found on TMDB: "Ek Hans Ka Jora"
+[2025-09-09T05:35:34.258Z] 
+🎯 Processing 435/496: "Jeff Wall: Retrospective" (2007)
+[2025-09-09T05:35:34.519Z] 🔍 Searching: "Jeff Wall: Retrospective" (2007)
+[2025-09-09T05:35:34.904Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/eXewv4M79fjP5ijsLnZBJWeCXSh.jpg
+[2025-09-09T05:35:34.905Z] ✅ Updated backdrop: https://image.tmdb.org/t/p/w1280/pj5GXRCAe3BbZrlFxBXLGFgAYtM.jpg
+[2025-09-09T05:35:34.905Z] 
+🎯 Processing 436/496: "Ship of Theseus" (2012)
+[2025-09-09T05:35:35.168Z] 🔍 Searching: "Ship of Theseus" (2012)
+[2025-09-09T05:35:35.570Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/t75n1cm3uZXl4WQj8U9UcfBRmWC.jpg
+[2025-09-09T05:35:35.570Z] ✅ Updated backdrop: https://image.tmdb.org/t/p/w1280/442KB0zDUd69ecKTqaQulnZsKst.jpg
+[2025-09-09T05:35:35.571Z] 
+🎯 Processing 437/496: "The Quiet Storm" (2004)
+[2025-09-09T05:35:35.832Z] 🔍 Searching: "The Quiet Storm" (2004)
+[2025-09-09T05:35:36.214Z] ❌ Movie not found on TMDB: "The Quiet Storm"
+[2025-09-09T05:35:36.215Z] 
+🎯 Processing 438/496: "The Hippies Beat (A.K.A Wet Hippies) (????)" (2019)
+[2025-09-09T05:35:36.467Z] 🔍 Searching: "The Hippies Beat A.K.A Wet Hippies ????" (2019)
+[2025-09-09T05:35:36.918Z] ❌ Movie not found on TMDB: "The Hippies Beat (A.K.A Wet Hippies) (????)"
+[2025-09-09T05:35:36.919Z] 
+🎯 Processing 439/496: "Midwayers (????)" (1981)
+[2025-09-09T05:35:37.181Z] 🔍 Searching: "Midwayers ????" (1981)
+[2025-09-09T05:35:37.610Z] ❌ Movie not found on TMDB: "Midwayers (????)"
+[2025-09-09T05:35:37.611Z] 
+🎯 Processing 440/496: "Morgan's Last Raid" (1929)
+[2025-09-09T05:35:37.876Z] 🔍 Searching: "Morgan's Last Raid" (1929)
+[2025-09-09T05:35:38.274Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/aybawoFvCQDu5cKKgE2aASwXIJa.jpg
+[2025-09-09T05:35:38.275Z] ✅ Updated backdrop: https://image.tmdb.org/t/p/w1280/1sjO273czmJhMMtEWNW0MBSkw5s.jpg
+[2025-09-09T05:35:38.276Z] 
+🎯 Processing 441/496: "\" (2004)
+[2025-09-09T05:35:38.538Z] 🔍 Searching: "\" (2004)
+[2025-09-09T05:35:38.914Z] ❌ Movie not found on TMDB: "\"
+[2025-09-09T05:35:38.914Z] 
+🎯 Processing 442/496: "Potraga" (1956)
+[2025-09-09T05:35:39.167Z] 🔍 Searching: "Potraga" (1956)
+[2025-09-09T05:35:39.525Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/vIBBIYwsvaPpFuFu7pgWa9QIrBN.jpg
+[2025-09-09T05:35:39.526Z] ✅ Updated backdrop: https://image.tmdb.org/t/p/w1280/3JkPZYCKIUL6bGalk3IZGZjDg4k.jpg
+[2025-09-09T05:35:39.526Z] 
+🎯 Processing 443/496: "Talk It Up TV- A Horse Rescue-Fuzz Therapy" (2015)
+[2025-09-09T05:35:39.790Z] 🔍 Searching: "Talk It Up TV- A Horse Rescue-Fuzz Therapy" (2015)
+[2025-09-09T05:35:40.179Z] ❌ Movie not found on TMDB: "Talk It Up TV- A Horse Rescue-Fuzz Therapy"
+[2025-09-09T05:35:40.180Z] 
+🎯 Processing 444/496: "World's Biggest Penis" (2006)
+[2025-09-09T05:35:40.439Z] 🔍 Searching: "World's Biggest Penis" (2006)
+[2025-09-09T05:35:40.828Z] ❌ Movie not found on TMDB: "World's Biggest Penis"
+[2025-09-09T05:35:40.828Z] 
+🎯 Processing 445/496: "Punching the Clown" (2009)
+[2025-09-09T05:35:41.089Z] 🔍 Searching: "Punching the Clown" (2009)
+[2025-09-09T05:35:41.469Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/5MUlQpNjWXHzfI1YcRB0MCtOvnP.jpg
+[2025-09-09T05:35:41.470Z] 
+🎯 Processing 446/496: "\" (2006)
+[2025-09-09T05:35:41.734Z] 🔍 Searching: "\" (2006)
+[2025-09-09T05:35:42.470Z] ❌ Movie not found on TMDB: "\"
+[2025-09-09T05:35:42.470Z] 
+🎯 Processing 447/496: "\" (2014)
+[2025-09-09T05:35:42.725Z] 🔍 Searching: "\" (2014)
+[2025-09-09T05:35:42.978Z] ❌ Movie not found on TMDB: "\"
+[2025-09-09T05:35:42.979Z] 
+🎯 Processing 448/496: "Michael Jackson" (2009)
+[2025-09-09T05:35:43.232Z] 🔍 Searching: "Michael Jackson" (2009)
+[2025-09-09T05:35:43.614Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/kzcsTkgQjt7DDYqHf7PQcaw21z1.jpg
+[2025-09-09T05:35:43.615Z] 
+🎯 Processing 449/496: "Anna Nicole Smith: Exposed" (1998)
+[2025-09-09T05:35:43.880Z] 🔍 Searching: "Anna Nicole Smith: Exposed" (1998)
+[2025-09-09T05:35:44.322Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/zFEV2cFjZ0aXUSz3824gshApV3I.jpg
+[2025-09-09T05:35:44.323Z] 
+🎯 Processing 450/496: "Fucking My Way Back Home (????)" (2006)
+[2025-09-09T05:35:44.574Z] 🔍 Searching: "Fucking My Way Back Home ????" (2006)
+[2025-09-09T05:35:44.997Z] ❌ Movie not found on TMDB: "Fucking My Way Back Home (????)"
+[2025-09-09T05:35:44.997Z] 
+💾 Saving progress... (450/496)
+[2025-09-09T05:35:44.999Z] ✅ Created backup at: D:\projects\cinemax\cinemax\src\data\movies_backup.js
+[2025-09-09T05:35:45.008Z] ✅ Updated movies.js successfully
+[2025-09-09T05:35:45.011Z] ✅ Updated CSV file with progress
+[2025-09-09T05:35:45.011Z] 
+🎯 Processing 451/496: "Vraiment soeurs" (1958)
+[2025-09-09T05:35:45.267Z] 🔍 Searching: "Vraiment soeurs" (1958)
+[2025-09-09T05:35:45.739Z] ❌ Movie not found on TMDB: "Vraiment soeurs"
+[2025-09-09T05:35:45.739Z] 
+🎯 Processing 452/496: "Comedown" (2012)
+[2025-09-09T05:35:45.996Z] 🔍 Searching: "Comedown" (2012)
+[2025-09-09T05:35:46.357Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/zYAjYMFq41Cqg6vGoKWHJoZMuiw.jpg
+[2025-09-09T05:35:46.358Z] ✅ Updated backdrop: https://image.tmdb.org/t/p/w1280/1vmnZTqVmuUF55yb2Nd8T2pZmOq.jpg
+[2025-09-09T05:35:46.358Z] 
+🎯 Processing 453/496: "Shoot Out in Swansea: The Making of 'Twin Town'" (1997)
+[2025-09-09T05:35:46.609Z] 🔍 Searching: "Shoot Out in Swansea: The Making of 'Twin Town'" (1997)
+[2025-09-09T05:35:47.011Z] ❌ Movie not found on TMDB: "Shoot Out in Swansea: The Making of 'Twin Town'"
+[2025-09-09T05:35:47.012Z] 
+🎯 Processing 454/496: "The Tragic Side of Fame" (2011)
+[2025-09-09T05:35:47.275Z] 🔍 Searching: "The Tragic Side of Fame" (2011)
+[2025-09-09T05:35:47.732Z] ❌ Movie not found on TMDB: "The Tragic Side of Fame"
+[2025-09-09T05:35:47.733Z] 
+🎯 Processing 455/496: "\" (2016)
+[2025-09-09T05:35:47.990Z] 🔍 Searching: "\" (2016)
+[2025-09-09T05:35:48.329Z] ❌ Movie not found on TMDB: "\"
+[2025-09-09T05:35:48.330Z] 
+🎯 Processing 456/496: "C'est la vie parisienne" (1954)
+[2025-09-09T05:35:48.581Z] 🔍 Searching: "C'est la vie parisienne" (1954)
+[2025-09-09T05:35:48.970Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/A771Adse28w0PViN3006J5MS4VL.jpg
+[2025-09-09T05:35:48.971Z] ✅ Updated backdrop: https://image.tmdb.org/t/p/w1280/3IL9QKFOMEh6Eay4jPcsbEKFfBj.jpg
+[2025-09-09T05:35:48.972Z] 
+🎯 Processing 457/496: "Wer liebt" (hat Recht)
+[2025-09-09T05:35:49.230Z] 🔍 Searching: "Wer liebt" (hat Recht)
+[2025-09-09T05:35:49.612Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/a2sKsRMO7VZl0IHamvMde2FaJCM.jpg
+[2025-09-09T05:35:49.613Z] ✅ Updated backdrop: https://image.tmdb.org/t/p/w1280/11rTPjd0PNax3mnESmxss3KE8Yg.jpg
+[2025-09-09T05:35:49.614Z] 
+🎯 Processing 458/496: "Lotte" (2016)
+[2025-09-09T05:35:49.877Z] 🔍 Searching: "Lotte" (2016)
+[2025-09-09T05:35:50.279Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/bM0zQkYnGp0HaJvrqhFVqCS389d.jpg
+[2025-09-09T05:35:50.280Z] ✅ Updated backdrop: https://image.tmdb.org/t/p/w1280/rSy617oCiD8pS7rOmU2gOF20mFG.jpg
+[2025-09-09T05:35:50.281Z] 
+🎯 Processing 459/496: "Uno tra la folla" (1946)
+[2025-09-09T05:35:50.541Z] 🔍 Searching: "Uno tra la folla" (1946)
+[2025-09-09T05:35:50.995Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/hLkzoTyID0XdGY9JmR2wZRRloKN.jpg
+[2025-09-09T05:35:50.996Z] 
+🎯 Processing 460/496: "Men of Boys Town" (1941)
+[2025-09-09T05:35:51.252Z] 🔍 Searching: "Men of Boys Town" (1941)
+[2025-09-09T05:35:51.612Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/nFJEkWQY9D5WBsaA3PfhwOYqwHu.jpg
+[2025-09-09T05:35:51.613Z] ✅ Updated backdrop: https://image.tmdb.org/t/p/w1280/cdFKUIxnLtDaQV850ArvKvDmVlM.jpg
+[2025-09-09T05:35:51.613Z] 
+🎯 Processing 461/496: "Lyubka" (2009)
+[2025-09-09T05:35:51.870Z] 🔍 Searching: "Lyubka" (2009)
+[2025-09-09T05:35:52.257Z] ❌ Movie not found on TMDB: "Lyubka"
+[2025-09-09T05:35:52.257Z] 
+🎯 Processing 462/496: "Out of Focus" (2009)
+[2025-09-09T05:35:52.518Z] 🔍 Searching: "Out of Focus" (2009)
+[2025-09-09T05:35:52.920Z] ❌ Movie not found on TMDB: "Out of Focus"
+[2025-09-09T05:35:52.920Z] 
+🎯 Processing 463/496: "Crossed Earth" (2008)
+[2025-09-09T05:35:53.182Z] 🔍 Searching: "Crossed Earth" (2008)
+[2025-09-09T05:35:53.531Z] ❌ Movie not found on TMDB: "Crossed Earth"
+[2025-09-09T05:35:53.532Z] 
+🎯 Processing 464/496: "Big Weekend" (2011)
+[2025-09-09T05:35:53.784Z] 🔍 Searching: "Big Weekend" (2011)
+[2025-09-09T05:35:54.137Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/7Lpk8o9SxjRkV6A8gObGXzfDwMW.jpg
+[2025-09-09T05:35:54.138Z] ✅ Updated backdrop: https://image.tmdb.org/t/p/w1280/162SlvDUYiSftom4Y03KfC1hMZl.jpg
+[2025-09-09T05:35:54.139Z] 
+🎯 Processing 465/496: "\" (2011)
+[2025-09-09T05:35:54.402Z] 🔍 Searching: "\" (2011)
+[2025-09-09T05:35:54.648Z] ❌ Movie not found on TMDB: "\"
+[2025-09-09T05:35:54.649Z] 
+🎯 Processing 466/496: "The Last Frontier" (1999)
+[2025-09-09T05:35:54.913Z] 🔍 Searching: "The Last Frontier" (1999)
+[2025-09-09T05:35:55.279Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/oBB4npl8v18TjiF4nbCpCVI4WEG.jpg
+[2025-09-09T05:35:55.280Z] ✅ Updated backdrop: https://image.tmdb.org/t/p/w1280/iXVGdceBKHF9bOfxmRxrY59U9Bg.jpg
+[2025-09-09T05:35:55.280Z] 
+🎯 Processing 467/496: "\" (2010)
+[2025-09-09T05:35:55.545Z] 🔍 Searching: "\" (2010)
+[2025-09-09T05:35:55.821Z] ❌ Movie not found on TMDB: "\"
+[2025-09-09T05:35:55.821Z] 
+🎯 Processing 468/496: "Law of the Northwest" (1943)
+[2025-09-09T05:35:56.086Z] 🔍 Searching: "Law of the Northwest" (1943)
+[2025-09-09T05:35:56.482Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/zQ6Zb1NFKWDGj3Ut9vRrZOlWdn3.jpg
+[2025-09-09T05:35:56.482Z] ✅ Updated backdrop: https://image.tmdb.org/t/p/w1280/dFsNk8BCYokY9eG38EK5udYXTyG.jpg
+[2025-09-09T05:35:56.483Z] 
+🎯 Processing 469/496: "Wildly Available" (1996)
+[2025-09-09T05:35:56.735Z] 🔍 Searching: "Wildly Available" (1996)
+[2025-09-09T05:35:57.175Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/ulwS4S1DfceDkq0NtpbtxwwbTBJ.jpg
+[2025-09-09T05:35:57.176Z] 
+🎯 Processing 470/496: "\" (2008)
+[2025-09-09T05:35:57.432Z] 🔍 Searching: "\" (2008)
+[2025-09-09T05:35:57.697Z] ❌ Movie not found on TMDB: "\"
+[2025-09-09T05:35:57.698Z] 
+🎯 Processing 471/496: "51 Dons (????)" (1964)
+[2025-09-09T05:35:57.958Z] 🔍 Searching: "51 Dons ????" (1964)
+[2025-09-09T05:35:58.310Z] ❌ Movie not found on TMDB: "51 Dons (????)"
+[2025-09-09T05:35:58.310Z] 
+🎯 Processing 472/496: "\" (2016)
+[2025-09-09T05:35:58.565Z] 🔍 Searching: "\" (2016)
+[2025-09-09T05:35:58.871Z] ❌ Movie not found on TMDB: "\"
+[2025-09-09T05:35:58.872Z] 
+🎯 Processing 473/496: "27: A Love Story (????)" (1972)
+[2025-09-09T05:35:59.124Z] 🔍 Searching: "27: A Love Story ????" (1972)
+[2025-09-09T05:35:59.585Z] ❌ Movie not found on TMDB: "27: A Love Story (????)"
+[2025-09-09T05:35:59.586Z] 
+🎯 Processing 474/496: "Jälki elämässä - 4 tarinaa kidutuksesta" (2011)
+[2025-09-09T05:35:59.849Z] 🔍 Searching: "Jälki elämässä - 4 tarinaa kidutuksesta" (2011)
+[2025-09-09T05:36:00.230Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/xv7b39DnpNyVwUjK9Big3zUrfsV.jpg
+[2025-09-09T05:36:00.231Z] 
+🎯 Processing 475/496: "Movement (R)evolution Africa" (2007)
+[2025-09-09T05:36:00.484Z] 🔍 Searching: "Movement Revolution Africa" (2007)
+[2025-09-09T05:36:00.852Z] ❌ Movie not found on TMDB: "Movement (R)evolution Africa"
+[2025-09-09T05:36:00.853Z] 
+🎯 Processing 476/496: "Green Fields (????)" (1953)
+[2025-09-09T05:36:01.116Z] 🔍 Searching: "Green Fields ????" (1953)
+[2025-09-09T05:36:01.463Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/wclL05D6ffeVCdVFAitER8xY5jn.jpg
+[2025-09-09T05:36:01.463Z] 
+🎯 Processing 477/496: "Camp FEMA" (2009)
+[2025-09-09T05:36:01.722Z] 🔍 Searching: "Camp FEMA" (2009)
+[2025-09-09T05:36:02.090Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/ljSRTSHp102r6FGgQU1RqlB0l9N.jpg
+[2025-09-09T05:36:02.091Z] 
+🎯 Processing 478/496: "\" (2017)
+[2025-09-09T05:36:02.355Z] 🔍 Searching: "\" (2017)
+[2025-09-09T05:36:02.604Z] ❌ Movie not found on TMDB: "\"
+[2025-09-09T05:36:02.605Z] 
+🎯 Processing 479/496: "Life of a Mountain: A Year on Scafell Pike" (2014)
+[2025-09-09T05:36:02.868Z] 🔍 Searching: "Life of a Mountain: A Year on Scafell Pike" (2014)
+[2025-09-09T05:36:03.225Z] ❌ Movie not found on TMDB: "Life of a Mountain: A Year on Scafell Pike"
+[2025-09-09T05:36:03.225Z] 
+🎯 Processing 480/496: "\" (2007)
+[2025-09-09T05:36:03.487Z] 🔍 Searching: "\" (2007)
+[2025-09-09T05:36:03.901Z] ❌ Movie not found on TMDB: "\"
+[2025-09-09T05:36:03.902Z] 
+🎯 Processing 481/496: "Counting Headz: South Afrika's Sistaz in Hip Hop" (2007)
+[2025-09-09T05:36:04.168Z] 🔍 Searching: "Counting Headz: South Afrika's Sistaz in Hip Hop" (2007)
+[2025-09-09T05:36:04.534Z] ❌ Movie not found on TMDB: "Counting Headz: South Afrika's Sistaz in Hip Hop"
+[2025-09-09T05:36:04.534Z] 
+🎯 Processing 482/496: "The Reveal (????)" (2015)
+[2025-09-09T05:36:04.788Z] 🔍 Searching: "The Reveal ????" (2015)
+[2025-09-09T05:36:05.207Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/rJhDkL5xC3uGsIEuhDafexL7Lsj.jpg
+[2025-09-09T05:36:05.209Z] ✅ Updated backdrop: https://image.tmdb.org/t/p/w1280/64QkGfqYUsaVerP0AeTKNnuYrG1.jpg
+[2025-09-09T05:36:05.209Z] 
+🎯 Processing 483/496: "Passion in the Sun" (1964)
+[2025-09-09T05:36:05.469Z] 🔍 Searching: "Passion in the Sun" (1964)
+[2025-09-09T05:36:05.892Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/rgHr4oRI0uleCi9eQV8347Ty3Oy.jpg
+[2025-09-09T05:36:05.893Z] ✅ Updated backdrop: https://image.tmdb.org/t/p/w1280/j1ZEwH2Es2QsuPud33VJvazDHPu.jpg
+[2025-09-09T05:36:05.893Z] 
+🎯 Processing 484/496: "Against All Odds" (2018)
+[2025-09-09T05:36:06.152Z] 🔍 Searching: "Against All Odds" (2018)
+[2025-09-09T05:36:06.509Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/5lAxlWRicqyrkoendjCz8gLzUZj.jpg
+[2025-09-09T05:36:06.509Z] 
+🎯 Processing 485/496: "Hard Car - Desiderio sfrenato del piacere" (1989)
+[2025-09-09T05:36:06.775Z] 🔍 Searching: "Hard Car - Desiderio sfrenato del piacere" (1989)
+[2025-09-09T05:36:07.233Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/xZGHFXKxBeZF6NkNWodrJ3dqUVS.jpg
+[2025-09-09T05:36:07.233Z] 
+🎯 Processing 486/496: "Mawali No.1" (2002)
+[2025-09-09T05:36:07.487Z] 🔍 Searching: "Mawali No.1" (2002)
+[2025-09-09T05:36:07.883Z] ❌ Movie not found on TMDB: "Mawali No.1"
+[2025-09-09T05:36:07.884Z] 
+🎯 Processing 487/496: "If We Picked the Winners" (1998)
+[2025-09-09T05:36:08.139Z] 🔍 Searching: "If We Picked the Winners" (1998)
+[2025-09-09T05:36:08.890Z] ❌ Movie not found on TMDB: "If We Picked the Winners"
+[2025-09-09T05:36:08.891Z] 
+🎯 Processing 488/496: "The Other Side: A Paranormal Documentary" (2013)
+[2025-09-09T05:36:09.147Z] 🔍 Searching: "The Other Side: A Paranormal Documentary" (2013)
+[2025-09-09T05:36:09.537Z] ❌ Movie not found on TMDB: "The Other Side: A Paranormal Documentary"
+[2025-09-09T05:36:09.538Z] 
+🎯 Processing 489/496: "Yolcu" (1963)
+[2025-09-09T05:36:09.802Z] 🔍 Searching: "Yolcu" (1963)
+[2025-09-09T05:36:10.244Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/zxYVFHsQGB2DALmIpTheXjTwFNi.jpg
+[2025-09-09T05:36:10.245Z] ✅ Updated backdrop: https://image.tmdb.org/t/p/w1280/ql4XLTUhEMCB46upRMlWPHzc3aq.jpg
+[2025-09-09T05:36:10.245Z] 
+🎯 Processing 490/496: "In Flags or Flitters: Pictures of Dublin" (1993)
+[2025-09-09T05:36:10.499Z] 🔍 Searching: "In Flags or Flitters: Pictures of Dublin" (1993)
+[2025-09-09T05:36:10.894Z] ❌ Movie not found on TMDB: "In Flags or Flitters: Pictures of Dublin"
+[2025-09-09T05:36:10.894Z] 
+🎯 Processing 491/496: "China Gold Rush" (2000)
+[2025-09-09T05:36:11.150Z] 🔍 Searching: "China Gold Rush" (2000)
+[2025-09-09T05:36:11.598Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/3HjSVVHXZ7zWY78Vzoa1z91UZ9A.jpg
+[2025-09-09T05:36:11.598Z] 
+🎯 Processing 492/496: "Secrets of a Secretary" (1931)
+[2025-09-09T05:36:11.849Z] 🔍 Searching: "Secrets of a Secretary" (1931)
+[2025-09-09T05:36:12.377Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/hJEzDT8UrKGigpEeH1NIU7ZCLNb.jpg
+[2025-09-09T05:36:12.377Z] ✅ Updated backdrop: https://image.tmdb.org/t/p/w1280/kd1TJvAklbav7s5xne2MnzKEdKh.jpg
+[2025-09-09T05:36:12.378Z] 
+🎯 Processing 493/496: "Gangbang" (2016)
+[2025-09-09T05:36:12.641Z] 🔍 Searching: "Gangbang" (2016)
+[2025-09-09T05:36:13.081Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/eS9P45S0XAYKIBe4i3p6l5WY3OR.jpg
+[2025-09-09T05:36:13.082Z] ✅ Updated backdrop: https://image.tmdb.org/t/p/w1280/cOmO1ZuhaHyj7ZFehMQQa8dlSUg.jpg
+[2025-09-09T05:36:13.082Z] 
+🎯 Processing 494/496: "Rubbadubbers: Tubb's Pirate Treasure" (2004)
+[2025-09-09T05:36:13.338Z] 🔍 Searching: "Rubbadubbers: Tubb's Pirate Treasure" (2004)
+[2025-09-09T05:36:13.722Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/ftI5B6QjZutfqwTcgDcAnOSpIEK.jpg
+[2025-09-09T05:36:13.723Z] ✅ Updated backdrop: https://image.tmdb.org/t/p/w1280/9EbuCoFZiJ2h5l5VUaEITqecQ81.jpg
+[2025-09-09T05:36:13.724Z] 
+🎯 Processing 495/496: "My Life as a Bus Stop" (2007)
+[2025-09-09T05:36:13.975Z] 🔍 Searching: "My Life as a Bus Stop" (2007)
+[2025-09-09T05:36:14.334Z] ❌ Movie not found on TMDB: "My Life as a Bus Stop"
+[2025-09-09T05:36:14.335Z] 
+🎯 Processing 496/496: "Trapped in Katrina" (2009)
+[2025-09-09T05:36:14.596Z] 🔍 Searching: "Trapped in Katrina" (2009)
+[2025-09-09T05:36:14.952Z] ✅ Updated poster: https://image.tmdb.org/t/p/w500/dZwcdD7l6TcP2IRw1kQfTDLEIiR.jpg
+[2025-09-09T05:36:14.953Z] 
+💾 Saving final results...
+[2025-09-09T05:36:14.955Z] ✅ Created backup at: D:\projects\cinemax\cinemax\src\data\movies_backup.js
+[2025-09-09T05:36:14.963Z] ✅ Updated movies.js successfully
+[2025-09-09T05:36:14.966Z] ✅ Updated CSV file with progress
+[2025-09-09T05:36:14.966Z] 
+🎉 Movie image replacement completed!
+[2025-09-09T05:36:14.966Z] 📊 Summary:
+[2025-09-09T05:36:14.967Z]    • Total processed: 496
+[2025-09-09T05:36:14.967Z]    • Successfully updated: 230
+[2025-09-09T05:36:14.967Z]    • Failed to find: 266
+[2025-09-09T05:36:14.968Z]    • API requests made: 496
+[2025-09-09T05:36:14.968Z] 📁 Log file saved: D:\projects\cinemax\cinemax\image_replacement_log.txt
+[2025-09-09T05:36:14.969Z] 💾 Backup created: D:\projects\cinemax\cinemax\src\data\movies_backup.js

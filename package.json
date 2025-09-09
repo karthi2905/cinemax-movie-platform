@@ -58,7 +58,10 @@
   "scripts": {
     "start": "vite",
     "build": "vite build --sourcemap",
-    "serve": "vite preview"
+    "serve": "vite preview",
+    "test-tmdb": "node src/scripts/testTMDB.js",
+    "replace-images": "node src/scripts/replaceMovieImages.js",
+    "extract-images": "node src/scripts/extractMovieImages.js"
   },
   "eslintConfig": {
     "extends": [

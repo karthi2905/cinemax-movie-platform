@@ -9,6 +9,7 @@ import SearchResults from './pages/search-results';
 import Login from './pages/login';
 import MovieDetails from './pages/movie-details';
 import Register from './pages/register';
+import Recommendations from './pages/Recommendations';
 
 const Routes = () => {
   return (
@@ -24,6 +25,7 @@ const Routes = () => {
         <Route path="/login" element={<Login />} />
         <Route path="/movie-details/:id" element={<MovieDetails />} />
         <Route path="/register" element={<Register />} />
+        <Route path="/recommendations" element={<Recommendations />} />
         <Route path="*" element={<NotFound />} />
       </RouterRoutes>
       </ErrorBoundary>
